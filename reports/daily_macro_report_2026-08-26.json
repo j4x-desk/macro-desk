@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-27",
-  "generated_at": "2026-08-27T02:35:00Z",
-  "macro_regime": "USD firmer post-PCE \u00b7 Jackson Hole week \u00b7 Gold consolidates \u00b7 BTC steady",
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T02:53:00Z",
+  "macro_regime": "USD soft \u00b7 Core PCE / GDP day \u00b7 Jackson Hole week \u00b7 Gold/BTC debasement bid continues",
   "strongest": "GBP",
   "weakest": "CHF",
   "top_setup": "LONG GBP/CHF",
@@ -10,10 +10,10 @@
   "high_prob_setups": [
     "LONG GBP/CHF (+15)",
     "LONG AUD/CHF (+15)",
-    "LONG EUR/CHF (+12)",
-    "LONG GBP/USD (+11)"
+    "LONG GBP/USD (+12)",
+    "LONG AUD/USD (+12)"
   ],
-  "narrative": "GBP & AUD still lead \u00b7 CHF lags. Core PCE 3.3% YoY / 0.2% MoM (in line, sticky) + Durable Goods +1.1% beat \u2014 mild USD support but not enough to flip soft regime. GDP 2nd est unrevised 1.5%. Jobless Claims due later today. Gold consolidates ~4640-90 after multi-week run; BTC holds ~79k. COT carried from 18 Aug. Warsh Jackson Hole keynote Friday remains the week pivot.",
+  "narrative": "GBP & AUD still lead \u00b7 CHF lags. German Ifo surprised higher (88.8 vs 87.2 exp) \u2014 mild EUR Growth support. USD soft into Core PCE / 2nd GDP / Durable Goods later today (high-impact). Gold holds multi-week run; BTC firm near 79k. CAD still pressured by trade headlines. COT carried from 18 Aug. Week pivots: Core PCE today \u00b7 Warsh Fri.",
   "fx_ranking": [
     {
       "currency": "GBP",
@@ -47,7 +47,7 @@
     },
     {
       "currency": "USD",
-      "score": -1,
+      "score": -3,
       "rank": 7
     },
     {
@@ -1314,23 +1314,23 @@
     "USD": {
       "line_items": {
         "Economic Growth": {
-          "score": 2,
+          "score": 1,
           "items": [
             {
               "name": "GDP Growth QoQ",
-              "actual": "1.5% Q2 2nd est (unrevised)",
-              "forecast": "1.5%",
-              "impact": 0,
-              "last_update": "2026-08-26",
-              "next_update": "2026-09-30"
+              "actual": "2.1%",
+              "forecast": "2.0%",
+              "impact": 1,
+              "last_update": "2026-07-30",
+              "next_update": "2026-08-26"
             },
             {
               "name": "Manufacturing PMI",
-              "actual": "Durable Goods +1.1% beat",
-              "forecast": "+0.5%",
-              "impact": 1,
-              "last_update": "2026-08-26",
-              "next_update": "daily"
+              "actual": "53.2",
+              "forecast": "53.9",
+              "impact": -1,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-23"
             },
             {
               "name": "Services PMI",
@@ -1363,7 +1363,7 @@
           "items": [
             {
               "name": "CPI YoY",
-              "actual": "carried",
+              "actual": "2.7%",
               "forecast": "2.7%",
               "impact": 0,
               "last_update": "2026-08-13",
@@ -1379,11 +1379,11 @@
             },
             {
               "name": "PCE YoY",
-              "actual": "3.7% (headline) / Core 3.3%",
-              "forecast": "3.6% / 3.3%",
+              "actual": "core due Wed",
+              "forecast": "3.3%",
               "impact": 0,
-              "last_update": "2026-08-26",
-              "next_update": "2026-09-30"
+              "last_update": "2026-07-31",
+              "next_update": "2026-08-26"
             },
             {
               "name": "Interest Rate",
@@ -1441,22 +1441,22 @@
           ]
         },
         "Technicals": {
-          "score": -2,
+          "score": -3,
           "items": [
             {
               "name": "Trend vs USD / DXY",
-              "actual": "DXY ~99.1 firmer post-PCE",
+              "actual": "DXY ~98.75 soft",
               "forecast": "\u2014",
-              "impact": -1,
-              "last_update": "2026-08-27",
+              "impact": -2,
+              "last_update": "2026-08-25",
               "next_update": "daily"
             },
             {
               "name": "Structure (HH/HL or LH/LL)",
-              "actual": "range / mild recovery",
+              "actual": "underperforming G10",
               "forecast": "\u2014",
               "impact": -1,
-              "last_update": "2026-08-27",
+              "last_update": "2026-08-25",
               "next_update": "daily"
             }
           ]
@@ -1510,15 +1510,15 @@
         }
       },
       "pillars": {
-        "Economic Growth": 2,
+        "Economic Growth": 1,
         "Inflation": 0,
         "Jobs Market": 0,
-        "Technicals": -2,
+        "Technicals": -3,
         "Seasonality": -1,
         "Sentiment": 0,
         "COT": 0
       },
-      "composite": -1
+      "composite": -3
     },
     "CHF": {
       "line_items": {
@@ -1759,25 +1759,25 @@
       "rank": 3,
       "pair": "GBP/USD",
       "direction": "BUY",
-      "score": 11,
+      "score": 12,
       "probability": "HIGH",
       "base_comp": 9,
-      "quote_comp": -2,
+      "quote_comp": -3,
       "cb_rates": "GBP vs USD",
       "trend": "ALIGNED",
-      "reason": "Gap 11 \u00b7 GBP +9 vs USD -2"
+      "reason": "Gap 12 \u00b7 GBP +9 vs USD -3"
     },
     {
       "rank": 4,
       "pair": "AUD/USD",
       "direction": "BUY",
-      "score": 11,
+      "score": 12,
       "probability": "HIGH",
       "base_comp": 9,
-      "quote_comp": -2,
+      "quote_comp": -3,
       "cb_rates": "AUD vs USD",
       "trend": "ALIGNED",
-      "reason": "Gap 11 \u00b7 AUD +9 vs USD -2"
+      "reason": "Gap 12 \u00b7 AUD +9 vs USD -3"
     },
     {
       "rank": 5,
@@ -1789,18 +1789,18 @@
       "quote_comp": -6,
       "cb_rates": "EUR vs CHF",
       "trend": "ALIGNED",
-      "reason": "Gap 12 \u00b7 EUR +6 vs CHF -6"
+      "reason": "Gap 12 \u00b7 EUR +6 (Ifo lift) vs CHF -6"
     }
   ],
   "assets": {
     "GOLD": {
-      "composite": 11,
-      "score": 12,
-      "bias": "BULLISH",
+      "composite": 13,
+      "score": 13,
+      "bias": "STRONG BULLISH",
       "pillars": {
         "Positioning": 3,
-        "USD / Macro rates": 2,
-        "Momentum / Trend": 3,
+        "USD / Macro rates": 3,
+        "Momentum / Trend": 4,
         "Flows / Demand": 2,
         "Risk / Liquidity": 1,
         "Sentiment": 0
@@ -1832,7 +1832,7 @@
           "items": [
             {
               "name": "DXY trend",
-              "actual": "DXY ~99.1 firmer",
+              "actual": "~98.75 soft",
               "forecast": "\u2014",
               "impact": 2,
               "last_update": "2026-08-25",
@@ -1853,7 +1853,7 @@
           "items": [
             {
               "name": "20d price structure",
-              "actual": "consolidates ~4655 after multi-week run",
+              "actual": "multi-week run ~4672",
               "forecast": "\u2014",
               "impact": 2,
               "last_update": "2026-08-25",
@@ -1861,7 +1861,7 @@
             },
             {
               "name": "Key level hold / break",
-              "actual": "holds >4600 zone",
+              "actual": "holds >4600 / tests higher",
               "forecast": "\u2014",
               "impact": 2,
               "last_update": "2026-08-25",
@@ -1937,8 +1937,8 @@
       "cot_series": "Disagg Managed Money"
     },
     "BTC": {
-      "composite": 7,
-      "score": 7,
+      "composite": 8,
+      "score": 8,
       "bias": "STRONG BULLISH",
       "pillars": {
         "Positioning": 0,
@@ -1996,7 +1996,7 @@
           "items": [
             {
               "name": "20d price structure",
-              "actual": "steady ~78.9-79.2k",
+              "actual": "firm ~79.2k",
               "forecast": "\u2014",
               "impact": 2,
               "last_update": "2026-08-25",
@@ -2080,8 +2080,8 @@
       "cot_series": "TFF LF"
     },
     "NQ": {
-      "composite": 0,
-      "score": 0,
+      "composite": -1,
+      "score": -1,
       "bias": "NEUTRAL",
       "pillars": {
         "Positioning": 0,
@@ -2495,75 +2495,9 @@
       "series": "TFF LF"
     }
   },
-  "cot_as_of": "2026-08-18 (CFTC official TFF LF / GOLD Disagg MM) \u2014 CARRIED (Thu). Next release ~2026-08-28",
-  "sentiment_as_of": "2026-08-27 (retail aggregates)",
+  "cot_as_of": "2026-08-18 (CFTC official TFF LF / GOLD Disagg MM) \u2014 CARRIED (Wed). Next release ~2026-08-28",
+  "sentiment_as_of": "2026-08-26 (retail aggregates)",
   "prices": {
-    "EUR/USD": 1.1656,
-    "EURUSD": 1.1656,
-    "GBP/USD": 1.3592,
-    "GBPUSD": 1.3592,
-    "USD/JPY": 159.3,
-    "USDJPY": 159.3,
-    "USD/CHF": 0.8052,
-    "USDCHF": 0.8052,
-    "AUD/USD": 0.7183,
-    "AUDUSD": 0.7183,
-    "USD/CAD": 1.3878,
-    "USDCAD": 1.3878,
-    "NZD/USD": 0.5951,
-    "NZDUSD": 0.5951,
-    "EUR/GBP": 0.8576,
-    "EURGBP": 0.8576,
-    "EUR/JPY": 185.65,
-    "EURJPY": 185.65,
-    "EUR/CHF": 0.9385,
-    "EURCHF": 0.9385,
-    "EUR/AUD": 1.623,
-    "EURAUD": 1.623,
-    "EUR/CAD": 1.6175,
-    "EURCAD": 1.6175,
-    "EUR/NZD": 1.959,
-    "EURNZD": 1.959,
-    "GBP/JPY": 216.4,
-    "GBPJPY": 216.4,
-    "GBP/CHF": 1.094,
-    "GBPCHF": 1.094,
-    "GBP/AUD": 1.8925,
-    "GBPAUD": 1.8925,
-    "GBP/CAD": 1.886,
-    "GBPCAD": 1.886,
-    "GBP/NZD": 2.284,
-    "GBPNZD": 2.284,
-    "AUD/JPY": 114.4,
-    "AUDJPY": 114.4,
-    "AUD/CHF": 0.578,
-    "AUDCHF": 0.578,
-    "AUD/CAD": 0.9965,
-    "AUDCAD": 0.9965,
-    "AUD/NZD": 1.207,
-    "AUDNZD": 1.207,
-    "NZD/JPY": 94.8,
-    "NZDJPY": 94.8,
-    "NZD/CHF": 0.479,
-    "NZDCHF": 0.479,
-    "NZD/CAD": 0.8255,
-    "NZDCAD": 0.8255,
-    "CAD/JPY": 114.8,
-    "CADJPY": 114.8,
-    "CAD/CHF": 0.58,
-    "CADCHF": 0.58,
-    "CHF/JPY": 197.8,
-    "CHFJPY": 197.8,
-    "XAUUSD": 4655.0,
-    "XAU/USD": 4655.0,
-    "GOLD": 4655.0,
-    "BTCUSD": 78950.0,
-    "BTC/USD": 78950.0,
-    "BTC": 78950.0,
-    "NQ": 29300.0,
-    "DXY": 99.12
-  },
-  "prices_prev_close": {
     "EUR/USD": 1.1668,
     "EURUSD": 1.1668,
     "GBP/USD": 1.3565,
@@ -2629,42 +2563,108 @@
     "NQ": 29080.0,
     "DXY": 98.85
   },
+  "prices_prev_close": {
+    "EUR/USD": 1.1675,
+    "EURUSD": 1.1675,
+    "GBP/USD": 1.357,
+    "GBPUSD": 1.357,
+    "USD/JPY": 159.1,
+    "USDJPY": 159.1,
+    "USD/CHF": 0.802,
+    "USDCHF": 0.802,
+    "AUD/USD": 0.7165,
+    "AUDUSD": 0.7165,
+    "USD/CAD": 1.378,
+    "USDCAD": 1.378,
+    "NZD/USD": 0.5975,
+    "NZDUSD": 0.5975,
+    "EUR/GBP": 0.86035,
+    "EURGBP": 0.86035,
+    "EUR/JPY": 185.749,
+    "EURJPY": 185.749,
+    "EUR/CHF": 0.93634,
+    "EURCHF": 0.93634,
+    "EUR/AUD": 1.62945,
+    "EURAUD": 1.62945,
+    "EUR/CAD": 1.60881,
+    "EURCAD": 1.60881,
+    "EUR/NZD": 1.95397,
+    "EURNZD": 1.95397,
+    "GBP/JPY": 215.899,
+    "GBPJPY": 215.899,
+    "GBP/CHF": 1.08831,
+    "GBPCHF": 1.08831,
+    "GBP/AUD": 1.89393,
+    "GBPAUD": 1.89393,
+    "GBP/CAD": 1.86995,
+    "GBPCAD": 1.86995,
+    "GBP/NZD": 2.27113,
+    "GBPNZD": 2.27113,
+    "AUD/JPY": 113.995,
+    "AUDJPY": 113.995,
+    "AUD/CHF": 0.57463,
+    "AUDCHF": 0.57463,
+    "AUD/CAD": 0.98734,
+    "AUDCAD": 0.98734,
+    "AUD/NZD": 1.19916,
+    "AUDNZD": 1.19916,
+    "NZD/JPY": 95.062,
+    "NZDJPY": 95.062,
+    "NZD/CHF": 0.4792,
+    "NZDCHF": 0.4792,
+    "NZD/CAD": 0.82335,
+    "NZDCAD": 0.82335,
+    "CAD/JPY": 115.457,
+    "CADJPY": 115.457,
+    "CAD/CHF": 0.582,
+    "CADCHF": 0.582,
+    "CHF/JPY": 198.379,
+    "CHFJPY": 198.379,
+    "XAUUSD": 4665.0,
+    "XAU/USD": 4665.0,
+    "GOLD": 4665.0,
+    "BTCUSD": 79000.0,
+    "BTC/USD": 79000.0,
+    "BTC": 79000.0,
+    "NQ": 29050.0,
+    "DXY": 98.75
+  },
   "data_status": {
     "live": [
       "Prices live: all 28 FX pairs + GOLD/BTC/NQ/DXY (today running)",
-      "prices_prev_close: all 28 + cross = 2026-08-26 close",
+      "prices_prev_close: all 28 + cross = 2026-08-25 close",
       "Full 28-pair Sentiment",
-      "Technicals / structure (DXY firmer post-PCE)",
-      "USD Inflation: Core PCE 3.3% YoY / 0.2% MoM (26 Aug)",
-      "USD Growth: Durable Goods +1.1% beat + GDP 1.5% unrevised",
-      "Cross-asset tape (GOLD consolidates, BTC steady)",
-      "Major headlines (Jackson Hole week, sticky PCE)"
+      "Technicals / structure",
+      "EUR Growth: German Ifo 88.8 beat (25 Aug print)",
+      "Cross-asset tape (GOLD ~4672, BTC ~79.2k)",
+      "Major headlines (Jackson Hole week, Core PCE pending)"
     ],
     "carried": [
-      "COT (week ending 18 Aug \u2014 Thu carry; next CFTC ~28 Aug)",
-      "Non-daily pillars (residual CPI, policy rates, Seasonality)",
-      "Jobless Claims pending (due later today US)"
+      "COT (week ending 18 Aug \u2014 Wed carry; next CFTC ~28 Aug)",
+      "Non-daily pillars (GDP residual, CPI residual, policy rates, Seasonality)",
+      "USD Inflation/Jobs pending Core PCE + GDP 2nd est + Durable Goods (later today US)"
     ],
     "missing": [],
-    "notes": "Locked rules. Core PCE + Durable Goods + GDP 2nd incorporated for USD. Jobless Claims due ~08:30 ET today \u2014 Jobs row neutral until print. Warsh Fri remains week pivot."
+    "notes": "Locked rules. Core PCE / GDP 2nd / Durable Goods due ~08:30 ET today \u2014 USD pillars neutral until print. Ifo incorporated for EUR. Warsh Fri remains week pivot."
   },
   "cot_series": "TFF Leveraged Funds",
   "scoring_integrity": {
     "rule": "fixed catalog; pillar=sum(lines); composite=sum(pillars); COT=2 rows only",
     "verified": true
   },
-  "report_date": "2026-08-27",
+  "report_date": "2026-08-26",
   "session": "Asia",
   "cot_series_primary": "TFF Leveraged Funds (FX) \u00b7 Disagg Managed Money (GOLD)",
   "calendar_notes": [
-    "Thu 27: US Initial Jobless Claims (pending at Asia generation) \u00b7 Continuing Claims.",
-    "Fri 28: Fed Chair Warsh Jackson Hole keynote (~10:00 ET) \u00b7 Chicago PMI \u00b7 UoM Sentiment final.",
-    "26 Aug prints: Core PCE 3.3% YoY (in line) \u00b7 Durable Goods +1.1% (beat) \u00b7 GDP 2nd est 1.5% unrevised.",
-    "CAD: trade headlines still overhang."
+    "Wed 26: US Core PCE + GDP 2nd est + Durable Goods + Personal Income/Spending \u2014 high-impact USD day (pending at Asia generation).",
+    "Thu 27: Jobless Claims.",
+    "Fri 28: Fed Chair Warsh Jackson Hole keynote (~10:00 ET).",
+    "German Ifo 25 Aug: 88.8 (vs 87.2 exp) \u2014 positive for EUR Growth.",
+    "CAD: US\u2013Canada trade talks still overhang."
   ],
   "prices_as_of": {
-    "prev_close_date": "2026-08-26",
-    "live_as_of": "2026-08-27",
+    "prev_close_date": "2026-08-25",
+    "live_as_of": "2026-08-26",
     "coverage": "All 28 FX pairs + XAUUSD + BTCUSD + NQ + DXY"
   }
 }

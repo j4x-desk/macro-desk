@@ -1,0 +1,2600 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T11:30:00+05:30",
+  "macro_regime": "RISK-ON",
+  "strongest": "GBP",
+  "weakest": "CHF",
+  "top_setup": "LONG GBP/CHF",
+  "top_setup_score": 17,
+  "g8_spread": 17,
+  "high_prob_setups": [
+    "LONG GBP/CHF (+17)"
+  ],
+  "narrative": "Soft US data (retail sales, PPI) continued to weigh on USD. GBP resilient on prior growth prints. Ranking structure already favours Commonwealth currencies. COT on prior week. No major CB speeches. China data still ahead. | Taxonomy migrated to fixed line-item catalog.",
+  "fx_ranking": [
+    {
+      "currency": "GBP",
+      "score": 10,
+      "rank": 1
+    },
+    {
+      "currency": "AUD",
+      "score": 10,
+      "rank": 2
+    },
+    {
+      "currency": "CAD",
+      "score": 6,
+      "rank": 3
+    },
+    {
+      "currency": "NZD",
+      "score": 3,
+      "rank": 4
+    },
+    {
+      "currency": "EUR",
+      "score": 0,
+      "rank": 5
+    },
+    {
+      "currency": "JPY",
+      "score": 0,
+      "rank": 6
+    },
+    {
+      "currency": "USD",
+      "score": -5,
+      "rank": 7
+    },
+    {
+      "currency": "CHF",
+      "score": -7,
+      "rank": 8
+    }
+  ],
+  "fx_details": {
+    "GBP": {
+      "composite": 10,
+      "pillars": {
+        "Economic Growth": 3,
+        "Inflation": 4,
+        "Jobs Market": 1,
+        "Technicals": 1,
+        "Seasonality": 1,
+        "Sentiment": 0,
+        "COT": 0
+      },
+      "line_items": {
+        "Economic Growth": {
+          "score": 3,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 4,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "bullish",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            },
+            {
+              "name": "3Y Index",
+              "actual": "28",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            }
+          ]
+        }
+      }
+    },
+    "AUD": {
+      "composite": 10,
+      "pillars": {
+        "Economic Growth": 3,
+        "Inflation": 4,
+        "Jobs Market": 1,
+        "Technicals": 1,
+        "Seasonality": 1,
+        "Sentiment": 0,
+        "COT": 0
+      },
+      "line_items": {
+        "Economic Growth": {
+          "score": 3,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 4,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "bullish",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            },
+            {
+              "name": "3Y Index",
+              "actual": "32",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            }
+          ]
+        }
+      }
+    },
+    "CAD": {
+      "composite": 6,
+      "pillars": {
+        "Economic Growth": 2,
+        "Inflation": 2,
+        "Jobs Market": 1,
+        "Technicals": 1,
+        "Seasonality": 0,
+        "Sentiment": 0,
+        "COT": 0
+      },
+      "line_items": {
+        "Economic Growth": {
+          "score": 2,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 2,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "neutral",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            },
+            {
+              "name": "3Y Index",
+              "actual": "48",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            }
+          ]
+        }
+      }
+    },
+    "NZD": {
+      "composite": 3,
+      "pillars": {
+        "Economic Growth": 1,
+        "Inflation": 2,
+        "Jobs Market": 0,
+        "Technicals": 0,
+        "Seasonality": 0,
+        "Sentiment": 0,
+        "COT": 0
+      },
+      "line_items": {
+        "Economic Growth": {
+          "score": 1,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 2,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "neutral",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            },
+            {
+              "name": "3Y Index",
+              "actual": "41",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            }
+          ]
+        }
+      }
+    },
+    "EUR": {
+      "composite": 0,
+      "pillars": {
+        "Economic Growth": 1,
+        "Inflation": 1,
+        "Jobs Market": 0,
+        "Technicals": 0,
+        "Seasonality": 0,
+        "Sentiment": 0,
+        "COT": -2
+      },
+      "line_items": {
+        "Economic Growth": {
+          "score": 1,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 1,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "COT": {
+          "score": -2,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "bearish",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            },
+            {
+              "name": "3Y Index",
+              "actual": "18",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            }
+          ]
+        }
+      }
+    },
+    "JPY": {
+      "composite": 0,
+      "pillars": {
+        "Economic Growth": 0,
+        "Inflation": 0,
+        "Jobs Market": 0,
+        "Technicals": 0,
+        "Seasonality": 0,
+        "Sentiment": 0,
+        "COT": 0
+      },
+      "line_items": {
+        "Economic Growth": {
+          "score": 0,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 0,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "neutral",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            },
+            {
+              "name": "3Y Index",
+              "actual": "55",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            }
+          ]
+        }
+      }
+    },
+    "USD": {
+      "composite": -5,
+      "pillars": {
+        "Economic Growth": -2,
+        "Inflation": -1,
+        "Jobs Market": -2,
+        "Technicals": -1,
+        "Seasonality": 0,
+        "Sentiment": -1,
+        "COT": 2
+      },
+      "line_items": {
+        "Economic Growth": {
+          "score": -2,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "—",
+              "forecast": "—",
+              "impact": -2,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": -1,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": -2,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "—",
+              "forecast": "—",
+              "impact": -2,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": -1,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": -1,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "COT": {
+          "score": 2,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "bullish",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            },
+            {
+              "name": "3Y Index",
+              "actual": "82",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            }
+          ]
+        }
+      }
+    },
+    "CHF": {
+      "composite": -7,
+      "pillars": {
+        "Economic Growth": -2,
+        "Inflation": -3,
+        "Jobs Market": -1,
+        "Technicals": -1,
+        "Seasonality": 0,
+        "Sentiment": 0,
+        "COT": 0
+      },
+      "line_items": {
+        "Economic Growth": {
+          "score": -2,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "—",
+              "forecast": "—",
+              "impact": -2,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": -3,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": -2,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": -1,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "—",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": -1,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "—",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "—",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "neutral",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            },
+            {
+              "name": "3Y Index",
+              "actual": "52",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-14",
+              "next_update": "next CFTC"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "pair_setups": [
+    {
+      "rank": 1,
+      "pair": "GBP/CHF",
+      "direction": "BUY",
+      "score": 17,
+      "probability": "HIGH",
+      "base_comp": 10,
+      "quote_comp": -7,
+      "cb_rates": "GBP vs CHF",
+      "trend": "ALIGNED",
+      "reason": "Gap 17 · GBP +10 vs CHF -7"
+    },
+    {
+      "rank": 2,
+      "pair": "AUD/CHF",
+      "direction": "BUY",
+      "score": 17,
+      "probability": "HIGH",
+      "base_comp": 10,
+      "quote_comp": -7,
+      "cb_rates": "AUD vs CHF",
+      "trend": "ALIGNED",
+      "reason": "Gap 17 · AUD +10 vs CHF -7"
+    },
+    {
+      "rank": 3,
+      "pair": "GBP/USD",
+      "direction": "BUY",
+      "score": 15,
+      "probability": "HIGH",
+      "base_comp": 10,
+      "quote_comp": -5,
+      "cb_rates": "GBP vs USD",
+      "trend": "ALIGNED",
+      "reason": "Gap 15 · GBP +10 vs USD -5"
+    },
+    {
+      "rank": 4,
+      "pair": "AUD/USD",
+      "direction": "BUY",
+      "score": 15,
+      "probability": "HIGH",
+      "base_comp": 10,
+      "quote_comp": -5,
+      "cb_rates": "AUD vs USD",
+      "trend": "ALIGNED",
+      "reason": "Gap 15 · AUD +10 vs USD -5"
+    },
+    {
+      "rank": 5,
+      "pair": "EUR/CHF",
+      "direction": "BUY",
+      "score": 7,
+      "probability": "MOD",
+      "base_comp": 0,
+      "quote_comp": -7,
+      "cb_rates": "EUR vs CHF",
+      "trend": "ALIGNED",
+      "reason": "Gap 7 · EUR +0 vs CHF -7"
+    }
+  ],
+  "assets": {
+    "GOLD": {
+      "composite": 10,
+      "score": 10,
+      "bias": "BULLISH",
+      "pillars": {
+        "Positioning": 3,
+        "USD / Macro rates": 2,
+        "Momentum / Trend": 2,
+        "Flows / Demand": 2,
+        "Risk / Liquidity": 1,
+        "Sentiment": 0
+      },
+      "line_items": {
+        "Positioning": {
+          "score": 3,
+          "items": [
+            {
+              "name": "Spec / managed-money net",
+              "actual": "MM +141.6k",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Weekly positioning change",
+              "actual": "weekly +4.0k",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "USD / Macro rates": {
+          "score": 2,
+          "items": [
+            {
+              "name": "DXY trend",
+              "actual": "DXY ~98.8 soft",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Real yield / policy path",
+              "actual": "real yields not rising hard",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Momentum / Trend": {
+          "score": 2,
+          "items": [
+            {
+              "name": "20d price structure",
+              "actual": "strong up-run 20d",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Key level hold / break",
+              "actual": "holds >4600",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Flows / Demand": {
+          "score": 2,
+          "items": [
+            {
+              "name": "Institutional / ETF / CB flows",
+              "actual": "CB buying ongoing",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structural demand tone",
+              "actual": "ETF mixed+",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Risk / Liquidity": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Risk-on composite",
+              "actual": "Jackson Hole / fiscal",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Liquidity / vol regime",
+              "actual": "vol contained",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail / crowdedness",
+              "actual": "elevated not extreme",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        }
+      },
+      "drivers": {
+        "Positioning": 3,
+        "USD / Macro rates": 2,
+        "Momentum / Trend": 2,
+        "Flows / Demand": 2,
+        "Risk / Liquidity": 1,
+        "Sentiment": 0
+      },
+      "cot_net": 141648,
+      "cot_series": "Disagg Managed Money"
+    },
+    "BTC": {
+      "composite": -2,
+      "score": -2,
+      "bias": "MILD BEARISH",
+      "pillars": {
+        "Positioning": 0,
+        "USD / Macro rates": 0,
+        "Momentum / Trend": -2,
+        "Flows / Demand": 0,
+        "Risk / Liquidity": 0,
+        "Sentiment": 0
+      },
+      "line_items": {
+        "Positioning": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Spec / managed-money net",
+              "actual": "TFF LF net short",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Weekly positioning change",
+              "actual": "weekly flat",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "USD / Macro rates": {
+          "score": 0,
+          "items": [
+            {
+              "name": "DXY trend",
+              "actual": "DXY soft (mild support)",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Real yield / policy path",
+              "actual": "no clear yield edge",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Momentum / Trend": {
+          "score": -2,
+          "items": [
+            {
+              "name": "20d price structure",
+              "actual": "soft vs 20d highs",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Key level hold / break",
+              "actual": "failed hold near 76k zone",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Flows / Demand": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Institutional / ETF / CB flows",
+              "actual": "spot ETF mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structural demand tone",
+              "actual": "no structural surge",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Risk / Liquidity": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Risk-on composite",
+              "actual": "mild risk-on",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Liquidity / vol regime",
+              "actual": "liq ok",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail / crowdedness",
+              "actual": "not extreme",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        }
+      },
+      "drivers": {
+        "Positioning": 0,
+        "USD / Macro rates": 0,
+        "Momentum / Trend": -2,
+        "Flows / Demand": 0,
+        "Risk / Liquidity": 0,
+        "Sentiment": 0
+      },
+      "cot_net": -7439,
+      "cot_series": "TFF LF"
+    },
+    "NQ": {
+      "composite": 2,
+      "score": 2,
+      "bias": "MILD BULLISH",
+      "pillars": {
+        "Positioning": 0,
+        "USD / Macro rates": 0,
+        "Momentum / Trend": 2,
+        "Flows / Demand": 0,
+        "Risk / Liquidity": 0,
+        "Sentiment": 0
+      },
+      "line_items": {
+        "Positioning": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Spec / managed-money net",
+              "actual": "TFF LF net short",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Weekly positioning change",
+              "actual": "covering / mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "USD / Macro rates": {
+          "score": 0,
+          "items": [
+            {
+              "name": "DXY trend",
+              "actual": "yields stable ~4.7%",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Real yield / policy path",
+              "actual": "Fed hold path",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Momentum / Trend": {
+          "score": 2,
+          "items": [
+            {
+              "name": "20d price structure",
+              "actual": "firm ~29300",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Key level hold / break",
+              "actual": "holds range highs",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Flows / Demand": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Institutional / ETF / CB flows",
+              "actual": "systematic mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structural demand tone",
+              "actual": "no panic",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Risk / Liquidity": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Risk-on composite",
+              "actual": "risk constructive",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Liquidity / vol regime",
+              "actual": "vol contained",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail / crowdedness",
+              "actual": "not extreme",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            }
+          ]
+        }
+      },
+      "drivers": {
+        "Positioning": 0,
+        "USD / Macro rates": 0,
+        "Momentum / Trend": 2,
+        "Flows / Demand": 0,
+        "Risk / Liquidity": 0,
+        "Sentiment": 0
+      },
+      "cot_net": -61771,
+      "cot_series": "TFF LF"
+    }
+  },
+  "sentiment": {
+    "EUR/USD": {
+      "long": 45,
+      "short": 55,
+      "crowd_bias": "NEUTRAL"
+    },
+    "GBP/USD": {
+      "long": 32,
+      "short": 68,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "USD/JPY": {
+      "long": 41,
+      "short": 59,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "USD/CHF": {
+      "long": 54,
+      "short": 46,
+      "crowd_bias": "NEUTRAL"
+    },
+    "AUD/USD": {
+      "long": 26,
+      "short": 74,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "USD/CAD": {
+      "long": 50,
+      "short": 50,
+      "crowd_bias": "NEUTRAL"
+    },
+    "NZD/USD": {
+      "long": 27,
+      "short": 73,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "EUR/GBP": {
+      "long": 48,
+      "short": 52,
+      "crowd_bias": "NEUTRAL"
+    },
+    "EUR/JPY": {
+      "long": 42,
+      "short": 58,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "EUR/CHF": {
+      "long": 48,
+      "short": 52,
+      "crowd_bias": "NEUTRAL"
+    },
+    "EUR/AUD": {
+      "long": 55,
+      "short": 45,
+      "crowd_bias": "NEUTRAL"
+    },
+    "EUR/CAD": {
+      "long": 46,
+      "short": 54,
+      "crowd_bias": "NEUTRAL"
+    },
+    "EUR/NZD": {
+      "long": 52,
+      "short": 48,
+      "crowd_bias": "NEUTRAL"
+    },
+    "GBP/JPY": {
+      "long": 35,
+      "short": 65,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "GBP/CHF": {
+      "long": 30,
+      "short": 70,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "GBP/AUD": {
+      "long": 47,
+      "short": 53,
+      "crowd_bias": "NEUTRAL"
+    },
+    "GBP/CAD": {
+      "long": 44,
+      "short": 56,
+      "crowd_bias": "NEUTRAL"
+    },
+    "GBP/NZD": {
+      "long": 41,
+      "short": 59,
+      "crowd_bias": "NEUTRAL"
+    },
+    "AUD/JPY": {
+      "long": 33,
+      "short": 67,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "AUD/CHF": {
+      "long": 30,
+      "short": 70,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "AUD/CAD": {
+      "long": 45,
+      "short": 55,
+      "crowd_bias": "NEUTRAL"
+    },
+    "AUD/NZD": {
+      "long": 50,
+      "short": 50,
+      "crowd_bias": "NEUTRAL"
+    },
+    "NZD/JPY": {
+      "long": 34,
+      "short": 66,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "NZD/CHF": {
+      "long": 32,
+      "short": 68,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "NZD/CAD": {
+      "long": 43,
+      "short": 57,
+      "crowd_bias": "NEUTRAL"
+    },
+    "CAD/JPY": {
+      "long": 39,
+      "short": 61,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "CAD/CHF": {
+      "long": 36,
+      "short": 64,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "CHF/JPY": {
+      "long": 51,
+      "short": 49,
+      "crowd_bias": "NEUTRAL"
+    }
+  },
+  "cot": {
+    "GBP": {
+      "index": 28,
+      "percentile_3y": 28,
+      "weekly_change": "bullish",
+      "bias": "leaning short zone",
+      "score": 0,
+      "weekly_component": 1,
+      "index_component": -1
+    },
+    "AUD": {
+      "index": 32,
+      "percentile_3y": 32,
+      "weekly_change": "bullish",
+      "bias": "leaning short zone",
+      "score": 0,
+      "weekly_component": 1,
+      "index_component": -1
+    },
+    "CAD": {
+      "index": 48,
+      "percentile_3y": 48,
+      "weekly_change": "neutral",
+      "bias": "neutral",
+      "score": 0,
+      "weekly_component": 0,
+      "index_component": 0
+    },
+    "NZD": {
+      "index": 41,
+      "percentile_3y": 41,
+      "weekly_change": "neutral",
+      "bias": "neutral",
+      "score": 0,
+      "weekly_component": 0,
+      "index_component": 0
+    },
+    "EUR": {
+      "index": 18,
+      "percentile_3y": 18,
+      "weekly_change": "bearish",
+      "bias": "leaning short",
+      "score": -2,
+      "weekly_component": -1,
+      "index_component": -1
+    },
+    "JPY": {
+      "index": 55,
+      "percentile_3y": 55,
+      "weekly_change": "neutral",
+      "bias": "neutral",
+      "score": 0,
+      "weekly_component": 0,
+      "index_component": 0
+    },
+    "USD": {
+      "index": 82,
+      "percentile_3y": 82,
+      "weekly_change": "bullish",
+      "bias": "leaning long",
+      "score": 2,
+      "weekly_component": 1,
+      "index_component": 1
+    },
+    "CHF": {
+      "index": 52,
+      "percentile_3y": 52,
+      "weekly_change": "neutral",
+      "bias": "neutral",
+      "score": 0,
+      "weekly_component": 0,
+      "index_component": 0
+    }
+  },
+  "cot_as_of": "2026-08-14 (CFTC week to 11 Aug; carry-forward Mon–Sat)",
+  "sentiment_as_of": "2026-08-14",
+  "prices": {
+    "EUR/USD": 1.155,
+    "EURUSD": 1.155,
+    "GBP/USD": 1.345,
+    "GBPUSD": 1.345,
+    "USD/JPY": 159.2,
+    "USDJPY": 159.2,
+    "USD/CHF": 0.81,
+    "USDCHF": 0.81,
+    "AUD/USD": 0.705,
+    "AUDUSD": 0.705,
+    "USD/CAD": 1.375,
+    "USDCAD": 1.375,
+    "NZD/USD": 0.59,
+    "NZDUSD": 0.59,
+    "EUR/GBP": 0.85874,
+    "EURGBP": 0.85874,
+    "EUR/JPY": 183.876,
+    "EURJPY": 183.876,
+    "EUR/CHF": 0.93555,
+    "EURCHF": 0.93555,
+    "EUR/AUD": 1.6383,
+    "EURAUD": 1.6383,
+    "EUR/CAD": 1.58813,
+    "EURCAD": 1.58813,
+    "EUR/NZD": 1.95763,
+    "EURNZD": 1.95763,
+    "GBP/JPY": 214.124,
+    "GBPJPY": 214.124,
+    "GBP/CHF": 1.08945,
+    "GBPCHF": 1.08945,
+    "GBP/AUD": 1.9078,
+    "GBPAUD": 1.9078,
+    "GBP/CAD": 1.84937,
+    "GBPCAD": 1.84937,
+    "GBP/NZD": 2.27966,
+    "GBPNZD": 2.27966,
+    "AUD/JPY": 112.236,
+    "AUDJPY": 112.236,
+    "AUD/CHF": 0.57105,
+    "AUDCHF": 0.57105,
+    "AUD/CAD": 0.96937,
+    "AUDCAD": 0.96937,
+    "AUD/NZD": 1.19492,
+    "AUDNZD": 1.19492,
+    "NZD/JPY": 93.928,
+    "NZDJPY": 93.928,
+    "NZD/CHF": 0.4779,
+    "NZDCHF": 0.4779,
+    "NZD/CAD": 0.81125,
+    "NZDCAD": 0.81125,
+    "CAD/JPY": 115.782,
+    "CADJPY": 115.782,
+    "CAD/CHF": 0.58909,
+    "CADCHF": 0.58909,
+    "CHF/JPY": 196.543,
+    "CHFJPY": 196.543,
+    "XAUUSD": 4375.0,
+    "BTCUSD": 62876.0,
+    "NQ": 29200.0,
+    "DXY": 99.4,
+    "XAU/USD": 4375.0,
+    "GOLD": 4375.0,
+    "BTC/USD": 62876.0,
+    "BTC": 62876.0
+  },
+  "prices_prev_close": {
+    "EUR/USD": 1.155,
+    "EURUSD": 1.155,
+    "GBP/USD": 1.345,
+    "GBPUSD": 1.345,
+    "USD/JPY": 159.2,
+    "USDJPY": 159.2,
+    "USD/CHF": 0.81,
+    "USDCHF": 0.81,
+    "AUD/USD": 0.705,
+    "AUDUSD": 0.705,
+    "USD/CAD": 1.375,
+    "USDCAD": 1.375,
+    "NZD/USD": 0.59,
+    "NZDUSD": 0.59,
+    "EUR/GBP": 0.85874,
+    "EURGBP": 0.85874,
+    "EUR/JPY": 183.876,
+    "EURJPY": 183.876,
+    "EUR/CHF": 0.93555,
+    "EURCHF": 0.93555,
+    "EUR/AUD": 1.6383,
+    "EURAUD": 1.6383,
+    "EUR/CAD": 1.58813,
+    "EURCAD": 1.58813,
+    "EUR/NZD": 1.95763,
+    "EURNZD": 1.95763,
+    "GBP/JPY": 214.124,
+    "GBPJPY": 214.124,
+    "GBP/CHF": 1.08945,
+    "GBPCHF": 1.08945,
+    "GBP/AUD": 1.9078,
+    "GBPAUD": 1.9078,
+    "GBP/CAD": 1.84937,
+    "GBPCAD": 1.84937,
+    "GBP/NZD": 2.27966,
+    "GBPNZD": 2.27966,
+    "AUD/JPY": 112.236,
+    "AUDJPY": 112.236,
+    "AUD/CHF": 0.57105,
+    "AUDCHF": 0.57105,
+    "AUD/CAD": 0.96937,
+    "AUDCAD": 0.96937,
+    "AUD/NZD": 1.19492,
+    "AUDNZD": 1.19492,
+    "NZD/JPY": 93.928,
+    "NZDJPY": 93.928,
+    "NZD/CHF": 0.4779,
+    "NZDCHF": 0.4779,
+    "NZD/CAD": 0.81125,
+    "NZDCAD": 0.81125,
+    "CAD/JPY": 115.782,
+    "CADJPY": 115.782,
+    "CAD/CHF": 0.58909,
+    "CADCHF": 0.58909,
+    "CHF/JPY": 196.543,
+    "CHFJPY": 196.543,
+    "XAUUSD": 4375.0,
+    "BTCUSD": 62876.0,
+    "NQ": 29200.0,
+    "DXY": 99.4,
+    "XAU/USD": 4375.0,
+    "GOLD": 4375.0,
+    "BTC/USD": 62876.0,
+    "BTC": 62876.0
+  },
+  "data_status": {
+    "live": [
+      "Prices",
+      "Major headlines / soft US data impact",
+      "Partial sentiment (majors)"
+    ],
+    "carried": [
+      "COT (pre-11 Aug week)",
+      "Non-daily pillars (Growth levels, Seasonality)",
+      "CB gold buying (WGC H1 data)"
+    ],
+    "missing": [
+      "Full 28-pair sentiment",
+      "Detailed red/medium calendar for 13 Aug fully scored"
+    ],
+    "notes": "Asia/evening session. Soft US retail/PPI confirmed USD softness. No major CB speeches. COT not yet the 11 Aug week."
+  },
+  "scoring_integrity": {
+    "rule": "fixed catalog; pillar=sum(lines); COT=2 rows; Rates folded into Inflation Interest Rate",
+    "taxonomy": "screenshot Growth/Inflation/Jobs + Tech/Season/Sent/COT",
+    "migrated": true
+  },
+  "prices_as_of": {
+    "prev_close_date": "2026-08-14",
+    "live_as_of": "2026-08-14",
+    "coverage": "All 28 FX pairs + XAUUSD + BTCUSD + NQ + DXY"
+  }
+}

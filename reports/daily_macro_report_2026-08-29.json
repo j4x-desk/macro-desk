@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-27",
-  "generated_at": "2026-08-27T02:35:00Z",
-  "macro_regime": "USD firmer post-PCE \u00b7 Jackson Hole week \u00b7 Gold consolidates \u00b7 BTC steady",
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T01:45:00Z",
+  "macro_regime": "USD firmer post-Warsh \u00b7 Hawkish Jackson Hole \u00b7 Gold sold \u00b7 Weekend quiet",
   "strongest": "GBP",
   "weakest": "CHF",
   "top_setup": "LONG GBP/CHF",
@@ -10,10 +10,10 @@
   "high_prob_setups": [
     "LONG GBP/CHF (+15)",
     "LONG AUD/CHF (+15)",
-    "LONG EUR/CHF (+12)",
-    "LONG GBP/USD (+11)"
+    "LONG EUR/CHF (+11)",
+    "LONG GBP/USD (+5)"
   ],
-  "narrative": "GBP & AUD still lead \u00b7 CHF lags. Core PCE 3.3% YoY / 0.2% MoM (in line, sticky) + Durable Goods +1.1% beat \u2014 mild USD support but not enough to flip soft regime. GDP 2nd est unrevised 1.5%. Jobless Claims due later today. Gold consolidates ~4640-90 after multi-week run; BTC holds ~79k. COT carried from 18 Aug. Warsh Jackson Hole keynote Friday remains the week pivot.",
+  "narrative": "GBP & AUD still lead \u00b7 CHF lags. Warsh Jackson Hole (28 Aug) hawkish: inflation still concerning, summer PCE/CPI not enough to show underlying improvement; 'we have work to do' if path to 2% not clear. USD firmed, DXY ~99.7, Gold sold hard. UoM Sentiment final 51.7. COT carried (Sat). Weekend quiet; next CFTC possible Sun.",
   "fx_ranking": [
     {
       "currency": "GBP",
@@ -27,26 +27,26 @@
     },
     {
       "currency": "EUR",
-      "score": 6,
+      "score": 5,
       "rank": 3
     },
     {
-      "currency": "NZD",
-      "score": 3,
+      "currency": "USD",
+      "score": 4,
       "rank": 4
+    },
+    {
+      "currency": "NZD",
+      "score": 2,
+      "rank": 5
     },
     {
       "currency": "CAD",
       "score": 1,
-      "rank": 5
-    },
-    {
-      "currency": "JPY",
-      "score": -1,
       "rank": 6
     },
     {
-      "currency": "USD",
+      "currency": "JPY",
       "score": -1,
       "rank": 7
     },
@@ -609,10 +609,10 @@
           "items": [
             {
               "name": "Trend vs USD / DXY",
-              "actual": "USDCAD up / CAD soft on trade risk",
+              "actual": "softer vs firmer USD",
               "forecast": "\u2014",
               "impact": -1,
-              "last_update": "2026-08-25",
+              "last_update": "2026-08-29",
               "next_update": "daily"
             },
             {
@@ -814,14 +814,14 @@
           ]
         },
         "Technicals": {
-          "score": 1,
+          "score": 0,
           "items": [
             {
               "name": "Trend vs USD / DXY",
-              "actual": "NZDUSD ~0.598 firm",
+              "actual": "softer vs firmer USD",
               "forecast": "\u2014",
-              "impact": 1,
-              "last_update": "2026-08-24",
+              "impact": 0,
+              "last_update": "2026-08-29",
               "next_update": "daily"
             },
             {
@@ -886,12 +886,12 @@
         "Economic Growth": 0,
         "Inflation": 1,
         "Jobs Market": 0,
-        "Technicals": 1,
+        "Technicals": 0,
         "Seasonality": 1,
         "Sentiment": 1,
         "COT": -1
       },
-      "composite": 3
+      "composite": 2
     },
     "EUR": {
       "line_items": {
@@ -1023,14 +1023,14 @@
           ]
         },
         "Technicals": {
-          "score": 1,
+          "score": 0,
           "items": [
             {
               "name": "Trend vs USD / DXY",
-              "actual": "EURUSD ~1.168",
+              "actual": "softer vs firmer USD",
               "forecast": "\u2014",
-              "impact": 1,
-              "last_update": "2026-08-24",
+              "impact": 0,
+              "last_update": "2026-08-29",
               "next_update": "daily"
             },
             {
@@ -1095,12 +1095,12 @@
         "Economic Growth": 2,
         "Inflation": 0,
         "Jobs Market": 0,
-        "Technicals": 1,
+        "Technicals": 0,
         "Seasonality": 0,
         "Sentiment": 1,
         "COT": 2
       },
-      "composite": 6
+      "composite": 5
     },
     "JPY": {
       "line_items": {
@@ -1359,7 +1359,7 @@
           ]
         },
         "Inflation": {
-          "score": 0,
+          "score": 1,
           "items": [
             {
               "name": "CPI YoY",
@@ -1379,7 +1379,7 @@
             },
             {
               "name": "PCE YoY",
-              "actual": "3.7% (headline) / Core 3.3%",
+              "actual": "3.7% / Core 3.3% (sticky)",
               "forecast": "3.6% / 3.3%",
               "impact": 0,
               "last_update": "2026-08-26",
@@ -1387,16 +1387,16 @@
             },
             {
               "name": "Interest Rate",
-              "actual": "3.50\u20133.75% hold",
+              "actual": "Warsh JH hawkish tilt",
               "forecast": "\u2014",
-              "impact": 0,
-              "last_update": "2026-07-30",
+              "impact": 1,
+              "last_update": "2026-08-28",
               "next_update": "2026-09-17"
             }
           ]
         },
         "Jobs Market": {
-          "score": 0,
+          "score": 1,
           "items": [
             {
               "name": "Non-Farm Payroll",
@@ -1416,11 +1416,11 @@
             },
             {
               "name": "Jobless Claims",
-              "actual": "~210k",
-              "forecast": "210k",
-              "impact": 0,
-              "last_update": "2026-08-21",
-              "next_update": "2026-08-28"
+              "actual": "203k (beat)",
+              "forecast": "208k",
+              "impact": 1,
+              "last_update": "2026-08-27",
+              "next_update": "2026-09-03"
             },
             {
               "name": "ADP Employment",
@@ -1441,22 +1441,22 @@
           ]
         },
         "Technicals": {
-          "score": -2,
+          "score": 1,
           "items": [
             {
               "name": "Trend vs USD / DXY",
-              "actual": "DXY ~99.1 firmer post-PCE",
+              "actual": "DXY ~99.7 firm post-Warsh",
               "forecast": "\u2014",
-              "impact": -1,
-              "last_update": "2026-08-27",
+              "impact": 1,
+              "last_update": "2026-08-29",
               "next_update": "daily"
             },
             {
               "name": "Structure (HH/HL or LH/LL)",
-              "actual": "range / mild recovery",
+              "actual": "recovery / higher",
               "forecast": "\u2014",
-              "impact": -1,
-              "last_update": "2026-08-27",
+              "impact": 0,
+              "last_update": "2026-08-29",
               "next_update": "daily"
             }
           ]
@@ -1511,14 +1511,14 @@
       },
       "pillars": {
         "Economic Growth": 2,
-        "Inflation": 0,
-        "Jobs Market": 0,
-        "Technicals": -2,
+        "Inflation": 1,
+        "Jobs Market": 1,
+        "Technicals": 1,
         "Seasonality": -1,
         "Sentiment": 0,
         "COT": 0
       },
-      "composite": -1
+      "composite": 4
     },
     "CHF": {
       "line_items": {
@@ -1654,10 +1654,10 @@
           "items": [
             {
               "name": "Trend vs USD / DXY",
-              "actual": "CHF mixed vs soft USD",
+              "actual": "softer vs firmer USD",
               "forecast": "\u2014",
               "impact": 0,
-              "last_update": "2026-08-24",
+              "last_update": "2026-08-29",
               "next_update": "daily"
             },
             {
@@ -1757,50 +1757,50 @@
     },
     {
       "rank": 3,
-      "pair": "GBP/USD",
-      "direction": "BUY",
-      "score": 11,
-      "probability": "HIGH",
-      "base_comp": 9,
-      "quote_comp": -2,
-      "cb_rates": "GBP vs USD",
-      "trend": "ALIGNED",
-      "reason": "Gap 11 \u00b7 GBP +9 vs USD -2"
-    },
-    {
-      "rank": 4,
-      "pair": "AUD/USD",
-      "direction": "BUY",
-      "score": 11,
-      "probability": "HIGH",
-      "base_comp": 9,
-      "quote_comp": -2,
-      "cb_rates": "AUD vs USD",
-      "trend": "ALIGNED",
-      "reason": "Gap 11 \u00b7 AUD +9 vs USD -2"
-    },
-    {
-      "rank": 5,
       "pair": "EUR/CHF",
       "direction": "BUY",
-      "score": 12,
+      "score": 11,
       "probability": "HIGH",
-      "base_comp": 6,
+      "base_comp": 5,
       "quote_comp": -6,
       "cb_rates": "EUR vs CHF",
       "trend": "ALIGNED",
-      "reason": "Gap 12 \u00b7 EUR +6 vs CHF -6"
+      "reason": "Gap 11 \u00b7 EUR +5 vs CHF -6"
+    },
+    {
+      "rank": 4,
+      "pair": "GBP/USD",
+      "direction": "BUY",
+      "score": 5,
+      "probability": "MOD",
+      "base_comp": 9,
+      "quote_comp": 4,
+      "cb_rates": "GBP vs USD",
+      "trend": "ALIGNED",
+      "reason": "Gap 5 \u00b7 GBP +9 vs USD 4"
+    },
+    {
+      "rank": 5,
+      "pair": "AUD/USD",
+      "direction": "BUY",
+      "score": 5,
+      "probability": "MOD",
+      "base_comp": 9,
+      "quote_comp": 4,
+      "cb_rates": "AUD vs USD",
+      "trend": "ALIGNED",
+      "reason": "Gap 5 \u00b7 AUD +9 vs USD 4"
     }
   ],
   "assets": {
     "GOLD": {
-      "composite": 11,
-      "score": 12,
-      "bias": "BULLISH",
+      "composite": 7,
+      "score": 6,
+      "bias": "NEUTRAL / CONSOLIDATING",
       "pillars": {
         "Positioning": 3,
-        "USD / Macro rates": 2,
-        "Momentum / Trend": 3,
+        "USD / Macro rates": 1,
+        "Momentum / Trend": 0,
         "Flows / Demand": 2,
         "Risk / Liquidity": 1,
         "Sentiment": 0
@@ -1832,7 +1832,7 @@
           "items": [
             {
               "name": "DXY trend",
-              "actual": "DXY ~99.1 firmer",
+              "actual": "DXY ~99.7 firm",
               "forecast": "\u2014",
               "impact": 2,
               "last_update": "2026-08-25",
@@ -1853,7 +1853,7 @@
           "items": [
             {
               "name": "20d price structure",
-              "actual": "consolidates ~4655 after multi-week run",
+              "actual": "sold post-Warsh ~4505",
               "forecast": "\u2014",
               "impact": 2,
               "last_update": "2026-08-25",
@@ -1861,7 +1861,7 @@
             },
             {
               "name": "Key level hold / break",
-              "actual": "holds >4600 zone",
+              "actual": "broke lower from multi-week run",
               "forecast": "\u2014",
               "impact": 2,
               "last_update": "2026-08-25",
@@ -1937,8 +1937,8 @@
       "cot_series": "Disagg Managed Money"
     },
     "BTC": {
-      "composite": 7,
-      "score": 7,
+      "composite": 5,
+      "score": 5,
       "bias": "STRONG BULLISH",
       "pillars": {
         "Positioning": 0,
@@ -1996,7 +1996,7 @@
           "items": [
             {
               "name": "20d price structure",
-              "actual": "steady ~78.9-79.2k",
+              "actual": "pulled back ~77.8k",
               "forecast": "\u2014",
               "impact": 2,
               "last_update": "2026-08-25",
@@ -2082,7 +2082,7 @@
     "NQ": {
       "composite": 0,
       "score": 0,
-      "bias": "NEUTRAL",
+      "bias": "MILD BULLISH",
       "pillars": {
         "Positioning": 0,
         "USD / Macro rates": -1,
@@ -2495,176 +2495,225 @@
       "series": "TFF LF"
     }
   },
-  "cot_as_of": "2026-08-18 (CFTC official TFF LF / GOLD Disagg MM) \u2014 CARRIED (Thu). Next release ~2026-08-28",
-  "sentiment_as_of": "2026-08-27 (retail aggregates)",
+  "cot_as_of": "2026-08-18 (CFTC official TFF LF / GOLD Disagg MM) \u2014 CARRIED (Sat). Next release ~2026-08-28/29 or following Friday",
+  "sentiment_as_of": "2026-08-29 (retail aggregates)",
   "prices": {
-    "EUR/USD": 1.1656,
-    "EURUSD": 1.1656,
-    "GBP/USD": 1.3592,
-    "GBPUSD": 1.3592,
-    "USD/JPY": 159.3,
-    "USDJPY": 159.3,
-    "USD/CHF": 0.8052,
-    "USDCHF": 0.8052,
-    "AUD/USD": 0.7183,
-    "AUDUSD": 0.7183,
-    "USD/CAD": 1.3878,
-    "USDCAD": 1.3878,
-    "NZD/USD": 0.5951,
-    "NZDUSD": 0.5951,
-    "EUR/GBP": 0.8576,
-    "EURGBP": 0.8576,
-    "EUR/JPY": 185.65,
-    "EURJPY": 185.65,
-    "EUR/CHF": 0.9385,
-    "EURCHF": 0.9385,
-    "EUR/AUD": 1.623,
-    "EURAUD": 1.623,
-    "EUR/CAD": 1.6175,
-    "EURCAD": 1.6175,
-    "EUR/NZD": 1.959,
-    "EURNZD": 1.959,
-    "GBP/JPY": 216.4,
-    "GBPJPY": 216.4,
-    "GBP/CHF": 1.094,
-    "GBPCHF": 1.094,
-    "GBP/AUD": 1.8925,
-    "GBPAUD": 1.8925,
-    "GBP/CAD": 1.886,
-    "GBPCAD": 1.886,
-    "GBP/NZD": 2.284,
-    "GBPNZD": 2.284,
-    "AUD/JPY": 114.4,
-    "AUDJPY": 114.4,
-    "AUD/CHF": 0.578,
-    "AUDCHF": 0.578,
-    "AUD/CAD": 0.9965,
-    "AUDCAD": 0.9965,
-    "AUD/NZD": 1.207,
-    "AUDNZD": 1.207,
-    "NZD/JPY": 94.8,
-    "NZDJPY": 94.8,
-    "NZD/CHF": 0.479,
-    "NZDCHF": 0.479,
-    "NZD/CAD": 0.8255,
-    "NZDCAD": 0.8255,
-    "CAD/JPY": 114.8,
-    "CADJPY": 114.8,
-    "CAD/CHF": 0.58,
-    "CADCHF": 0.58,
-    "CHF/JPY": 197.8,
-    "CHFJPY": 197.8,
-    "XAUUSD": 4655.0,
-    "XAU/USD": 4655.0,
-    "GOLD": 4655.0,
-    "BTCUSD": 78950.0,
-    "BTC/USD": 78950.0,
-    "BTC": 78950.0,
-    "NQ": 29300.0,
-    "DXY": 99.12
-  },
-  "prices_prev_close": {
-    "EUR/USD": 1.1668,
-    "EURUSD": 1.1668,
-    "GBP/USD": 1.3565,
-    "GBPUSD": 1.3565,
-    "USD/JPY": 159.05,
-    "USDJPY": 159.05,
-    "USD/CHF": 0.8025,
-    "USDCHF": 0.8025,
-    "AUD/USD": 0.7172,
-    "AUDUSD": 0.7172,
-    "USD/CAD": 1.3795,
-    "USDCAD": 1.3795,
-    "NZD/USD": 0.5968,
-    "NZDUSD": 0.5968,
-    "EUR/GBP": 0.8604,
-    "EURGBP": 0.8604,
-    "EUR/JPY": 185.55,
-    "EURJPY": 185.55,
+    "EUR/USD": 1.1582,
+    "EURUSD": 1.1582,
+    "GBP/USD": 1.3531,
+    "GBPUSD": 1.3531,
+    "USD/JPY": 160.05,
+    "USDJPY": 160.05,
+    "USD/CHF": 0.809,
+    "USDCHF": 0.809,
+    "AUD/USD": 0.716,
+    "AUDUSD": 0.716,
+    "USD/CAD": 1.39,
+    "USDCAD": 1.39,
+    "NZD/USD": 0.5912,
+    "NZDUSD": 0.5912,
+    "EUR/GBP": 0.8559,
+    "EURGBP": 0.8559,
+    "EUR/JPY": 185.3,
+    "EURJPY": 185.3,
     "EUR/CHF": 0.9365,
     "EURCHF": 0.9365,
-    "EUR/AUD": 1.627,
-    "EURAUD": 1.627,
-    "EUR/CAD": 1.6095,
-    "EURCAD": 1.6095,
-    "EUR/NZD": 1.955,
-    "EURNZD": 1.955,
-    "GBP/JPY": 215.7,
-    "GBPJPY": 215.7,
-    "GBP/CHF": 1.088,
-    "GBPCHF": 1.088,
-    "GBP/AUD": 1.8915,
-    "GBPAUD": 1.8915,
-    "GBP/CAD": 1.8705,
-    "GBPCAD": 1.8705,
-    "GBP/NZD": 2.272,
-    "GBPNZD": 2.272,
-    "AUD/JPY": 114.1,
-    "AUDJPY": 114.1,
-    "AUD/CHF": 0.5752,
-    "AUDCHF": 0.5752,
-    "AUD/CAD": 0.989,
-    "AUDCAD": 0.989,
-    "AUD/NZD": 1.2015,
-    "AUDNZD": 1.2015,
-    "NZD/JPY": 94.95,
-    "NZDJPY": 94.95,
-    "NZD/CHF": 0.479,
-    "NZDCHF": 0.479,
-    "NZD/CAD": 0.8238,
-    "NZDCAD": 0.8238,
-    "CAD/JPY": 115.3,
-    "CADJPY": 115.3,
-    "CAD/CHF": 0.5815,
-    "CADCHF": 0.5815,
-    "CHF/JPY": 198.2,
-    "CHFJPY": 198.2,
-    "XAUUSD": 4672.0,
-    "XAU/USD": 4672.0,
-    "GOLD": 4672.0,
-    "BTCUSD": 79250.0,
-    "BTC/USD": 79250.0,
-    "BTC": 79250.0,
-    "NQ": 29080.0,
-    "DXY": 98.85
+    "EUR/AUD": 1.6175,
+    "EURAUD": 1.6175,
+    "EUR/CAD": 1.61,
+    "EURCAD": 1.61,
+    "EUR/NZD": 1.959,
+    "EURNZD": 1.959,
+    "GBP/JPY": 216.55,
+    "GBPJPY": 216.55,
+    "GBP/CHF": 1.0945,
+    "GBPCHF": 1.0945,
+    "GBP/AUD": 1.89,
+    "GBPAUD": 1.89,
+    "GBP/CAD": 1.8805,
+    "GBPCAD": 1.8805,
+    "GBP/NZD": 2.289,
+    "GBPNZD": 2.289,
+    "AUD/JPY": 114.6,
+    "AUDJPY": 114.6,
+    "AUD/CHF": 0.579,
+    "AUDCHF": 0.579,
+    "AUD/CAD": 0.9955,
+    "AUDCAD": 0.9955,
+    "AUD/NZD": 1.211,
+    "AUDNZD": 1.211,
+    "NZD/JPY": 94.65,
+    "NZDJPY": 94.65,
+    "NZD/CHF": 0.4785,
+    "NZDCHF": 0.4785,
+    "NZD/CAD": 0.8215,
+    "NZDCAD": 0.8215,
+    "CAD/JPY": 115.15,
+    "CADJPY": 115.15,
+    "CAD/CHF": 0.582,
+    "CADCHF": 0.582,
+    "CHF/JPY": 197.85,
+    "CHFJPY": 197.85,
+    "XAUUSD": 4505.0,
+    "XAU/USD": 4505.0,
+    "GOLD": 4505.0,
+    "BTCUSD": 77800.0,
+    "BTC/USD": 77800.0,
+    "BTC": 77800.0,
+    "NQ": 29400.0,
+    "DXY": 99.68
+  },
+  "prices_prev_close": {
+    "EUR/USD": 1.1645,
+    "EURUSD": 1.1645,
+    "GBP/USD": 1.3588,
+    "GBPUSD": 1.3588,
+    "USD/JPY": 159.5,
+    "USDJPY": 159.5,
+    "USD/CHF": 0.805,
+    "USDCHF": 0.805,
+    "AUD/USD": 0.7198,
+    "AUDUSD": 0.7198,
+    "USD/CAD": 1.3855,
+    "USDCAD": 1.3855,
+    "NZD/USD": 0.5958,
+    "NZDUSD": 0.5958,
+    "EUR/GBP": 0.857,
+    "EURGBP": 0.857,
+    "EUR/JPY": 185.75,
+    "EURJPY": 185.75,
+    "EUR/CHF": 0.9375,
+    "EURCHF": 0.9375,
+    "EUR/AUD": 1.618,
+    "EURAUD": 1.618,
+    "EUR/CAD": 1.6135,
+    "EURCAD": 1.6135,
+    "EUR/NZD": 1.954,
+    "EURNZD": 1.954,
+    "GBP/JPY": 216.7,
+    "GBPJPY": 216.7,
+    "GBP/CHF": 1.0935,
+    "GBPCHF": 1.0935,
+    "GBP/AUD": 1.888,
+    "GBPAUD": 1.888,
+    "GBP/CAD": 1.8825,
+    "GBPCAD": 1.8825,
+    "GBP/NZD": 2.28,
+    "GBPNZD": 2.28,
+    "AUD/JPY": 114.8,
+    "AUDJPY": 114.8,
+    "AUD/CHF": 0.5795,
+    "AUDCHF": 0.5795,
+    "AUD/CAD": 0.997,
+    "AUDCAD": 0.997,
+    "AUD/NZD": 1.208,
+    "AUDNZD": 1.208,
+    "NZD/JPY": 95.05,
+    "NZDJPY": 95.05,
+    "NZD/CHF": 0.4795,
+    "NZDCHF": 0.4795,
+    "NZD/CAD": 0.826,
+    "NZDCAD": 0.826,
+    "CAD/JPY": 115.1,
+    "CADJPY": 115.1,
+    "CAD/CHF": 0.581,
+    "CADCHF": 0.581,
+    "CHF/JPY": 198.1,
+    "CHFJPY": 198.1,
+    "XAUUSD": 4595.0,
+    "XAU/USD": 4595.0,
+    "GOLD": 4595.0,
+    "BTCUSD": 79600.0,
+    "BTC/USD": 79600.0,
+    "BTC": 79600.0,
+    "NQ": 29450.0,
+    "DXY": 99.18
   },
   "data_status": {
     "live": [
       "Prices live: all 28 FX pairs + GOLD/BTC/NQ/DXY (today running)",
-      "prices_prev_close: all 28 + cross = 2026-08-26 close",
+      "prices_prev_close: all 28 + cross = 2026-08-28 close",
       "Full 28-pair Sentiment",
-      "Technicals / structure (DXY firmer post-PCE)",
-      "USD Inflation: Core PCE 3.3% YoY / 0.2% MoM (26 Aug)",
-      "USD Growth: Durable Goods +1.1% beat + GDP 1.5% unrevised",
-      "Cross-asset tape (GOLD consolidates, BTC steady)",
-      "Major headlines (Jackson Hole week, sticky PCE)"
+      "Technicals / structure (USD firmer, Gold sold post-Warsh)",
+      "USD Interest Rate / Inflation: Warsh JH hawkish tilt incorporated",
+      "Cross-asset tape (GOLD ~4505, BTC ~77.8k)",
+      "News / Highlights (display-only)",
+      "Major headlines (Warsh Jackson Hole)"
     ],
     "carried": [
-      "COT (week ending 18 Aug \u2014 Thu carry; next CFTC ~28 Aug)",
-      "Non-daily pillars (residual CPI, policy rates, Seasonality)",
-      "Jobless Claims pending (due later today US)"
+      "COT (week ending 18 Aug \u2014 Sat carry; next CFTC ~28/29 Aug or following week)",
+      "Non-daily pillars residual (Seasonality, some Growth/Jobs)"
     ],
     "missing": [],
-    "notes": "Locked rules. Core PCE + Durable Goods + GDP 2nd incorporated for USD. Jobless Claims due ~08:30 ET today \u2014 Jobs row neutral until print. Warsh Fri remains week pivot."
+    "notes": "Locked rules incl. news_highlights display-only. Warsh JH Tier-1 retained. News tags do not affect any score. Weekend quiet."
   },
   "cot_series": "TFF Leveraged Funds",
   "scoring_integrity": {
-    "rule": "fixed catalog; pillar=sum(lines); composite=sum(pillars); COT=2 rows only",
+    "rule": "fixed catalog; pillar=sum(lines); composite=sum(pillars); COT=2 rows only; news_highlights display-only zero influence",
     "verified": true
   },
-  "report_date": "2026-08-27",
+  "report_date": "2026-08-29",
   "session": "Asia",
   "cot_series_primary": "TFF Leveraged Funds (FX) \u00b7 Disagg Managed Money (GOLD)",
   "calendar_notes": [
-    "Thu 27: US Initial Jobless Claims (pending at Asia generation) \u00b7 Continuing Claims.",
-    "Fri 28: Fed Chair Warsh Jackson Hole keynote (~10:00 ET) \u00b7 Chicago PMI \u00b7 UoM Sentiment final.",
-    "26 Aug prints: Core PCE 3.3% YoY (in line) \u00b7 Durable Goods +1.1% (beat) \u00b7 GDP 2nd est 1.5% unrevised.",
-    "CAD: trade headlines still overhang."
+    "Fri 28: Warsh Jackson Hole keynote \u2014 hawkish on inflation; markets lifted Sep hike odds.",
+    "Fri 28: UoM Sentiment final 51.7.",
+    "Sat 29: Weekend \u2014 no major scheduled prints.",
+    "Next: possible COT refresh Sun/Mon; NFP week ahead."
   ],
   "prices_as_of": {
-    "prev_close_date": "2026-08-26",
-    "live_as_of": "2026-08-27",
+    "prev_close_date": "2026-08-28",
+    "live_as_of": "2026-08-29",
     "coverage": "All 28 FX pairs + XAUUSD + BTCUSD + NQ + DXY"
-  }
+  },
+  "news_highlights": [
+    {
+      "currency_or_asset": "USD",
+      "headline_summary": "Warsh Jackson Hole (28 Aug): inflation still concerning; summer PCE/CPI readings do not show underlying trends have meaningfully improved. 'We have work to do' if path to 2% not clear.",
+      "tag": "BULLISH",
+      "tier": 1,
+      "as_of": "2026-08-28",
+      "expires_or_review": "2026-09-04"
+    },
+    {
+      "currency_or_asset": "GOLD",
+      "headline_summary": "Gold sold sharply after hawkish Warsh speech and firmer USD; multi-week run interrupted, trading ~4505.",
+      "tag": "BEARISH",
+      "tier": 1,
+      "as_of": "2026-08-28",
+      "expires_or_review": "2026-09-04"
+    },
+    {
+      "currency_or_asset": "USD",
+      "headline_summary": "UoM Consumer Sentiment final August 51.7 (from 55.2 prior).",
+      "tag": "NEUTRAL",
+      "tier": 2,
+      "as_of": "2026-08-28",
+      "expires_or_review": "daily"
+    },
+    {
+      "currency_or_asset": "BTC",
+      "headline_summary": "Bitcoin pulled back with risk assets after Warsh hawkish tilt; trading near 77.8k.",
+      "tag": "NEUTRAL",
+      "tier": 2,
+      "as_of": "2026-08-28",
+      "expires_or_review": "daily"
+    },
+    {
+      "currency_or_asset": "EUR",
+      "headline_summary": "EUR softer vs firmer USD post-Warsh; no new major Eurozone prints overnight.",
+      "tag": "BEARISH",
+      "tier": 2,
+      "as_of": "2026-08-29",
+      "expires_or_review": "daily"
+    },
+    {
+      "currency_or_asset": "GBP",
+      "headline_summary": "GBP softer vs USD post-Warsh but still leads G8 on relative score; no new UK data.",
+      "tag": "NEUTRAL",
+      "tier": 2,
+      "as_of": "2026-08-29",
+      "expires_or_review": "daily"
+    }
+  ]
 }
