@@ -1,0 +1,2651 @@
+{
+  "type": "cot_history_backfill",
+  "description": "Official CFTC weekly nets for J4X Desk Terminal. Import after clearing localStorage to restore history chart.",
+  "as_of": "2026-08-25",
+  "series": "TFF Leveraged Funds (Lev_Money Long \u2212 Short)",
+  "note": "FX/USD/BTC/NQ: CFTC TFF Futures Only (Lev_Money). GOLD: CFTC Disaggregated Futures Only (Managed Money). Official files through 2026-08-18. No interpolation. Extended with 2026-08-25 official week. GOLD uses Disagg Managed Money only.",
+  "assets": {
+    "AUD": [
+      {
+        "date": "2026-01-06",
+        "net": 35115,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-13",
+        "net": 30217,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-20",
+        "net": 27558,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-27",
+        "net": 44726,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-03",
+        "net": 59409,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-10",
+        "net": 64904,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-17",
+        "net": 70260,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-24",
+        "net": 64653,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-03",
+        "net": 54635,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-10",
+        "net": 46568,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-17",
+        "net": 45359,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-24",
+        "net": 49145,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-31",
+        "net": 52569,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-07",
+        "net": 45901,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-14",
+        "net": 43642,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-21",
+        "net": 48325,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-28",
+        "net": 47855,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-05",
+        "net": 56600,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-12",
+        "net": 55851,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-19",
+        "net": 61178,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-26",
+        "net": 60234,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-02",
+        "net": 58800,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-09",
+        "net": 42292,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-16",
+        "net": 41538,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-23",
+        "net": 39111,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-30",
+        "net": 31777,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-07",
+        "net": 29683,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-14",
+        "net": 27222,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-21",
+        "net": 24788,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-28",
+        "net": 27618,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-04",
+        "net": 40637,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-11",
+        "net": 48541,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-18",
+        "net": 52108,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-25",
+        "net": 54061,
+        "index": 82,
+        "percentile_3y": 82,
+        "source": "CFTC"
+      }
+    ],
+    "BTC": [
+      {
+        "date": "2026-01-06",
+        "net": -11740,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-13",
+        "net": -12718,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-20",
+        "net": -11558,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-27",
+        "net": -12396,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-03",
+        "net": -11425,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-10",
+        "net": -9499,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-17",
+        "net": -8876,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-24",
+        "net": -8236,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-03",
+        "net": -9195,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-10",
+        "net": -9679,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-17",
+        "net": -10860,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-24",
+        "net": -8351,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-31",
+        "net": -8052,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-07",
+        "net": -8427,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-14",
+        "net": -10239,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-21",
+        "net": -10722,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-28",
+        "net": -10360,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-05",
+        "net": -11738,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-12",
+        "net": -11070,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-19",
+        "net": -8961,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-26",
+        "net": -8634,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-02",
+        "net": -6558,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-09",
+        "net": -5995,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-16",
+        "net": -6607,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-23",
+        "net": -6130,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-30",
+        "net": -5313,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-07",
+        "net": -6717,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-14",
+        "net": -7491,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-21",
+        "net": -7949,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-28",
+        "net": -6873,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-04",
+        "net": -7240,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-11",
+        "net": -7052,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-18",
+        "net": -7439,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-25",
+        "net": -1784,
+        "index": 32,
+        "percentile_3y": 32,
+        "source": "CFTC"
+      }
+    ],
+    "CAD": [
+      {
+        "date": "2026-01-06",
+        "net": -57096,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-13",
+        "net": -55699,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-20",
+        "net": -57357,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-27",
+        "net": -52216,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-03",
+        "net": -52855,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-10",
+        "net": -51008,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-17",
+        "net": -42034,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-24",
+        "net": -34101,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-03",
+        "net": -41371,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-10",
+        "net": -37159,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-17",
+        "net": -37852,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-24",
+        "net": -31700,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-31",
+        "net": -42910,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-07",
+        "net": -44144,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-14",
+        "net": -61404,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-21",
+        "net": -64215,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-28",
+        "net": -53828,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-05",
+        "net": -47758,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-12",
+        "net": -37663,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-19",
+        "net": -38654,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-26",
+        "net": -38095,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-02",
+        "net": -44601,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-09",
+        "net": -58623,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-16",
+        "net": -65053,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-23",
+        "net": -83377,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-30",
+        "net": -88101,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-07",
+        "net": -85957,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-14",
+        "net": -92771,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-21",
+        "net": -98377,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-28",
+        "net": -102495,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-04",
+        "net": -101748,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-11",
+        "net": -92005,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-18",
+        "net": -88897,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-25",
+        "net": -72092,
+        "index": 32,
+        "percentile_3y": 32,
+        "source": "CFTC"
+      }
+    ],
+    "CHF": [
+      {
+        "date": "2026-01-06",
+        "net": -1240,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-13",
+        "net": -571,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-20",
+        "net": -35,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-27",
+        "net": -725,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-03",
+        "net": 361,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-10",
+        "net": -800,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-17",
+        "net": 2455,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-24",
+        "net": 3863,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-03",
+        "net": 4456,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-10",
+        "net": 4280,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-17",
+        "net": 513,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-24",
+        "net": 235,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-31",
+        "net": 1490,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-07",
+        "net": -97,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-14",
+        "net": -3421,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-21",
+        "net": -3766,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-28",
+        "net": -5174,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-05",
+        "net": -6634,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-12",
+        "net": -7708,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-19",
+        "net": -4845,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-26",
+        "net": -4823,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-02",
+        "net": -9949,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-09",
+        "net": -10785,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-16",
+        "net": -12366,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-23",
+        "net": -13816,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-30",
+        "net": -9666,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-07",
+        "net": -7218,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-14",
+        "net": -9500,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-21",
+        "net": -8897,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-28",
+        "net": -9647,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-04",
+        "net": -10084,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-11",
+        "net": -11432,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-18",
+        "net": -9071,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-25",
+        "net": -19946,
+        "index": 49,
+        "percentile_3y": 49,
+        "source": "CFTC"
+      }
+    ],
+    "EUR": [
+      {
+        "date": "2026-01-06",
+        "net": 50600,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-13",
+        "net": 25392,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-20",
+        "net": 10236,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-27",
+        "net": 26361,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-03",
+        "net": 42055,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-10",
+        "net": 50204,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-17",
+        "net": 43549,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-24",
+        "net": 36797,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-03",
+        "net": 29632,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-10",
+        "net": 5231,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-17",
+        "net": -6952,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-24",
+        "net": -13538,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-31",
+        "net": 3947,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-07",
+        "net": 882,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-14",
+        "net": 25382,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-21",
+        "net": 20317,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-28",
+        "net": 11594,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-05",
+        "net": 11846,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-12",
+        "net": 18003,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-19",
+        "net": 16317,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-26",
+        "net": 7296,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-02",
+        "net": 12027,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-09",
+        "net": -17388,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-16",
+        "net": -8926,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-23",
+        "net": -15410,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-30",
+        "net": -32644,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-07",
+        "net": -45461,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-14",
+        "net": -53691,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-21",
+        "net": -56671,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-28",
+        "net": -65198,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-04",
+        "net": -52205,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-11",
+        "net": -60600,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-18",
+        "net": -57716,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-25",
+        "net": -38359,
+        "index": 15,
+        "percentile_3y": 15,
+        "source": "CFTC"
+      }
+    ],
+    "GBP": [
+      {
+        "date": "2026-01-06",
+        "net": 28947,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-13",
+        "net": 38090,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-20",
+        "net": 40778,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-27",
+        "net": 37143,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-03",
+        "net": 35411,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-10",
+        "net": 43479,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-17",
+        "net": 42366,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-24",
+        "net": 40151,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-03",
+        "net": 34506,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-10",
+        "net": 20102,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-17",
+        "net": 11768,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-24",
+        "net": 15716,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-31",
+        "net": 29932,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-07",
+        "net": 26533,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-14",
+        "net": 22331,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-21",
+        "net": 29137,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-28",
+        "net": 28882,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-05",
+        "net": 26049,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-12",
+        "net": 37302,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-19",
+        "net": 31369,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-26",
+        "net": 28829,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-02",
+        "net": 27353,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-09",
+        "net": 22312,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-16",
+        "net": 16836,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-23",
+        "net": 7567,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-30",
+        "net": 16273,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-07",
+        "net": 17979,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-14",
+        "net": 28541,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-21",
+        "net": 33236,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-28",
+        "net": 41097,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-04",
+        "net": 38174,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-11",
+        "net": 40670,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-18",
+        "net": 42877,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-25",
+        "net": 47909,
+        "index": 68,
+        "percentile_3y": 68,
+        "source": "CFTC"
+      }
+    ],
+    "JPY": [
+      {
+        "date": "2026-01-06",
+        "net": -63230,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-13",
+        "net": -98650,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-20",
+        "net": -84737,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-27",
+        "net": -71766,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-03",
+        "net": -54452,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-10",
+        "net": -53867,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-17",
+        "net": -29321,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-24",
+        "net": -26317,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-03",
+        "net": -34225,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-10",
+        "net": -49219,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-17",
+        "net": -65429,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-24",
+        "net": -54852,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-31",
+        "net": -46182,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-07",
+        "net": -51110,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-14",
+        "net": -54445,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-21",
+        "net": -68497,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-28",
+        "net": -75802,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-05",
+        "net": -52897,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-12",
+        "net": -62440,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-19",
+        "net": -64945,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-26",
+        "net": -70508,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-02",
+        "net": -88063,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-09",
+        "net": -99844,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-16",
+        "net": -96772,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-23",
+        "net": -97092,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-30",
+        "net": -115400,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-07",
+        "net": -90083,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-14",
+        "net": -90461,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-21",
+        "net": -96185,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-28",
+        "net": -101990,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-04",
+        "net": -60825,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-11",
+        "net": -53070,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-18",
+        "net": -67971,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-25",
+        "net": -77042,
+        "index": 25,
+        "percentile_3y": 25,
+        "source": "CFTC"
+      }
+    ],
+    "NQ": [
+      {
+        "date": "2026-01-06",
+        "net": -18451,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-13",
+        "net": -22748,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-20",
+        "net": -27012,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-27",
+        "net": -16838,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-03",
+        "net": -11380,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-10",
+        "net": -8601,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-17",
+        "net": -9316,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-24",
+        "net": -16554,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-03",
+        "net": -21789,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-10",
+        "net": -25167,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-17",
+        "net": -31462,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-24",
+        "net": -39379,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-31",
+        "net": -37103,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-07",
+        "net": -38828,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-14",
+        "net": -49667,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-21",
+        "net": -39000,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-28",
+        "net": -35950,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-05",
+        "net": -36100,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-12",
+        "net": -52042,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-19",
+        "net": -45371,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-26",
+        "net": -51679,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-02",
+        "net": -53650,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-09",
+        "net": -34306,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-16",
+        "net": -28154,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-23",
+        "net": -51062,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-30",
+        "net": -68617,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-07",
+        "net": -55013,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-14",
+        "net": -64163,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-21",
+        "net": -74690,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-28",
+        "net": -58298,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-04",
+        "net": -78333,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-11",
+        "net": -89125,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-18",
+        "net": -61771,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-25",
+        "net": -38312,
+        "index": 18,
+        "percentile_3y": 18,
+        "source": "CFTC"
+      }
+    ],
+    "NZD": [
+      {
+        "date": "2026-01-06",
+        "net": -10605,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-13",
+        "net": -10133,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-20",
+        "net": -5119,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-27",
+        "net": -11658,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-03",
+        "net": -10597,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-10",
+        "net": -10785,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-17",
+        "net": -12465,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-24",
+        "net": -10262,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-03",
+        "net": -10295,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-10",
+        "net": -4166,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-17",
+        "net": -15917,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-24",
+        "net": -16730,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-31",
+        "net": -17798,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-07",
+        "net": -15825,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-14",
+        "net": -17091,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-21",
+        "net": -18062,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-28",
+        "net": -16833,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-05",
+        "net": -19294,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-12",
+        "net": -19435,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-19",
+        "net": -15336,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-26",
+        "net": -13670,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-02",
+        "net": -27725,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-09",
+        "net": -22254,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-16",
+        "net": -22187,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-23",
+        "net": -22822,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-30",
+        "net": -25285,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-07",
+        "net": -27201,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-14",
+        "net": -29002,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-21",
+        "net": -31086,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-28",
+        "net": -30027,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-04",
+        "net": -30290,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-11",
+        "net": -33461,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-18",
+        "net": -26806,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-25",
+        "net": -14239,
+        "index": 53,
+        "percentile_3y": 53,
+        "source": "CFTC"
+      }
+    ],
+    "USD": [
+      {
+        "date": "2026-01-06",
+        "net": 766,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-13",
+        "net": -3309,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-20",
+        "net": -4122,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-01-27",
+        "net": 375,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-03",
+        "net": 757,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-10",
+        "net": 2649,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-17",
+        "net": 1892,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-02-24",
+        "net": 850,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-03",
+        "net": -4547,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-10",
+        "net": -11683,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-17",
+        "net": -5615,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-24",
+        "net": -6921,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-03-31",
+        "net": -8832,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-07",
+        "net": -8641,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-14",
+        "net": -3095,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-21",
+        "net": -2409,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-04-28",
+        "net": -3161,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-05",
+        "net": -5805,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-12",
+        "net": -4751,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-19",
+        "net": -11716,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-05-26",
+        "net": -12530,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-02",
+        "net": -11112,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-09",
+        "net": -13656,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-16",
+        "net": -1870,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-23",
+        "net": -5352,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-06-30",
+        "net": -5580,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-07",
+        "net": -4454,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-14",
+        "net": -4866,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-21",
+        "net": -1938,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-07-28",
+        "net": -1601,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-04",
+        "net": 3849,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-11",
+        "net": 5772,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-18",
+        "net": 8112,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC"
+      },
+      {
+        "date": "2026-08-25",
+        "net": 18682,
+        "index": 90,
+        "percentile_3y": 90,
+        "source": "CFTC"
+      }
+    ],
+    "GOLD": [
+      {
+        "date": "2026-01-06",
+        "net": 123213,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-01-13",
+        "net": 134745,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-01-20",
+        "net": 137444,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-01-27",
+        "net": 118159,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-02-03",
+        "net": 92072,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-02-10",
+        "net": 92022,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-02-17",
+        "net": 95893,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-02-24",
+        "net": 95974,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-03-03",
+        "net": 97917,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-03-10",
+        "net": 98399,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-03-17",
+        "net": 102043,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-03-24",
+        "net": 91621,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-03-31",
+        "net": 92814,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-04-07",
+        "net": 90032,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-04-14",
+        "net": 95141,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-04-21",
+        "net": 92976,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-04-28",
+        "net": 89752,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-05-05",
+        "net": 94254,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-05-12",
+        "net": 98015,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-05-19",
+        "net": 93540,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-05-26",
+        "net": 97446,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-06-02",
+        "net": 112179,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-06-09",
+        "net": 105863,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-06-16",
+        "net": 113721,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-06-23",
+        "net": 115395,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-06-30",
+        "net": 120091,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-07-07",
+        "net": 116161,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-07-14",
+        "net": 120779,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-07-21",
+        "net": 124831,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-07-28",
+        "net": 119795,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-08-04",
+        "net": 130766,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-08-11",
+        "net": 137662,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-08-18",
+        "net": 141648,
+        "index": null,
+        "percentile_3y": null,
+        "source": "CFTC Disagg M_Money"
+      },
+      {
+        "date": "2026-08-25",
+        "net": 144747,
+        "index": 65,
+        "percentile_3y": 65,
+        "source": "CFTC"
+      }
+    ]
+  },
+  "date": "2026-08-25",
+  "report_role": "cot_history_seed_only_not_a_daily_macro_report"
+}
