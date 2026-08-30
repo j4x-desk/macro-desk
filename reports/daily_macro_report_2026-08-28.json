@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "generated_at": "2026-08-28T05:30:00Z",
-  "macro_regime": "USD steady \u00b7 Warsh Jackson Hole day \u00b7 Gold consolidates \u00b7 Claims supportive",
+  "macro_regime": "USD steady · Warsh Jackson Hole day · Gold consolidates · Claims supportive",
   "strongest": "GBP",
   "weakest": "CHF",
   "top_setup": "LONG GBP/CHF",
@@ -13,7 +13,7 @@
     "LONG EUR/CHF (+12)",
     "LONG GBP/USD (+9)"
   ],
-  "narrative": "GBP & AUD lead \u00b7 CHF lags. Jobless Claims 203k (beat, lower) mild USD Jobs support. Core PCE sticky + Durable Goods already absorbed. Warsh Jackson Hole keynote later today (~10:00 ET) is the clear week pivot \u2014 high headline risk. Gold consolidates lower after multi-week run; BTC firm near 79.5k. COT carried from 18 Aug (last carry day before possible Sunday refresh).",
+  "narrative": "GBP & AUD lead · CHF lags. Jobless Claims 203k (beat, lower) mild USD Jobs support. Core PCE sticky + Durable Goods already absorbed. Warsh Jackson Hole keynote later today (~10:00 ET) is the clear week pivot — high headline risk. Gold consolidates lower after multi-week run; BTC firm near 79.5k. COT carried from 18 Aug (last carry day before possible Sunday refresh).",
   "fx_ranking": [
     {
       "currency": "GBP",
@@ -97,7 +97,7 @@
             {
               "name": "Consumer Confidence",
               "actual": "GfK soft",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-21",
               "next_update": "2026-09-19"
@@ -118,23 +118,23 @@
             {
               "name": "PPI YoY",
               "actual": "n/a equiv",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "PCE YoY",
               "actual": "n/a (UK CPI)",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "Interest Rate",
               "actual": "BOE 4.00%",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-07",
               "next_update": "2026-09-18"
@@ -163,7 +163,7 @@
             {
               "name": "Jobless Claims",
               "actual": "Claimant mixed",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-12",
               "next_update": "2026-09-16"
@@ -171,18 +171,18 @@
             {
               "name": "ADP Employment",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "JOLTS Openings",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             }
           ]
         },
@@ -192,7 +192,7 @@
             {
               "name": "Trend vs USD / DXY",
               "actual": "GBPUSD ~1.357 firm",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 2,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -200,7 +200,7 @@
             {
               "name": "Structure (HH/HL or LH/LL)",
               "actual": "3m highs zone",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -213,7 +213,7 @@
             {
               "name": "Current month seasonal bias",
               "actual": "mild positive",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -226,7 +226,7 @@
             {
               "name": "Retail positioning (contrarian)",
               "actual": "28% long GBPUSD",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 2,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -239,7 +239,7 @@
             {
               "name": "Weekly change",
               "actual": "increasing",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -247,7 +247,7 @@
             {
               "name": "3Y Index",
               "actual": "95 (YTD proxy)",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -274,7 +274,7 @@
             {
               "name": "GDP Growth QoQ",
               "actual": "moderate",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-03"
@@ -282,7 +282,7 @@
             {
               "name": "Manufacturing PMI",
               "actual": "mixed",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -290,7 +290,7 @@
             {
               "name": "Services PMI",
               "actual": "risk/commodity firm",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-22",
               "next_update": "daily"
@@ -298,7 +298,7 @@
             {
               "name": "Retail Sales MoM",
               "actual": "mixed",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -306,7 +306,7 @@
             {
               "name": "Consumer Confidence",
               "actual": "soft/mixed",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -319,7 +319,7 @@
             {
               "name": "CPI YoY",
               "actual": "still elevated",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-07-30",
               "next_update": "2026-10-29"
@@ -327,23 +327,23 @@
             {
               "name": "PPI YoY",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "PCE YoY",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "Interest Rate",
               "actual": "RBA 3.85%",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-12",
               "next_update": "2026-09-30"
@@ -372,26 +372,26 @@
             {
               "name": "Jobless Claims",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "ADP Employment",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "JOLTS Openings",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             }
           ]
         },
@@ -401,7 +401,7 @@
             {
               "name": "Trend vs USD / DXY",
               "actual": "AUDUSD ~0.716 firm",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 2,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -409,7 +409,7 @@
             {
               "name": "Structure (HH/HL or LH/LL)",
               "actual": "higher highs week",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -422,7 +422,7 @@
             {
               "name": "Current month seasonal bias",
               "actual": "mild support",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -435,7 +435,7 @@
             {
               "name": "Retail positioning (contrarian)",
               "actual": "~36% long AUDUSD",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 2,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -448,7 +448,7 @@
             {
               "name": "Weekly change",
               "actual": "flat",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -456,7 +456,7 @@
             {
               "name": "3Y Index",
               "actual": "85 (YTD proxy)",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -483,7 +483,7 @@
             {
               "name": "GDP Growth QoQ",
               "actual": "moderate",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-08-29"
@@ -491,7 +491,7 @@
             {
               "name": "Manufacturing PMI",
               "actual": "stable",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -499,7 +499,7 @@
             {
               "name": "Services PMI",
               "actual": "stable",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -515,7 +515,7 @@
             {
               "name": "Consumer Confidence",
               "actual": "mixed",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -528,7 +528,7 @@
             {
               "name": "CPI YoY",
               "actual": "near target+",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-19",
               "next_update": "2026-09-16"
@@ -536,23 +536,23 @@
             {
               "name": "PPI YoY",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "PCE YoY",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "Interest Rate",
               "actual": "BoC 2.75%",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-07-30",
               "next_update": "2026-09-17"
@@ -565,7 +565,7 @@
             {
               "name": "Non-Farm Payroll",
               "actual": "Emp stable (equiv)",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-08",
               "next_update": "2026-09-05"
@@ -573,7 +573,7 @@
             {
               "name": "Unemployment Rate",
               "actual": "stable",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-08",
               "next_update": "2026-09-05"
@@ -581,26 +581,26 @@
             {
               "name": "Jobless Claims",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "ADP Employment",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "JOLTS Openings",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             }
           ]
         },
@@ -610,7 +610,7 @@
             {
               "name": "Trend vs USD / DXY",
               "actual": "USDCAD up / CAD soft on trade risk",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -618,7 +618,7 @@
             {
               "name": "Structure (HH/HL or LH/LL)",
               "actual": "trade headline pressure",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -631,7 +631,7 @@
             {
               "name": "Current month seasonal bias",
               "actual": "neutral",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -644,7 +644,7 @@
             {
               "name": "Retail positioning (contrarian)",
               "actual": "mixed/cautious CAD",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -657,7 +657,7 @@
             {
               "name": "Weekly change",
               "actual": "increasing",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -665,7 +665,7 @@
             {
               "name": "3Y Index",
               "actual": "15 (YTD proxy)",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -692,7 +692,7 @@
             {
               "name": "GDP Growth QoQ",
               "actual": "soft",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -700,7 +700,7 @@
             {
               "name": "Manufacturing PMI",
               "actual": "mixed",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -708,7 +708,7 @@
             {
               "name": "Services PMI",
               "actual": "risk tone constructive",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-22",
               "next_update": "daily"
@@ -724,7 +724,7 @@
             {
               "name": "Consumer Confidence",
               "actual": "soft",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -737,7 +737,7 @@
             {
               "name": "CPI YoY",
               "actual": "moderating",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-07-16",
               "next_update": "2026-10-15"
@@ -745,23 +745,23 @@
             {
               "name": "PPI YoY",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "PCE YoY",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "Interest Rate",
               "actual": "RBNZ 3.25%",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-20",
               "next_update": "2026-10-08"
@@ -774,15 +774,15 @@
             {
               "name": "Non-Farm Payroll",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "Unemployment Rate",
               "actual": "elevated vs cycle",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-06",
               "next_update": "2026-11-05"
@@ -790,26 +790,26 @@
             {
               "name": "Jobless Claims",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "ADP Employment",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "JOLTS Openings",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             }
           ]
         },
@@ -819,7 +819,7 @@
             {
               "name": "Trend vs USD / DXY",
               "actual": "NZDUSD ~0.598 firm",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -827,7 +827,7 @@
             {
               "name": "Structure (HH/HL or LH/LL)",
               "actual": "recovering",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -840,7 +840,7 @@
             {
               "name": "Current month seasonal bias",
               "actual": "mild support",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -853,7 +853,7 @@
             {
               "name": "Retail positioning (contrarian)",
               "actual": "~39% long NZDUSD",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -866,7 +866,7 @@
             {
               "name": "Weekly change",
               "actual": "n/a (stale print)",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -874,7 +874,7 @@
             {
               "name": "3Y Index",
               "actual": "35 (YTD proxy)",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -954,23 +954,23 @@
             {
               "name": "PPI YoY",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "PCE YoY",
               "actual": "n/a (HICP)",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "Interest Rate",
               "actual": "ECB dep 2.00%",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-07-24",
               "next_update": "2026-09-11"
@@ -983,10 +983,10 @@
             {
               "name": "Non-Farm Payroll",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "Unemployment Rate",
@@ -999,26 +999,26 @@
             {
               "name": "Jobless Claims",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "ADP Employment",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "JOLTS Openings",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             }
           ]
         },
@@ -1028,7 +1028,7 @@
             {
               "name": "Trend vs USD / DXY",
               "actual": "EURUSD ~1.168",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -1036,7 +1036,7 @@
             {
               "name": "Structure (HH/HL or LH/LL)",
               "actual": "range / mild up",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -1049,7 +1049,7 @@
             {
               "name": "Current month seasonal bias",
               "actual": "neutral",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -1062,7 +1062,7 @@
             {
               "name": "Retail positioning (contrarian)",
               "actual": "~40% long EURUSD",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -1075,7 +1075,7 @@
             {
               "name": "Weekly change",
               "actual": "increasing",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -1083,7 +1083,7 @@
             {
               "name": "3Y Index",
               "actual": "8 (YTD proxy)",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -1110,7 +1110,7 @@
             {
               "name": "GDP Growth QoQ",
               "actual": "soft recovery",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-17",
               "next_update": "2026-11-17"
@@ -1134,7 +1134,7 @@
             {
               "name": "Retail Sales MoM",
               "actual": "mixed",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -1142,7 +1142,7 @@
             {
               "name": "Consumer Confidence",
               "actual": "stable",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -1163,7 +1163,7 @@
             {
               "name": "PPI YoY",
               "actual": "CGPI mixed",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -1171,15 +1171,15 @@
             {
               "name": "PCE YoY",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "Interest Rate",
               "actual": "BOJ 0.50%",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-07-31",
               "next_update": "2026-09-19"
@@ -1192,15 +1192,15 @@
             {
               "name": "Non-Farm Payroll",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "Unemployment Rate",
               "actual": "low",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -1208,26 +1208,26 @@
             {
               "name": "Jobless Claims",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "ADP Employment",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "JOLTS Openings",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             }
           ]
         },
@@ -1237,7 +1237,7 @@
             {
               "name": "Trend vs USD / DXY",
               "actual": "USDJPY ~159",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -1245,7 +1245,7 @@
             {
               "name": "Structure (HH/HL or LH/LL)",
               "actual": "JPY soft vs G10",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -1258,7 +1258,7 @@
             {
               "name": "Current month seasonal bias",
               "actual": "neutral",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -1271,7 +1271,7 @@
             {
               "name": "Retail positioning (contrarian)",
               "actual": "mixed",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -1284,7 +1284,7 @@
             {
               "name": "Weekly change",
               "actual": "flat",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -1292,7 +1292,7 @@
             {
               "name": "3Y Index",
               "actual": "40 (YTD proxy)",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -1387,8 +1387,8 @@
             },
             {
               "name": "Interest Rate",
-              "actual": "3.50\u20133.75% hold",
-              "forecast": "\u2014",
+              "actual": "3.50–3.75% hold",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-07-30",
               "next_update": "2026-09-17"
@@ -1425,7 +1425,7 @@
             {
               "name": "ADP Employment",
               "actual": "~100k",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-06",
               "next_update": "2026-09-04"
@@ -1433,7 +1433,7 @@
             {
               "name": "JOLTS Openings",
               "actual": "~7.2M",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-06",
               "next_update": "2026-09-03"
@@ -1446,7 +1446,7 @@
             {
               "name": "Trend vs USD / DXY",
               "actual": "DXY ~99.18 steady/firm pre-Warsh",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-28",
               "next_update": "daily"
@@ -1454,7 +1454,7 @@
             {
               "name": "Structure (HH/HL or LH/LL)",
               "actual": "range recovery",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-28",
               "next_update": "daily"
@@ -1467,7 +1467,7 @@
             {
               "name": "Current month seasonal bias",
               "actual": "mixed/soft",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -1480,7 +1480,7 @@
             {
               "name": "Retail positioning (contrarian)",
               "actual": "not extreme",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -1493,7 +1493,7 @@
             {
               "name": "Weekly change",
               "actual": "decreasing",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -1501,7 +1501,7 @@
             {
               "name": "3Y Index",
               "actual": "75 (YTD proxy)",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -1528,7 +1528,7 @@
             {
               "name": "GDP Growth QoQ",
               "actual": "lagging peers",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-01",
               "next_update": "2026-11-01"
@@ -1536,7 +1536,7 @@
             {
               "name": "Manufacturing PMI",
               "actual": "soft",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -1544,7 +1544,7 @@
             {
               "name": "Services PMI",
               "actual": "soft",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -1552,7 +1552,7 @@
             {
               "name": "Retail Sales MoM",
               "actual": "soft",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -1560,7 +1560,7 @@
             {
               "name": "Consumer Confidence",
               "actual": "soft",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -1573,7 +1573,7 @@
             {
               "name": "CPI YoY",
               "actual": "near/below target",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-04",
               "next_update": "2026-09-04"
@@ -1581,23 +1581,23 @@
             {
               "name": "PPI YoY",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "PCE YoY",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "Interest Rate",
               "actual": "SNB 0.00%",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -2,
               "last_update": "2026-06-19",
               "next_update": "2026-09-25"
@@ -1610,15 +1610,15 @@
             {
               "name": "Non-Farm Payroll",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "Unemployment Rate",
               "actual": "low stable",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -1626,26 +1626,26 @@
             {
               "name": "Jobless Claims",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "ADP Employment",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             },
             {
               "name": "JOLTS Openings",
               "actual": "n/a",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
-              "last_update": "\u2014",
-              "next_update": "\u2014"
+              "last_update": "—",
+              "next_update": "—"
             }
           ]
         },
@@ -1655,7 +1655,7 @@
             {
               "name": "Trend vs USD / DXY",
               "actual": "CHF mixed vs soft USD",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -1663,7 +1663,7 @@
             {
               "name": "Structure (HH/HL or LH/LL)",
               "actual": "still relative soft",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -1676,7 +1676,7 @@
             {
               "name": "Current month seasonal bias",
               "actual": "neutral",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-01",
               "next_update": "2026-09-01"
@@ -1689,7 +1689,7 @@
             {
               "name": "Retail positioning (contrarian)",
               "actual": "safe-haven limited",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-24",
               "next_update": "daily"
@@ -1702,7 +1702,7 @@
             {
               "name": "Weekly change",
               "actual": "increasing",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -1710,7 +1710,7 @@
             {
               "name": "3Y Index",
               "actual": "35 (YTD proxy)",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-18",
               "next_update": "2026-08-28"
@@ -1739,9 +1739,9 @@
       "probability": "HIGH",
       "base_comp": 9,
       "quote_comp": -6,
-      "cb_rates": "BoE 4.00% \u00b7 SNB 0.00%",
+      "cb_rates": "BoE 4.00% · SNB 0.00%",
       "trend": "ALIGNED",
-      "reason": "GBP: Retail positioning (contrarian) +2 \u00b7 CHF: Interest Rate -2"
+      "reason": "GBP: Retail positioning (contrarian) +2 · CHF: Interest Rate -2"
     },
     {
       "rank": 2,
@@ -1751,9 +1751,9 @@
       "probability": "HIGH",
       "base_comp": 9,
       "quote_comp": -6,
-      "cb_rates": "RBA 3.85% \u00b7 SNB 0.00%",
+      "cb_rates": "RBA 3.85% · SNB 0.00%",
       "trend": "ALIGNED",
-      "reason": "AUD: Retail positioning (contrarian) +2 \u00b7 CHF: Interest Rate -2"
+      "reason": "AUD: Retail positioning (contrarian) +2 · CHF: Interest Rate -2"
     },
     {
       "rank": 3,
@@ -1763,9 +1763,9 @@
       "probability": "HIGH",
       "base_comp": 6,
       "quote_comp": -6,
-      "cb_rates": "ECB 2.00% \u00b7 SNB 0.00%",
+      "cb_rates": "ECB 2.00% · SNB 0.00%",
       "trend": "ALIGNED",
-      "reason": "EUR: Mfg PMI +1 \u00b7 CHF: Interest Rate -2"
+      "reason": "EUR: Mfg PMI +1 · CHF: Interest Rate -2"
     },
     {
       "rank": 4,
@@ -1775,9 +1775,9 @@
       "probability": "MOD",
       "base_comp": 9,
       "quote_comp": 1,
-      "cb_rates": "BoE 4.00% \u00b7 Fed 4.25%",
+      "cb_rates": "BoE 4.00% · Fed 4.25%",
       "trend": "ALIGNED",
-      "reason": "GBP: Retail positioning (contrarian) +2 \u00b7 USD: Mfg PMI +1"
+      "reason": "GBP: Retail positioning (contrarian) +2 · USD: Mfg PMI +1"
     },
     {
       "rank": 5,
@@ -1787,20 +1787,20 @@
       "probability": "MOD",
       "base_comp": 9,
       "quote_comp": 1,
-      "cb_rates": "RBA 3.85% \u00b7 Fed 4.25%",
+      "cb_rates": "RBA 3.85% · Fed 4.25%",
       "trend": "ALIGNED",
-      "reason": "AUD: Retail positioning (contrarian) +2 \u00b7 USD: Mfg PMI +1"
+      "reason": "AUD: Retail positioning (contrarian) +2 · USD: Mfg PMI +1"
     }
   ],
   "assets": {
     "GOLD": {
-      "composite": 10,
-      "score": 10,
+      "composite": 13,
+      "score": 13,
       "bias": "BULLISH",
       "pillars": {
         "Positioning": 3,
-        "USD / Macro rates": 2,
-        "Momentum / Trend": 2,
+        "USD / Macro rates": 3,
+        "Momentum / Trend": 4,
         "Flows / Demand": 2,
         "Risk / Liquidity": 1,
         "Sentiment": 0
@@ -1812,7 +1812,7 @@
             {
               "name": "Spec / managed-money net",
               "actual": "MM +141.6k carried",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 2,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1820,7 +1820,7 @@
             {
               "name": "Weekly positioning change",
               "actual": "+4.0k carried",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1833,7 +1833,7 @@
             {
               "name": "DXY trend",
               "actual": "DXY ~99.18 firm pre-Warsh",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 2,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1841,7 +1841,7 @@
             {
               "name": "Real yield / policy path",
               "actual": "not crushing",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1854,7 +1854,7 @@
             {
               "name": "20d price structure",
               "actual": "consolidates ~4595 after multi-week run",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 2,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1862,7 +1862,7 @@
             {
               "name": "Key level hold / break",
               "actual": "holds >4550 zone",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 2,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1875,7 +1875,7 @@
             {
               "name": "Institutional / ETF / CB flows",
               "actual": "CB structural",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1883,7 +1883,7 @@
             {
               "name": "Structural demand tone",
               "actual": "debasement narrative",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1896,7 +1896,7 @@
             {
               "name": "Risk-on composite",
               "actual": "JH event risk",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1904,7 +1904,7 @@
             {
               "name": "Liquidity / vol regime",
               "actual": "contained",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1917,7 +1917,7 @@
             {
               "name": "Retail / crowdedness",
               "actual": "elevated not extreme",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1955,7 +1955,7 @@
             {
               "name": "Spec / managed-money net",
               "actual": "TFF LF net short",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1963,7 +1963,7 @@
             {
               "name": "Weekly positioning change",
               "actual": "flat/mild",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1976,7 +1976,7 @@
             {
               "name": "DXY trend",
               "actual": "USD soft supportive",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1984,7 +1984,7 @@
             {
               "name": "Real yield / policy path",
               "actual": "mixed",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -1997,7 +1997,7 @@
             {
               "name": "20d price structure",
               "actual": "firm ~79.6k",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 2,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2005,7 +2005,7 @@
             {
               "name": "Key level hold / break",
               "actual": "reclaimed 70k+ firmly",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 2,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2018,7 +2018,7 @@
             {
               "name": "Institutional / ETF / CB flows",
               "actual": "ETF mixed+",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2026,7 +2026,7 @@
             {
               "name": "Structural demand tone",
               "actual": "risk appetite strong",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2039,7 +2039,7 @@
             {
               "name": "Risk-on composite",
               "actual": "constructive",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 1,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2047,7 +2047,7 @@
             {
               "name": "Liquidity / vol regime",
               "actual": "ok",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2060,7 +2060,7 @@
             {
               "name": "Retail / crowdedness",
               "actual": "not extreme",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2098,7 +2098,7 @@
             {
               "name": "Spec / managed-money net",
               "actual": "TFF LF net short",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2106,7 +2106,7 @@
             {
               "name": "Weekly positioning change",
               "actual": "mixed",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2119,7 +2119,7 @@
             {
               "name": "DXY trend",
               "actual": "soft",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2127,7 +2127,7 @@
             {
               "name": "Real yield / policy path",
               "actual": "yields drag",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": -1,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2139,8 +2139,8 @@
           "items": [
             {
               "name": "20d price structure",
-              "actual": "~29.0\u201329.1k mixed",
-              "forecast": "\u2014",
+              "actual": "~29.0–29.1k mixed",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2148,7 +2148,7 @@
             {
               "name": "Key level hold / break",
               "actual": "range",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2161,7 +2161,7 @@
             {
               "name": "Institutional / ETF / CB flows",
               "actual": "systematic mixed",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2169,7 +2169,7 @@
             {
               "name": "Structural demand tone",
               "actual": "Nvidia/earnings week",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2182,7 +2182,7 @@
             {
               "name": "Risk-on composite",
               "actual": "cautious into JH",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2190,7 +2190,7 @@
             {
               "name": "Liquidity / vol regime",
               "actual": "ok",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2203,7 +2203,7 @@
             {
               "name": "Retail / crowdedness",
               "actual": "not extreme",
-              "forecast": "\u2014",
+              "forecast": "—",
               "impact": 0,
               "last_update": "2026-08-25",
               "next_update": "daily"
@@ -2495,7 +2495,7 @@
       "series": "TFF LF"
     }
   },
-  "cot_as_of": "2026-08-18 (CFTC official TFF LF / GOLD Disagg MM) \u2014 CARRIED (Fri). Next release ~2026-08-28/29 possible",
+  "cot_as_of": "2026-08-18 (CFTC official TFF LF / GOLD Disagg MM) — CARRIED (Fri). Next release ~2026-08-28/29 possible",
   "sentiment_as_of": "2026-08-28 (retail aggregates)",
   "prices": {
     "EUR/USD": 1.1645,
@@ -2640,12 +2640,12 @@
       "Major headlines (Warsh Jackson Hole later today)"
     ],
     "carried": [
-      "COT (week ending 18 Aug \u2014 Fri carry; next CFTC ~28/29 Aug possible)",
+      "COT (week ending 18 Aug — Fri carry; next CFTC ~28/29 Aug possible)",
       "Non-daily pillars (residual CPI, policy rates, Seasonality)",
       "Chicago PMI / UoM Sentiment final pending later today"
     ],
     "missing": [],
-    "notes": "Locked rules. Claims 203k incorporated for USD Jobs. Warsh keynote (~10:00 ET) is high-impact headline risk \u2014 narrative and technicals will update post-speech if material. COT last carry day."
+    "notes": "Locked rules. Claims 203k incorporated for USD Jobs. Warsh keynote (~10:00 ET) is high-impact headline risk — narrative and technicals will update post-speech if material. COT last carry day. | Audit correction 2026-08-28: GOLD pillars/composite realigned to line-items; pre-Warsh multi-week run scores retained (text-consistent). BTC composite forced to pillar sum."
   },
   "cot_series": "TFF Leveraged Funds",
   "scoring_integrity": {
@@ -2654,12 +2654,12 @@
   },
   "report_date": "2026-08-28",
   "session": "Asia",
-  "cot_series_primary": "TFF Leveraged Funds (FX) \u00b7 Disagg Managed Money (GOLD)",
+  "cot_series_primary": "TFF Leveraged Funds (FX) · Disagg Managed Money (GOLD)",
   "calendar_notes": [
-    "Fri 28: Fed Chair Warsh Jackson Hole keynote (~10:00 ET) \u2014 primary week pivot.",
-    "Fri 28: Chicago PMI \u00b7 University of Michigan Consumer Sentiment final.",
+    "Fri 28: Fed Chair Warsh Jackson Hole keynote (~10:00 ET) — primary week pivot.",
+    "Fri 28: Chicago PMI · University of Michigan Consumer Sentiment final.",
     "27 Aug: Initial Jobless Claims 203k (beat 208k exp).",
-    "Prior: Core PCE sticky 3.3% \u00b7 Durable Goods +1.1% beat."
+    "Prior: Core PCE sticky 3.3% · Durable Goods +1.1% beat."
   ],
   "prices_as_of": {
     "prev_close_date": "2026-08-27",
