@@ -1739,9 +1739,9 @@
       "probability": "HIGH",
       "base_comp": 9,
       "quote_comp": -6,
-      "cb_rates": "GBP vs CHF",
+      "cb_rates": "BoE 4.00% \u00b7 SNB 0.00%",
       "trend": "ALIGNED",
-      "reason": "Gap 15 \u00b7 GBP +9 vs CHF -6"
+      "reason": "GBP: Retail positioning (contrarian) +2 \u00b7 CHF: Interest Rate -2"
     },
     {
       "rank": 2,
@@ -1751,9 +1751,9 @@
       "probability": "HIGH",
       "base_comp": 9,
       "quote_comp": -6,
-      "cb_rates": "AUD vs CHF",
+      "cb_rates": "RBA 3.85% \u00b7 SNB 0.00%",
       "trend": "ALIGNED",
-      "reason": "Gap 15 \u00b7 AUD +9 vs CHF -6"
+      "reason": "AUD: Retail positioning (contrarian) +2 \u00b7 CHF: Interest Rate -2"
     },
     {
       "rank": 3,
@@ -1763,9 +1763,9 @@
       "probability": "HIGH",
       "base_comp": 9,
       "quote_comp": -3,
-      "cb_rates": "GBP vs USD",
+      "cb_rates": "BoE 4.00% \u00b7 Fed 4.25%",
       "trend": "ALIGNED",
-      "reason": "Gap 12 \u00b7 GBP +9 vs USD -3"
+      "reason": "GBP: Retail positioning (contrarian) +2 \u00b7 USD: USD trend -2"
     },
     {
       "rank": 4,
@@ -1775,9 +1775,9 @@
       "probability": "HIGH",
       "base_comp": 9,
       "quote_comp": -3,
-      "cb_rates": "AUD vs USD",
+      "cb_rates": "RBA 3.85% \u00b7 Fed 4.25%",
       "trend": "ALIGNED",
-      "reason": "Gap 12 \u00b7 AUD +9 vs USD -3"
+      "reason": "AUD: Retail positioning (contrarian) +2 \u00b7 USD: USD trend -2"
     },
     {
       "rank": 5,
@@ -1787,9 +1787,9 @@
       "probability": "HIGH",
       "base_comp": 6,
       "quote_comp": -6,
-      "cb_rates": "EUR vs CHF",
+      "cb_rates": "ECB 2.00% \u00b7 SNB 0.00%",
       "trend": "ALIGNED",
-      "reason": "Gap 12 \u00b7 EUR +6 (Ifo lift) vs CHF -6"
+      "reason": "EUR: Mfg PMI +1 \u00b7 CHF: Interest Rate -2"
     }
   ],
   "assets": {
