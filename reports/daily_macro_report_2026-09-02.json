@@ -2799,7 +2799,8 @@
     "rule": "fixed catalog; pillar=sum(lines); composite=sum(pillars); COT=2 rows only; news_highlights display-only zero influence; SCORE_TEXT_ALIGNMENT_ABSOLUTE; PAIR_SETUPS_SCHEMA_ABSOLUTE",
     "verified": true,
     "gold_note": "Momentum and USD/Macro impacts remain negative post-Warsh (text and scores aligned)",
-    "audit_date": "2026-09-02"
+    "audit_date": "2026-09-02",
+    "news_feeds_rule": "news_feeds is display-only curated external desk notes (FXMOJIX text posts, no voice). Zero influence on scores, pillars, composites, pair_setups, or data_status."
   },
   "report_date": "2026-09-02",
   "session": "Asia",
@@ -2854,6 +2855,85 @@
       "tier": 2,
       "as_of": "2026-09-02",
       "expires_or_review": "daily"
+    }
+  ],
+  "news_feeds": [
+    {
+      "source": "FXMOJIX | FUNDAMENTAL",
+      "as_of": "2026-09-02",
+      "title": "RBNZ Raises OCR +25 bp to 2.75%",
+      "body": "The Reserve Bank of New Zealand raised the Official Cash Rate by 25 basis points to 2.75% in a unanimous decision amid 4.1% inflation, driven by surging fuel prices and Middle East spillover.\n\nThe Committee emphasized a gradual tightening path to avoid larger/faster hikes later. Energy shock viewed as temporary; core inflation and expectations still consistent with returning to the 1–3% target by mid-2027.\n\nMarket impact: Hike is broadly NZD-supportive, but the gradual/temporary language limited upside and NZD later pulled back.",
+      "tags": [
+        "NZD",
+        "RBNZ",
+        "HAWKISH",
+        "GRADUAL"
+      ],
+      "chart_url": null
+    },
+    {
+      "source": "FXMOJIX | FUNDAMENTAL",
+      "as_of": "2026-09-02",
+      "title": "Market Compass — Start of Day",
+      "body": "Key overnight developments:\n• Oil at six-week highs on US–Iran / Hormuz risks → inflation pressure\n• BOJ more hawkish (Ueda + Takata) — supportive for JPY\n• Asian stocks pressured by oil + yields\n• RBNZ hiked to 2.75%; NZD subsequently softened\n\nMarket map: Gold Bearish · USD Bullish · US Stocks Bearish · Bitcoin Neutral\nSentiment: Risk-Off\n\nMain focus later: ADP, BoC decision + press conference, crude inventories, Fed Beige Book.",
+      "tags": [
+        "USD",
+        "GOLD",
+        "RISK-OFF",
+        "OIL"
+      ],
+      "chart_url": null
+    },
+    {
+      "source": "FXMOJIX | FUNDAMENTAL",
+      "as_of": "2026-09-02",
+      "title": "BOJ — Ueda keeps September hike option open",
+      "body": "Governor Ueda reiterated that monetary conditions remain accommodative and the BOJ is willing to continue raising rates. He will assess the cumulative impact of the five previous hikes before deciding timing. He did not rule out a September hike.\n\nAnalysis: Broadly hawkish for JPY. Weaker yen, persistent inflation, and higher energy-import costs strengthen the case for further tightening, though the approach remains gradual and data-dependent.",
+      "tags": [
+        "JPY",
+        "BOJ",
+        "HAWKISH"
+      ],
+      "chart_url": null
+    },
+    {
+      "source": "FXMOJIX | FUNDAMENTAL",
+      "as_of": "2026-09-02",
+      "title": "Economic Calendar focus — RBNZ & BoC day",
+      "body": "Two major central-bank events dominate: RBNZ (markets priced >90% for +25 bp to 2.75%) and Bank of Canada (hold at 2.25% expected).\n\nWatch:\n• RBNZ projected path — if terminal looks closer to 3.0% vs market ~3.5%, NZD can sell off even on a hike\n• ADP vs Fed expectations\n• BoC guidance given strong Canadian data but trade-war pressure",
+      "tags": [
+        "CALENDAR",
+        "RBNZ",
+        "BoC",
+        "NZD",
+        "CAD"
+      ],
+      "chart_url": null
+    },
+    {
+      "source": "FXMOJIX | FUNDAMENTAL",
+      "as_of": "2026-09-01",
+      "title": "U.S. ISM Manufacturing PMI August — Short Analysis",
+      "body": "ISM Mfg 54.6 (vs 55.2 exp / 55.6 prior). Still expansion (8th month) but cooled. New orders 53.7 (down from 56.7). Prices Paid sticky at 71.1. Employment 51.2.\n\nMixed for USD: slowdown in growth/orders negative; elevated prices, supply constraints and employment still inflationary → supports more hawkish Fed lean. Markets may read as mildly stagflationary.",
+      "tags": [
+        "USD",
+        "ISM",
+        "MIXED",
+        "FED"
+      ],
+      "chart_url": null
+    },
+    {
+      "source": "FXMOJIX | FUNDAMENTAL",
+      "as_of": "2026-09-01",
+      "title": "Euro Area Flash CPI August",
+      "body": "Headline CPI 3.3% (vs 3.3% exp / 2.9% prior). Core 2.4% (vs 2.5% exp / 2.5% prior). MoM 0.4%.\n\nCore eased slightly below expectations; headline accelerated on energy. Mixed picture may limit aggressive ECB easing and can provide some EUR support if markets see persistent price pressures.",
+      "tags": [
+        "EUR",
+        "CPI",
+        "MIXED"
+      ],
+      "chart_url": null
     }
   ]
 }
