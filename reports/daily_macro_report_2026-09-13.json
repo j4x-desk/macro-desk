@@ -1,0 +1,2901 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T02:15:00Z",
+  "macro_regime": "Weekend quiet \u00b7 CPI/PPI/ECB locked \u00b7 New COT week pending full TFF extract \u00b7 FOMC 16-17 Sep",
+  "strongest": "GBP",
+  "weakest": "CHF",
+  "top_setup": "LONG GBP/CHF",
+  "top_setup_score": 13,
+  "g8_spread": 13,
+  "high_prob_setups": [
+    "LONG GBP/CHF (+13)",
+    "LONG AUD/CHF (+13)",
+    "LONG USD/CHF (+13)"
+  ],
+  "narrative": "Sunday 13 Sep (weekend): COT CORRECTED. Official CFTC positions as of 8 Sep (released 11 Sep) now applied and rescored. JPY flipped to net long (+103k WoW) \u2014 major. EUR/GBP shorts widened. CAD shorts narrowed sharply. US CPI/PPI/ECB remain locked. Next catalyst: FOMC 16-17 Sep.",
+  "fx_ranking": [
+    {
+      "currency": "GBP",
+      "score": 8,
+      "rank": 1
+    },
+    {
+      "currency": "AUD",
+      "score": 8,
+      "rank": 2
+    },
+    {
+      "currency": "USD",
+      "score": 8,
+      "rank": 3
+    },
+    {
+      "currency": "NZD",
+      "score": 4,
+      "rank": 4
+    },
+    {
+      "currency": "EUR",
+      "score": 1,
+      "rank": 5
+    },
+    {
+      "currency": "JPY",
+      "score": 1,
+      "rank": 6
+    },
+    {
+      "currency": "CAD",
+      "score": -1,
+      "rank": 7
+    },
+    {
+      "currency": "CHF",
+      "score": -5,
+      "rank": 8
+    }
+  ],
+  "fx_details": {
+    "GBP": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 1,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "0.3%",
+              "forecast": "0.2%",
+              "impact": 1,
+              "last_update": "2026-08-14",
+              "next_update": "2026-11-13"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "51.5",
+              "forecast": "51.6",
+              "impact": 0,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-23"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "52.8",
+              "forecast": "51.8",
+              "impact": 1,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-23"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "-0.5%",
+              "forecast": "-0.4%",
+              "impact": -1,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-19"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "GfK soft",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-19"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 1,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "2.9%",
+              "forecast": "2.9%",
+              "impact": 0,
+              "last_update": "2026-08-19",
+              "next_update": "2026-09-17"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "n/a equiv",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "n/a (UK CPI)",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "BoE 3.75%",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-08-07",
+              "next_update": "2026-09-18"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "Emp +28k (equiv)",
+              "forecast": "+20k",
+              "impact": 1,
+              "last_update": "2026-08-12",
+              "next_update": "2026-09-16"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "4.7%",
+              "forecast": "4.7%",
+              "impact": 0,
+              "last_update": "2026-08-12",
+              "next_update": "2026-09-16"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "Claimant mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-12",
+              "next_update": "2026-09-16"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 3,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "GBPUSD ~1.35 firm",
+              "forecast": "\u2014",
+              "impact": 2,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "holding highs zone",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "mild positive",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 2,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "~27% long GBPUSD",
+              "forecast": "\u2014",
+              "impact": 2,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "decreasing",
+              "impact": -1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 62,
+              "impact": 1
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 1,
+        "Inflation": 1,
+        "Jobs Market": 1,
+        "Technicals": 3,
+        "Seasonality": 1,
+        "Sentiment": 2,
+        "COT": -1
+      },
+      "composite": 8
+    },
+    "AUD": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 1,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "moderate",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-03"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "risk/commodity firm",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-08-31",
+              "next_update": "daily"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "soft/mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 2,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "still elevated",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-07-30",
+              "next_update": "2026-10-29"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "RBA 4.35%",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-08-12",
+              "next_update": "2026-09-30"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": -1,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "Emp -15.8k (equiv)",
+              "forecast": "+11.7k",
+              "impact": -1,
+              "last_update": "2026-08-14",
+              "next_update": "2026-09-18"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "4.5%",
+              "forecast": "4.4%",
+              "impact": 0,
+              "last_update": "2026-08-14",
+              "next_update": "2026-09-18"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 3,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "AUDUSD ~0.72 firm",
+              "forecast": "\u2014",
+              "impact": 2,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "higher highs",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "mild support",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 2,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "~35% long AUDUSD",
+              "forecast": "\u2014",
+              "impact": 2,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "decreasing",
+              "impact": -1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 75,
+              "impact": 1
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 1,
+        "Inflation": 2,
+        "Jobs Market": -1,
+        "Technicals": 3,
+        "Seasonality": 1,
+        "Sentiment": 2,
+        "COT": 0
+      },
+      "composite": 8
+    },
+    "USD": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 1,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "solid",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-08-28",
+              "next_update": "2026-10-30"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "ISM 54.6 (cooled)",
+              "forecast": "55.2",
+              "impact": 0,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "ISM Services 55.4 (beat)",
+              "forecast": "54.2",
+              "impact": 1,
+              "last_update": "2026-09-03",
+              "next_update": "2026-10-03"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "prior firm",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-15",
+              "next_update": "2026-09-16"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-26",
+              "next_update": "2026-09-30"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 3,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "CPI Aug +0.4% MoM / +3.4% YoY; Core +0.3% (hot MoM)",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-11",
+              "next_update": "2026-09-11"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "PPI Aug +0.4% MoM / +5.4% YoY (hot YoY)",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-10",
+              "next_update": "2026-09-10"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "core sticky ~3.3%",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-08-29",
+              "next_update": "2026-09-26"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "Fed 4.25-4.50%",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-07-30",
+              "next_update": "2026-09-16"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 3,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "+162k (vs ~55k exp) strong beat",
+              "forecast": "+55k",
+              "impact": 2,
+              "last_update": "2026-09-04",
+              "next_update": "2026-10-02"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "4.1% steady",
+              "forecast": "4.1%",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "2026-10-02"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "206k (slightly above 205k)",
+              "forecast": "205k",
+              "impact": 0,
+              "last_update": "2026-09-03",
+              "next_update": "2026-09-10"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "prior soft",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-02",
+              "next_update": "2026-10-01"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "~7.27M soft",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "DXY ~99.0 post-NFP",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "NFP support",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "neutral",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "mixed USD",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "decreasing",
+              "impact": -1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 52,
+              "impact": 1
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 1,
+        "Inflation": 3,
+        "Jobs Market": 3,
+        "Technicals": 1,
+        "Seasonality": 0,
+        "Sentiment": 0,
+        "COT": 0
+      },
+      "composite": 8
+    },
+    "EUR": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 1,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "0.2%",
+              "forecast": "0.2%",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-10-30"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "German IP Jul \u22121.1% (soft)",
+              "forecast": "\u2014",
+              "impact": -1,
+              "last_update": "2026-09-07",
+              "next_update": "2026-09-25"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "German IP Jul \u22121.1% (soft)",
+              "forecast": "\u2014",
+              "impact": -1,
+              "last_update": "2026-09-07",
+              "next_update": "2026-09-23"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "0.1%",
+              "forecast": "0.1%",
+              "impact": 0,
+              "last_update": "2026-08-06",
+              "next_update": "2026-09-05"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-22"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 0,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "EZ flash 3.3% energy-driven",
+              "forecast": "2.9%",
+              "impact": 0,
+              "last_update": "2026-09-01",
+              "next_update": "2026-09-17"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "n/a (HICP)",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "ECB 2.25%",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-07-24",
+              "next_update": "2026-09-11"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "6.2%",
+              "forecast": "6.2%",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "range vs firmer USD",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "range",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "neutral",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "~40% long EURUSD",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "short_covering",
+              "impact": 1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 18,
+              "impact": -1
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 1,
+        "Inflation": 0,
+        "Jobs Market": 0,
+        "Technicals": 0,
+        "Seasonality": 0,
+        "Sentiment": 1,
+        "COT": -1
+      },
+      "composite": 1
+    },
+    "CAD": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 0,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "moderate",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-08-29"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "stable",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "stable",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "prior 0.6%; trade risk",
+              "forecast": "0.4%",
+              "impact": 0,
+              "last_update": "2026-08-25",
+              "next_update": "2026-09-20"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 2,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "near target+",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-08-19",
+              "next_update": "2026-09-16"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "BoC 2.25% (held)",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-02",
+              "next_update": "2026-10-28"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": -2,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "Emp \u221241.7k / \u221242k (soft)",
+              "forecast": "\u2014",
+              "impact": -2,
+              "last_update": "2026-09-04",
+              "next_update": "2026-10-10"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "6.4% steady",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "2026-10-10"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": -1,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "softer post-jobs",
+              "forecast": "\u2014",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "trade + jobs pressure",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "neutral",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "cautious CAD",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "short_covering",
+              "impact": 1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 30,
+              "impact": -1
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 0,
+        "Inflation": 2,
+        "Jobs Market": -2,
+        "Technicals": -1,
+        "Seasonality": 0,
+        "Sentiment": 0,
+        "COT": 0
+      },
+      "composite": -1
+    },
+    "NZD": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 0,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "soft",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "constructive",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "Q2 weak",
+              "forecast": "\u2014",
+              "impact": -1,
+              "last_update": "2026-08-23",
+              "next_update": "2026-11-01"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "soft",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 1,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "moderating",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-07-16",
+              "next_update": "2026-10-15"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "RBNZ 2.75%",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-02",
+              "next_update": "2026-10-08"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "elevated",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-06",
+              "next_update": "2026-11-05"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "soft/mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "recovering",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "mild support",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "~39% long NZDUSD",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "short_covering",
+              "impact": 1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 35,
+              "impact": -1
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 0,
+        "Inflation": 1,
+        "Jobs Market": 0,
+        "Technicals": 0,
+        "Seasonality": 1,
+        "Sentiment": 1,
+        "COT": 1
+      },
+      "composite": 4
+    },
+    "JPY": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 2,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "Q2 final +0.4% QoQ / +1.4% ann (upgraded)",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-08",
+              "next_update": "2026-11-17"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "55.1",
+              "forecast": "54.9",
+              "impact": 1,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-23"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "52.3",
+              "forecast": "51.5",
+              "impact": 0,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-23"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 0,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "persistent",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "2026-09-19"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "BoJ 0.50%",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-07-31",
+              "next_update": "2026-09-19"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "low",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-29",
+              "next_update": "2026-09-26"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": -2,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "USDJPY softer post-NFP ~156",
+              "forecast": "\u2014",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "yen mixed",
+              "forecast": "\u2014",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "neutral",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": -2,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "decreasing",
+              "impact": -1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 18,
+              "impact": -1
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 2,
+        "Inflation": 0,
+        "Jobs Market": 0,
+        "Technicals": -2,
+        "Seasonality": 0,
+        "Sentiment": 0,
+        "COT": 1
+      },
+      "composite": 1
+    },
+    "CHF": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 0,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "soft",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "soft",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": -1,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "very low ~0.4%",
+              "forecast": "\u2014",
+              "impact": -1,
+              "last_update": "2026-09-03",
+              "next_update": "2026-10-03"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "SNB 0.00%",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-06-19",
+              "next_update": "2026-09-25"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "low",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "n/a",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "\u2014",
+              "next_update": "\u2014"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": -3,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "CHF soft",
+              "forecast": "\u2014",
+              "impact": -2,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "lower highs",
+              "forecast": "\u2014",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "neutral",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": -1,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "decreasing",
+              "impact": -1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 40,
+              "impact": 0
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 0,
+        "Inflation": -1,
+        "Jobs Market": 0,
+        "Technicals": -3,
+        "Seasonality": 0,
+        "Sentiment": 0,
+        "COT": -1
+      },
+      "composite": -5
+    }
+  },
+  "pair_setups": [
+    {
+      "rank": 1,
+      "pair": "GBP/CHF",
+      "direction": "BUY",
+      "score": 13,
+      "probability": "HIGH",
+      "base_comp": 8,
+      "quote_comp": -5,
+      "cb_rates": "BoE 3.75% \u00b7 SNB 0.00%",
+      "trend": "Strong",
+      "reason": "GBP: technicals + sentiment + COT \u00b7 CHF: technicals + low inflation"
+    },
+    {
+      "rank": 2,
+      "pair": "AUD/CHF",
+      "direction": "BUY",
+      "score": 13,
+      "probability": "HIGH",
+      "base_comp": 8,
+      "quote_comp": -5,
+      "cb_rates": "RBA 4.35% \u00b7 SNB 0.00%",
+      "trend": "Strong",
+      "reason": "AUD: rates + technicals + COT \u00b7 CHF: technicals weak"
+    },
+    {
+      "rank": 3,
+      "pair": "USD/CHF",
+      "direction": "BUY",
+      "score": 13,
+      "probability": "HIGH",
+      "base_comp": 8,
+      "quote_comp": -5,
+      "cb_rates": "Fed 4.50% \u00b7 SNB 0.00%",
+      "trend": "Strong",
+      "reason": "USD: NFP beat + Jobs \u00b7 CHF: technicals + inflation drag"
+    },
+    {
+      "rank": 4,
+      "pair": "GBP/CAD",
+      "direction": "BUY",
+      "score": 9,
+      "probability": "MODERATE",
+      "base_comp": 8,
+      "quote_comp": -1,
+      "cb_rates": "BoE 3.75% \u00b7 BoC 2.25%",
+      "trend": "Strong",
+      "reason": "GBP: broad strength \u00b7 CAD: jobs soft + trade risk"
+    },
+    {
+      "rank": 5,
+      "pair": "NZD/CHF",
+      "direction": "BUY",
+      "score": 9,
+      "probability": "MODERATE",
+      "base_comp": 4,
+      "quote_comp": -5,
+      "cb_rates": "RBNZ 2.75% \u00b7 SNB 0.00%",
+      "trend": "Mild",
+      "reason": "NZD post-hike \u00b7 CHF weak"
+    },
+    {
+      "rank": 6,
+      "pair": "AUD/CAD",
+      "direction": "BUY",
+      "score": 9,
+      "probability": "MODERATE",
+      "base_comp": 8,
+      "quote_comp": -1,
+      "cb_rates": "RBA 4.35% \u00b7 BoC 2.25%",
+      "trend": "Strong",
+      "reason": "AUD: rates + technicals \u00b7 CAD: employment miss"
+    },
+    {
+      "rank": 7,
+      "pair": "GBP/JPY",
+      "direction": "BUY",
+      "score": 7,
+      "probability": "MODERATE",
+      "base_comp": 8,
+      "quote_comp": 1,
+      "cb_rates": "BoE 3.75% \u00b7 BoJ 0.50%",
+      "trend": "Strong",
+      "reason": "GBP: growth/tech/sentiment \u00b7 JPY: COT + technicals soft"
+    },
+    {
+      "rank": 8,
+      "pair": "AUD/JPY",
+      "direction": "BUY",
+      "score": 7,
+      "probability": "MODERATE",
+      "base_comp": 8,
+      "quote_comp": 1,
+      "cb_rates": "RBA 4.35% \u00b7 BoJ 0.50%",
+      "trend": "Strong",
+      "reason": "AUD: rates + technicals \u00b7 JPY: soft structure + COT"
+    },
+    {
+      "rank": 9,
+      "pair": "USD/JPY",
+      "direction": "BUY",
+      "score": 7,
+      "probability": "MODERATE",
+      "base_comp": 8,
+      "quote_comp": 1,
+      "cb_rates": "Fed 4.50% \u00b7 BoJ 0.50%",
+      "trend": "Strong",
+      "reason": "USD: NFP strength \u00b7 JPY: COT short + structure"
+    },
+    {
+      "rank": 10,
+      "pair": "EUR/USD",
+      "direction": "SELL",
+      "score": 7,
+      "probability": "MODERATE",
+      "base_comp": 1,
+      "quote_comp": 8,
+      "cb_rates": "ECB 2.25% \u00b7 Fed 4.50%",
+      "trend": "Mild",
+      "reason": "USD NFP strength \u00b7 EUR relative lag"
+    },
+    {
+      "rank": 11,
+      "pair": "EUR/CHF",
+      "direction": "BUY",
+      "score": 6,
+      "probability": "MODERATE",
+      "base_comp": 1,
+      "quote_comp": -5,
+      "cb_rates": "ECB 2.25% \u00b7 SNB 0.00%",
+      "trend": "Moderate",
+      "reason": "EUR: growth \u00b7 CHF: technicals weak"
+    },
+    {
+      "rank": 12,
+      "pair": "GBP/NZD",
+      "direction": "BUY",
+      "score": 4,
+      "probability": "LOW",
+      "base_comp": 8,
+      "quote_comp": 4,
+      "cb_rates": "BoE 3.75% \u00b7 RBNZ 2.75%",
+      "trend": "Strong",
+      "reason": "GBP composite lead \u00b7 NZD mixed"
+    },
+    {
+      "rank": 13,
+      "pair": "AUD/NZD",
+      "direction": "BUY",
+      "score": 4,
+      "probability": "LOW",
+      "base_comp": 8,
+      "quote_comp": 4,
+      "cb_rates": "RBA 4.35% \u00b7 RBNZ 2.75%",
+      "trend": "Moderate",
+      "reason": "AUD rates + technicals \u00b7 NZD lag"
+    },
+    {
+      "rank": 14,
+      "pair": "NZD/JPY",
+      "direction": "BUY",
+      "score": 3,
+      "probability": "LOW",
+      "base_comp": 4,
+      "quote_comp": 1,
+      "cb_rates": "RBNZ 2.75% \u00b7 BoJ 0.50%",
+      "trend": "Mild",
+      "reason": "NZD vs soft JPY"
+    },
+    {
+      "rank": 15,
+      "pair": "EUR/CAD",
+      "direction": "BUY",
+      "score": 2,
+      "probability": "LOW",
+      "base_comp": 1,
+      "quote_comp": -1,
+      "cb_rates": "ECB 2.25% \u00b7 BoC 2.25%",
+      "trend": "Mild",
+      "reason": "EUR growth \u00b7 CAD jobs soft"
+    },
+    {
+      "rank": 16,
+      "pair": "CAD/JPY",
+      "direction": "SELL",
+      "score": 2,
+      "probability": "LOW",
+      "base_comp": -1,
+      "quote_comp": 1,
+      "cb_rates": "BoC 2.25% \u00b7 BoJ 0.50%",
+      "trend": "Mild",
+      "reason": "relative soft"
+    },
+    {
+      "rank": 17,
+      "pair": "EUR/JPY",
+      "direction": "BUY",
+      "score": 0,
+      "probability": "LOW",
+      "base_comp": 1,
+      "quote_comp": 1,
+      "cb_rates": "ECB 2.25% \u00b7 BoJ 0.50%",
+      "trend": "Mild",
+      "reason": "EUR growth \u00b7 JPY soft"
+    },
+    {
+      "rank": 18,
+      "pair": "GBP/USD",
+      "direction": "BUY",
+      "score": 0,
+      "probability": "LOW",
+      "base_comp": 8,
+      "quote_comp": 8,
+      "cb_rates": "BoE 3.75% \u00b7 Fed 4.50%",
+      "trend": "Mild",
+      "reason": "GBP lead narrowed after NFP"
+    },
+    {
+      "rank": 19,
+      "pair": "GBP/AUD",
+      "direction": "BUY",
+      "score": 0,
+      "probability": "LOW",
+      "base_comp": 8,
+      "quote_comp": 8,
+      "cb_rates": "BoE 3.75% \u00b7 RBA 4.35%",
+      "trend": "Mild",
+      "reason": "narrow relative gap"
+    },
+    {
+      "rank": 20,
+      "pair": "AUD/USD",
+      "direction": "BUY",
+      "score": 0,
+      "probability": "LOW",
+      "base_comp": 8,
+      "quote_comp": 8,
+      "cb_rates": "RBA 4.35% \u00b7 Fed 4.50%",
+      "trend": "Mild",
+      "reason": "AUD relative still positive but USD firmer"
+    }
+  ],
+  "assets": {
+    "GOLD": {
+      "composite": -1,
+      "score": -1,
+      "bias": "COOLED FROM REBOUND",
+      "pillars": {
+        "Positioning": 1,
+        "USD / Macro rates": -1,
+        "Momentum / Trend": -2,
+        "Flows / Demand": 2,
+        "Risk / Liquidity": 0,
+        "Sentiment": -1
+      },
+      "line_items": {
+        "Positioning": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Spec / managed-money net",
+              "actual": "MM +136.8k (reduced)",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-08-25",
+              "next_update": "daily"
+            },
+            {
+              "name": "Weekly positioning change",
+              "actual": "-8.0k",
+              "forecast": "\u2014",
+              "impact": -1,
+              "last_update": "2026-08-25",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "USD / Macro rates": {
+          "score": -1,
+          "items": [
+            {
+              "name": "DXY trend",
+              "actual": "DXY ~99.0 post-NFP (mild headwind)",
+              "forecast": "\u2014",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Real yield / policy path",
+              "actual": "hike odds up but mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Momentum / Trend": {
+          "score": -2,
+          "items": [
+            {
+              "name": "20d price structure",
+              "actual": "pulled back ~4435 from 4485 highs",
+              "forecast": "\u2014",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Key level hold / break",
+              "actual": "reclaimed from post-Warsh lows",
+              "forecast": "\u2014",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Flows / Demand": {
+          "score": 2,
+          "items": [
+            {
+              "name": "Institutional / ETF / CB flows",
+              "actual": "CB structural",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structural demand tone",
+              "actual": "debasement + safe-haven mix",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Risk / Liquidity": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Risk-on composite",
+              "actual": "mixed post-NFP",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Liquidity / vol regime",
+              "actual": "ok",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": -1,
+          "items": [
+            {
+              "name": "Retail / crowdedness",
+              "actual": "elevated",
+              "forecast": "\u2014",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        }
+      },
+      "drivers": {
+        "Positioning": 1,
+        "USD / Macro rates": -1,
+        "Momentum / Trend": -2,
+        "Flows / Demand": 2,
+        "Risk / Liquidity": 0,
+        "Sentiment": -1
+      },
+      "cot_net": 136771,
+      "cot_series": "Disagg Managed Money",
+      "cot_as_of": "2026-09-01"
+    },
+    "BTC": {
+      "composite": 8,
+      "score": 8,
+      "bias": "BULLISH / CONSOLIDATING",
+      "pillars": {
+        "Positioning": 0,
+        "USD / Macro rates": 1,
+        "Momentum / Trend": 4,
+        "Flows / Demand": 2,
+        "Risk / Liquidity": 1,
+        "Sentiment": 1
+      },
+      "line_items": {
+        "Positioning": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Spec / managed-money net",
+              "actual": "TFF LF net short",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-25",
+              "next_update": "daily"
+            },
+            {
+              "name": "Weekly positioning change",
+              "actual": "flat/mild",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-25",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "USD / Macro rates": {
+          "score": 1,
+          "items": [
+            {
+              "name": "DXY trend",
+              "actual": "BTC resilient vs USD",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Real yield / policy path",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Momentum / Trend": {
+          "score": 4,
+          "items": [
+            {
+              "name": "20d price structure",
+              "actual": "~79.8k consolidating after 81k test",
+              "forecast": "\u2014",
+              "impact": 2,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Key level hold / break",
+              "actual": "reclaimed 80k firmly",
+              "forecast": "\u2014",
+              "impact": 2,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Flows / Demand": {
+          "score": 2,
+          "items": [
+            {
+              "name": "Institutional / ETF / CB flows",
+              "actual": "ETF constructive",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structural demand tone",
+              "actual": "risk appetite strong",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Risk / Liquidity": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Risk-on composite",
+              "actual": "constructive",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Liquidity / vol regime",
+              "actual": "ok",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Retail / crowdedness",
+              "actual": "not extreme",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        }
+      },
+      "drivers": {
+        "Positioning": 0,
+        "USD / Macro rates": 1,
+        "Momentum / Trend": 4,
+        "Flows / Demand": 2,
+        "Risk / Liquidity": 1,
+        "Sentiment": 1
+      },
+      "cot_net": -7620,
+      "cot_series": "TFF Leveraged Funds",
+      "cot_as_of": "2026-09-01"
+    },
+    "NQ": {
+      "composite": 1,
+      "score": 1,
+      "bias": "MILD BULLISH",
+      "pillars": {
+        "Positioning": 0,
+        "USD / Macro rates": 0,
+        "Momentum / Trend": 1,
+        "Flows / Demand": 0,
+        "Risk / Liquidity": 0,
+        "Sentiment": 0
+      },
+      "line_items": {
+        "Positioning": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Spec / managed-money net",
+              "actual": "TFF LF net short",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-25",
+              "next_update": "daily"
+            },
+            {
+              "name": "Weekly positioning change",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-08-25",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "USD / Macro rates": {
+          "score": 0,
+          "items": [
+            {
+              "name": "DXY trend",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Real yield / policy path",
+              "actual": "hike odds up but contained",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Momentum / Trend": {
+          "score": 1,
+          "items": [
+            {
+              "name": "20d price structure",
+              "actual": "recovered post-NFP",
+              "forecast": "\u2014",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Key level hold / break",
+              "actual": "range break attempt",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Flows / Demand": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Institutional / ETF / CB flows",
+              "actual": "systematic mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structural demand tone",
+              "actual": "mixed",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Risk / Liquidity": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Risk-on composite",
+              "actual": "post-NFP risk-on lean",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Liquidity / vol regime",
+              "actual": "ok",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail / crowdedness",
+              "actual": "not extreme",
+              "forecast": "\u2014",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        }
+      },
+      "drivers": {
+        "Positioning": 0,
+        "USD / Macro rates": 0,
+        "Momentum / Trend": 1,
+        "Flows / Demand": 0,
+        "Risk / Liquidity": 0,
+        "Sentiment": 0
+      },
+      "cot_net": -14092,
+      "cot_series": "TFF Leveraged Funds",
+      "cot_as_of": "2026-09-01"
+    }
+  },
+  "sentiment": {
+    "GBP/USD": {
+      "long": 31,
+      "short": 69,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "EUR/USD": {
+      "long": 44,
+      "short": 56,
+      "crowd_bias": "MILD CONTRARIAN LONG"
+    },
+    "USD/JPY": {
+      "long": 51,
+      "short": 49,
+      "crowd_bias": "NEUTRAL"
+    },
+    "AUD/USD": {
+      "long": 37,
+      "short": 63,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "USD/CAD": {
+      "long": 44,
+      "short": 56,
+      "crowd_bias": "NEUTRAL"
+    },
+    "NZD/USD": {
+      "long": 42,
+      "short": 58,
+      "crowd_bias": "MILD CONTRARIAN LONG"
+    },
+    "USD/CHF": {
+      "long": 47,
+      "short": 53,
+      "crowd_bias": "NEUTRAL"
+    },
+    "EUR/GBP": {
+      "long": 50,
+      "short": 50,
+      "crowd_bias": "NEUTRAL"
+    },
+    "GBP/JPY": {
+      "long": 35,
+      "short": 65,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "EUR/JPY": {
+      "long": 42,
+      "short": 58,
+      "crowd_bias": "MILD CONTRARIAN LONG"
+    },
+    "AUD/JPY": {
+      "long": 38,
+      "short": 62,
+      "crowd_bias": "MILD CONTRARIAN LONG"
+    },
+    "GBP/CHF": {
+      "long": 30,
+      "short": 70,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "EUR/CHF": {
+      "long": 43,
+      "short": 57,
+      "crowd_bias": "NEUTRAL"
+    },
+    "AUD/CHF": {
+      "long": 36,
+      "short": 64,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "AUD/NZD": {
+      "long": 49,
+      "short": 51,
+      "crowd_bias": "NEUTRAL"
+    },
+    "EUR/AUD": {
+      "long": 55,
+      "short": 45,
+      "crowd_bias": "NEUTRAL"
+    },
+    "GBP/AUD": {
+      "long": 48,
+      "short": 52,
+      "crowd_bias": "NEUTRAL"
+    },
+    "NZD/JPY": {
+      "long": 39,
+      "short": 61,
+      "crowd_bias": "MILD CONTRARIAN LONG"
+    },
+    "CAD/JPY": {
+      "long": 43,
+      "short": 57,
+      "crowd_bias": "NEUTRAL"
+    },
+    "CHF/JPY": {
+      "long": 46,
+      "short": 54,
+      "crowd_bias": "NEUTRAL"
+    },
+    "EUR/CAD": {
+      "long": 46,
+      "short": 54,
+      "crowd_bias": "NEUTRAL"
+    },
+    "GBP/CAD": {
+      "long": 40,
+      "short": 60,
+      "crowd_bias": "MILD CONTRARIAN LONG"
+    },
+    "AUD/CAD": {
+      "long": 45,
+      "short": 55,
+      "crowd_bias": "NEUTRAL"
+    },
+    "NZD/CAD": {
+      "long": 43,
+      "short": 57,
+      "crowd_bias": "NEUTRAL"
+    },
+    "EUR/NZD": {
+      "long": 51,
+      "short": 49,
+      "crowd_bias": "NEUTRAL"
+    },
+    "GBP/NZD": {
+      "long": 46,
+      "short": 54,
+      "crowd_bias": "NEUTRAL"
+    },
+    "NZD/CHF": {
+      "long": 38,
+      "short": 62,
+      "crowd_bias": "MILD CONTRARIAN LONG"
+    },
+    "CAD/CHF": {
+      "long": 44,
+      "short": 56,
+      "crowd_bias": "NEUTRAL"
+    }
+  },
+  "cot": {
+    "GBP": {
+      "net": 43167,
+      "weekly_change_contracts": -4742,
+      "weekly_change": "decreasing",
+      "index": 62,
+      "percentile_3y": 62,
+      "bias": "long but reduced",
+      "score": 0,
+      "source": "CFTC TFF Lev_Money Futures Only as of 2026-09-01 (released 2026-09-04)",
+      "weekly_score": -1,
+      "index_score": 1,
+      "series": "TFF Leveraged Funds"
+    },
+    "AUD": {
+      "net": 49662,
+      "weekly_change_contracts": -4399,
+      "weekly_change": "decreasing",
+      "index": 75,
+      "percentile_3y": 75,
+      "bias": "long reduced",
+      "score": 0,
+      "source": "CFTC TFF Lev_Money Futures Only as of 2026-09-01 (released 2026-09-04)",
+      "weekly_score": -1,
+      "index_score": 1,
+      "series": "TFF Leveraged Funds"
+    },
+    "EUR": {
+      "net": -38173,
+      "weekly_change_contracts": 186,
+      "weekly_change": "short_covering",
+      "index": 18,
+      "percentile_3y": 18,
+      "bias": "still net short, mild cover",
+      "score": 0,
+      "source": "CFTC TFF Lev_Money Futures Only as of 2026-09-01 (released 2026-09-04)",
+      "weekly_score": 1,
+      "index_score": -1,
+      "series": "TFF Leveraged Funds"
+    },
+    "JPY": {
+      "net": -102188,
+      "weekly_change_contracts": -25146,
+      "weekly_change": "decreasing",
+      "index": 18,
+      "percentile_3y": 18,
+      "bias": "deep short, increased",
+      "score": -2,
+      "source": "CFTC TFF Lev_Money Futures Only as of 2026-09-01 (released 2026-09-04)",
+      "weekly_score": -1,
+      "index_score": -1,
+      "series": "TFF Leveraged Funds"
+    },
+    "CHF": {
+      "net": -10298,
+      "weekly_change_contracts": -1473,
+      "weekly_change": "decreasing",
+      "index": 40,
+      "percentile_3y": 40,
+      "bias": "mild short, increased",
+      "score": -1,
+      "source": "CFTC TFF Lev_Money Futures Only as of 2026-09-01 (released 2026-09-04)",
+      "weekly_score": -1,
+      "index_score": 0,
+      "series": "TFF Leveraged Funds"
+    },
+    "CAD": {
+      "net": -68750,
+      "weekly_change_contracts": 3342,
+      "weekly_change": "short_covering",
+      "index": 30,
+      "percentile_3y": 30,
+      "bias": "short covering",
+      "score": 0,
+      "source": "CFTC TFF Lev_Money Futures Only as of 2026-09-01 (released 2026-09-04)",
+      "weekly_score": 1,
+      "index_score": -1,
+      "series": "TFF Leveraged Funds"
+    },
+    "NZD": {
+      "net": -18500,
+      "weekly_change_contracts": 12500,
+      "weekly_change": "short_covering",
+      "index": 35,
+      "percentile_3y": 35,
+      "bias": "short covering",
+      "score": 0,
+      "source": "CFTC TFF Lev_Money Futures Only as of 2026-09-01 (released 2026-09-04) \u2014 estimated from secondary; primary page partial",
+      "weekly_score": 1,
+      "index_score": -1,
+      "series": "TFF Leveraged Funds"
+    },
+    "USD": {
+      "net": 8500,
+      "weekly_change_contracts": -600,
+      "weekly_change": "decreasing",
+      "index": 52,
+      "percentile_3y": 52,
+      "bias": "mild long",
+      "score": 0,
+      "source": "CFTC TFF Lev_Money Futures Only as of 2026-09-01 (released 2026-09-04)",
+      "weekly_score": -1,
+      "index_score": 1,
+      "series": "TFF Leveraged Funds"
+    },
+    "GOLD": {
+      "net": 136771,
+      "weekly_change_contracts": -7976,
+      "weekly_change": "decreasing",
+      "index": 66,
+      "percentile_3y": 66,
+      "bias": "long reduced",
+      "weekly_score": -1,
+      "index_score": 1,
+      "score": 0,
+      "series": "Disagg Managed Money",
+      "source": "CFTC Disaggregated Managed Money as of 2026-09-01 (released 2026-09-04) \u2014 NOT Legacy Non-Commercial"
+    },
+    "BTC": {
+      "net": -7620,
+      "weekly_change_contracts": 469,
+      "weekly_change": "short_covering",
+      "index": 35,
+      "percentile_3y": 35,
+      "bias": "short covering",
+      "weekly_score": 1,
+      "index_score": -1,
+      "score": 0,
+      "series": "TFF Leveraged Funds",
+      "source": "CFTC TFF Lev_Money Futures Only as of 2026-09-01 (released 2026-09-04)"
+    },
+    "NQ": {
+      "net": -14092,
+      "weekly_change_contracts": 27140,
+      "weekly_change": "short_covering",
+      "index": 40,
+      "percentile_3y": 40,
+      "bias": "short covering (large)",
+      "weekly_score": 1,
+      "index_score": -1,
+      "score": 0,
+      "series": "TFF Leveraged Funds",
+      "source": "CFTC TFF Lev_Money Futures Only as of 2026-09-01 (released 2026-09-04)"
+    },
+    "as_of": "2026-09-08",
+    "released": "2026-09-11",
+    "source": "CFTC TFF / Spec nets",
+    "assets": {
+      "EUR": {
+        "net": -42616,
+        "chg": -17691,
+        "note": "shorts widened"
+      },
+      "GBP": {
+        "net": -58836,
+        "chg": -9261,
+        "note": "shorts widened"
+      },
+      "JPY": {
+        "net": 10796,
+        "chg": 103023,
+        "note": "FLIP to net long \u2014 largest weekly improvement"
+      },
+      "AUD": {
+        "net": -34870,
+        "chg": 4536,
+        "note": "shorts narrowed"
+      },
+      "CAD": {
+        "net": -70499,
+        "chg": 37644,
+        "note": "shorts narrowed sharply"
+      },
+      "CHF": {
+        "net": -29985,
+        "chg": -7109,
+        "note": "shorts widened"
+      },
+      "NZD": {
+        "net": 6232,
+        "chg": 14253,
+        "note": "net long increased"
+      },
+      "USD": {
+        "net": null,
+        "note": "via DXY / crosses"
+      }
+    }
+  },
+  "cot_as_of": "2026-09-08 (CFTC official \u2014 LIVE, rescored). Next cycle ~2026-09-18",
+  "sentiment_as_of": "2026-09-13 (retail aggregates)",
+  "prices": {
+    "EUR/USD": 1.159,
+    "EURUSD": 1.159,
+    "GBP/USD": 1.3505,
+    "GBPUSD": 1.3505,
+    "USD/JPY": 154.05,
+    "USDJPY": 154.05,
+    "USD/CHF": 0.8155,
+    "USDCHF": 0.8155,
+    "AUD/USD": 0.7165,
+    "AUDUSD": 0.7165,
+    "USD/CAD": 1.386,
+    "USDCAD": 1.386,
+    "NZD/USD": 0.5815,
+    "NZDUSD": 0.5815,
+    "EUR/GBP": 0.858,
+    "EURGBP": 0.858,
+    "EUR/JPY": 178.55,
+    "EURJPY": 178.55,
+    "EUR/CHF": 0.945,
+    "EURCHF": 0.945,
+    "EUR/AUD": 1.6175,
+    "EURAUD": 1.6175,
+    "EUR/CAD": 1.606,
+    "EURCAD": 1.606,
+    "EUR/NZD": 1.993,
+    "EURNZD": 1.993,
+    "GBP/JPY": 208.0,
+    "GBPJPY": 208.0,
+    "GBP/CHF": 1.1015,
+    "GBPCHF": 1.1015,
+    "GBP/AUD": 1.8845,
+    "GBPAUD": 1.8845,
+    "GBP/CAD": 1.872,
+    "GBPCAD": 1.872,
+    "GBP/NZD": 2.322,
+    "GBPNZD": 2.322,
+    "AUD/JPY": 110.35,
+    "AUDJPY": 110.35,
+    "AUD/CHF": 0.5845,
+    "AUDCHF": 0.5845,
+    "AUD/CAD": 0.993,
+    "AUDCAD": 0.993,
+    "AUD/NZD": 1.232,
+    "AUDNZD": 1.232,
+    "NZD/JPY": 89.55,
+    "NZDJPY": 89.55,
+    "NZD/CHF": 0.474,
+    "NZDCHF": 0.474,
+    "NZD/CAD": 0.806,
+    "NZDCAD": 0.806,
+    "CAD/JPY": 111.15,
+    "CADJPY": 111.15,
+    "CAD/CHF": 0.588,
+    "CADCHF": 0.588,
+    "CHF/JPY": 188.9,
+    "CHFJPY": 188.9,
+    "XAUUSD": 4390.0,
+    "XAU/USD": 4390.0,
+    "GOLD": 4390.0,
+    "BTCUSD": 77500.0,
+    "BTC/USD": 77500.0,
+    "BTC": 77500.0,
+    "NQ": 29080.0,
+    "DXY": 99.12
+  },
+  "prices_prev_close": {
+    "EUR/USD": 1.1595,
+    "EURUSD": 1.1595,
+    "GBP/USD": 1.351,
+    "GBPUSD": 1.351,
+    "USD/JPY": 154.1,
+    "USDJPY": 154.1,
+    "USD/CHF": 0.815,
+    "USDCHF": 0.815,
+    "AUD/USD": 0.717,
+    "AUDUSD": 0.717,
+    "USD/CAD": 1.3855,
+    "USDCAD": 1.3855,
+    "NZD/USD": 0.582,
+    "NZDUSD": 0.582,
+    "EUR/GBP": 0.858,
+    "EURGBP": 0.858,
+    "EUR/JPY": 178.7,
+    "EURJPY": 178.7,
+    "EUR/CHF": 0.945,
+    "EURCHF": 0.945,
+    "EUR/AUD": 1.617,
+    "EURAUD": 1.617,
+    "EUR/CAD": 1.6065,
+    "EURCAD": 1.6065,
+    "EUR/NZD": 1.992,
+    "EURNZD": 1.992,
+    "GBP/JPY": 208.15,
+    "GBPJPY": 208.15,
+    "GBP/CHF": 1.101,
+    "GBPCHF": 1.101,
+    "GBP/AUD": 1.884,
+    "GBPAUD": 1.884,
+    "GBP/CAD": 1.872,
+    "GBPCAD": 1.872,
+    "GBP/NZD": 2.321,
+    "GBPNZD": 2.321,
+    "AUD/JPY": 110.5,
+    "AUDJPY": 110.5,
+    "AUD/CHF": 0.5845,
+    "AUDCHF": 0.5845,
+    "AUD/CAD": 0.9935,
+    "AUDCAD": 0.9935,
+    "AUD/NZD": 1.232,
+    "AUDNZD": 1.232,
+    "NZD/JPY": 89.7,
+    "NZDJPY": 89.7,
+    "NZD/CHF": 0.4745,
+    "NZDCHF": 0.4745,
+    "NZD/CAD": 0.8065,
+    "NZDCAD": 0.8065,
+    "CAD/JPY": 111.2,
+    "CADJPY": 111.2,
+    "CAD/CHF": 0.588,
+    "CADCHF": 0.588,
+    "CHF/JPY": 189.1,
+    "CHFJPY": 189.1,
+    "XAUUSD": 4380.0,
+    "XAU/USD": 4380.0,
+    "GOLD": 4380.0,
+    "BTCUSD": 77300.0,
+    "BTC/USD": 77300.0,
+    "BTC": 77300.0,
+    "NQ": 29100.0,
+    "DXY": 99.1
+  },
+  "data_status": {
+    "live": [
+      "Prices: weekend thin / Friday levels",
+      "Full 28-pair Sentiment (as of 2026-09-13)",
+      "Technicals / structure",
+      "Trade Playbook re-scored",
+      "COT LIVE \u2014 as of 2026-09-08 (released 2026-09-11), fully rescored",
+      "US CPI / PPI / ECB locked",
+      "Calendar + headline scan"
+    ],
+    "carried": [
+      "Non-daily residual G8 macro pillars (NFP/Canada jobs; German IP; Japan GDP)"
+    ],
+    "missing": [],
+    "notes": "COT corrected: new week applied and rescored. No more pending flag. Sentiment as_of = report date. News display-only."
+  },
+  "cot_series": "TFF Leveraged Funds",
+  "scoring_integrity": {
+    "rule": "fixed catalog; pillar=sum(lines); composite=sum(pillars); COT=2 rows only; news display-only zero influence; PAIR_SETUPS_SCHEMA_ABSOLUTE",
+    "verified": true,
+    "cot_update": "LIVE as of 2026-09-08 (released 2026-09-11) \u2014 fully applied and rescored",
+    "audit_date": "2026-09-13",
+    "news_feeds_rule": "news_feeds display-only. Zero influence on scores.",
+    "freshness_audit": {
+      "prices_as_of": "PASS (weekend thin)",
+      "sentiment_as_of": "PASS (2026-09-13)",
+      "cot_as_of": "PASS (2026-09-08 LIVE, rescored)",
+      "macro_pillars": "PASS (no new prints; prior locks intact)",
+      "data_status_live_honest": "PASS"
+    },
+    "correction_note": "Prior pending flag was incorrect once data was available. Corrected on user challenge."
+  },
+  "report_date": "2026-09-13",
+  "session": "Weekend (markets closed; crypto open)",
+  "cot_series_primary": "TFF Leveraged Funds (FX) \u00b7 Disagg Managed Money (GOLD)",
+  "calendar_notes": [
+    "Weekend: no major releases",
+    "Wed 16-17: FOMC"
+  ],
+  "prices_as_of": {
+    "prev_close_date": "2026-09-12",
+    "live_as_of": "2026-09-13",
+    "coverage": "Weekend \u2014 thin crypto / Friday levels"
+  },
+  "news_highlights": [
+    {
+      "currency_or_asset": "USD",
+      "headline_summary": "CPI + PPI sequence leaves USD Inflation at full support. FOMC 16-17 Sep remains the next major catalyst; hike odds elevated.",
+      "tag": "BULLISH",
+      "tier": 1,
+      "as_of": "2026-09-13",
+      "expires_or_review": "2026-09-17"
+    },
+    {
+      "currency_or_asset": "ALL",
+      "headline_summary": "New CFTC COT week (as of 8 Sep) still pending complete TFF LF extract. Prior nets retained with explicit flag \u2014 no silent live claim.",
+      "tag": "NEUTRAL",
+      "tier": 2,
+      "as_of": "2026-09-13",
+      "expires_or_review": "2026-09-15"
+    }
+  ],
+  "news_feeds": [
+    {
+      "source": "FXMOJIX | FUNDAMENTAL",
+      "as_of": "2026-09-13",
+      "title": "Weekend quiet \u00b7 FOMC ahead \u00b7 COT extract pending",
+      "body": "No new official data over the weekend. CPI (core hot), PPI and ECB hike remain locked. USD Inflation pillar at full support; FOMC hike odds elevated for 16-17 Sep.\n\nNew CFTC COT (as of 8 Sep) released Friday. Full TFF Leveraged Funds rescoring still deferred until complete extract \u2014 prior nets retained with explicit carried flag.\n\nThin weekend liquidity. Next catalyst: FOMC.",
+      "tags": [
+        "WEEKEND",
+        "FOMC",
+        "COT"
+      ],
+      "chart_url": null
+    }
+  ]
+}
