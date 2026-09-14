@@ -1,0 +1,5687 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T09:25:00Z",
+  "macro_regime": "CPI/PPI/ECB locked · COT LIVE as of 2026-09-08 · FOMC 15-16 Sep (decision Wed 16)",
+  "strongest": "GBP",
+  "weakest": "CHF",
+  "top_setup": "LONG GBP/CHF",
+  "top_setup_score": 13,
+  "g8_spread": 13,
+  "high_prob_setups": [
+    "LONG GBP/CHF (+13)",
+    "LONG AUD/CHF (+13)",
+    "LONG USD/CHF (+13)"
+  ],
+  "narrative": "Monday 14 Sep: Quiet start into FOMC week. No new official macro prints over the weekend. USD mildly firmer in thin Monday trade. COT remains the 8-Sep week (JPY flipped net long +10.8k — major). Next CFTC release ~18 Sep. Primary catalyst: FOMC 15-16 Sep (decision + SEP/dot plot Wed 16 Sep 14:00 ET). Composites unchanged — no new official data to alter pillars.",
+  "fx_ranking": [
+    {
+      "currency": "GBP",
+      "score": 8,
+      "rank": 1
+    },
+    {
+      "currency": "AUD",
+      "score": 8,
+      "rank": 2
+    },
+    {
+      "currency": "USD",
+      "score": 8,
+      "rank": 3
+    },
+    {
+      "currency": "NZD",
+      "score": 4,
+      "rank": 4
+    },
+    {
+      "currency": "EUR",
+      "score": 1,
+      "rank": 5
+    },
+    {
+      "currency": "JPY",
+      "score": 1,
+      "rank": 6
+    },
+    {
+      "currency": "CAD",
+      "score": -1,
+      "rank": 7
+    },
+    {
+      "currency": "CHF",
+      "score": -5,
+      "rank": 8
+    }
+  ],
+  "fx_details": {
+    "GBP": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 1,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "0.3%",
+              "forecast": "0.2%",
+              "impact": 1,
+              "last_update": "2026-08-14",
+              "next_update": "2026-11-13"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "51.5",
+              "forecast": "51.6",
+              "impact": 0,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-23"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "52.8",
+              "forecast": "51.8",
+              "impact": 1,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-23"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "-0.5%",
+              "forecast": "-0.4%",
+              "impact": -1,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-19"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "GfK soft",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-19"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 1,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "2.9%",
+              "forecast": "2.9%",
+              "impact": 0,
+              "last_update": "2026-08-19",
+              "next_update": "2026-09-17"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "n/a equiv",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "n/a (UK CPI)",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "BoE 3.75%",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-07",
+              "next_update": "2026-09-18"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "Emp +28k (equiv)",
+              "forecast": "+20k",
+              "impact": 1,
+              "last_update": "2026-08-12",
+              "next_update": "2026-09-16"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "4.7%",
+              "forecast": "4.7%",
+              "impact": 0,
+              "last_update": "2026-08-12",
+              "next_update": "2026-09-16"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "Claimant mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-12",
+              "next_update": "2026-09-16"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 3,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "GBPUSD ~1.35 firm",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "holding highs zone",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "mild positive",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 2,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "~27% long GBPUSD",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "decreasing",
+              "impact": -1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 62,
+              "impact": 1
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 1,
+        "Inflation": 1,
+        "Jobs Market": 1,
+        "Technicals": 3,
+        "Seasonality": 1,
+        "Sentiment": 2,
+        "COT": -1
+      },
+      "composite": 8
+    },
+    "AUD": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 1,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "moderate",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-03"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "risk/commodity firm",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-31",
+              "next_update": "daily"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "soft/mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 2,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "still elevated",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-07-30",
+              "next_update": "2026-10-29"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "RBA 4.35%",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-12",
+              "next_update": "2026-09-30"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": -1,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "Emp -15.8k (equiv)",
+              "forecast": "+11.7k",
+              "impact": -1,
+              "last_update": "2026-08-14",
+              "next_update": "2026-09-18"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "4.5%",
+              "forecast": "4.4%",
+              "impact": 0,
+              "last_update": "2026-08-14",
+              "next_update": "2026-09-18"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 3,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "AUDUSD ~0.72 firm",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "higher highs",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "mild support",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 2,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "~35% long AUDUSD",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "decreasing",
+              "impact": -1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 75,
+              "impact": 1
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 1,
+        "Inflation": 2,
+        "Jobs Market": -1,
+        "Technicals": 3,
+        "Seasonality": 1,
+        "Sentiment": 2,
+        "COT": 0
+      },
+      "composite": 8
+    },
+    "USD": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 1,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "solid",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-28",
+              "next_update": "2026-10-30"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "ISM 54.6 (cooled)",
+              "forecast": "55.2",
+              "impact": 0,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "ISM Services 55.4 (beat)",
+              "forecast": "54.2",
+              "impact": 1,
+              "last_update": "2026-09-03",
+              "next_update": "2026-10-03"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "prior firm",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-15",
+              "next_update": "2026-09-16"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-26",
+              "next_update": "2026-09-30"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 3,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "CPI Aug +0.4% MoM / +3.4% YoY; Core +0.3% (hot MoM)",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-11",
+              "next_update": "2026-09-11"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "PPI Aug +0.4% MoM / +5.4% YoY (hot YoY)",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-10",
+              "next_update": "2026-09-10"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "core sticky ~3.3%",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-29",
+              "next_update": "2026-09-26"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "Fed 4.25-4.50%",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-07-30",
+              "next_update": "2026-09-16"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 3,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "+162k (vs ~55k exp) strong beat",
+              "forecast": "+55k",
+              "impact": 2,
+              "last_update": "2026-09-04",
+              "next_update": "2026-10-02"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "4.1% steady",
+              "forecast": "4.1%",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "2026-10-02"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "206k (slightly above 205k)",
+              "forecast": "205k",
+              "impact": 0,
+              "last_update": "2026-09-03",
+              "next_update": "2026-09-10"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "prior soft",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-02",
+              "next_update": "2026-10-01"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "~7.27M soft",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "DXY ~99.0 post-NFP",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "NFP support",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "neutral",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "mixed USD",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "decreasing",
+              "impact": -1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 52,
+              "impact": 1
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 1,
+        "Inflation": 3,
+        "Jobs Market": 3,
+        "Technicals": 1,
+        "Seasonality": 0,
+        "Sentiment": 0,
+        "COT": 0
+      },
+      "composite": 8
+    },
+    "EUR": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 1,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "0.2%",
+              "forecast": "0.2%",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-10-30"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "German IP Jul −1.1% (soft)",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-09-07",
+              "next_update": "2026-09-25"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "German IP Jul −1.1% (soft)",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-09-07",
+              "next_update": "2026-09-23"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "0.1%",
+              "forecast": "0.1%",
+              "impact": 0,
+              "last_update": "2026-08-06",
+              "next_update": "2026-09-05"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-22"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 0,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "EZ flash 3.3% energy-driven",
+              "forecast": "2.9%",
+              "impact": 0,
+              "last_update": "2026-09-01",
+              "next_update": "2026-09-17"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "n/a (HICP)",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "ECB 2.25%",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-07-24",
+              "next_update": "2026-09-11"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "6.2%",
+              "forecast": "6.2%",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "range vs firmer USD",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "range",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "neutral",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "~40% long EURUSD",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "short_covering",
+              "impact": 1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 18,
+              "impact": -1
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 1,
+        "Inflation": 0,
+        "Jobs Market": 0,
+        "Technicals": 0,
+        "Seasonality": 0,
+        "Sentiment": 1,
+        "COT": -1
+      },
+      "composite": 1
+    },
+    "CAD": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 0,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "moderate",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-08-29"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "stable",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "stable",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "prior 0.6%; trade risk",
+              "forecast": "0.4%",
+              "impact": 0,
+              "last_update": "2026-08-25",
+              "next_update": "2026-09-20"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 2,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "near target+",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-19",
+              "next_update": "2026-09-16"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "BoC 2.25% (held)",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-02",
+              "next_update": "2026-10-28"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": -2,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "Emp −41.7k / −42k (soft)",
+              "forecast": "—",
+              "impact": -2,
+              "last_update": "2026-09-04",
+              "next_update": "2026-10-10"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "6.4% steady",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "2026-10-10"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": -1,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "softer post-jobs",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "trade + jobs pressure",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "neutral",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "cautious CAD",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "short_covering",
+              "impact": 1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 30,
+              "impact": -1
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 0,
+        "Inflation": 2,
+        "Jobs Market": -2,
+        "Technicals": -1,
+        "Seasonality": 0,
+        "Sentiment": 0,
+        "COT": 0
+      },
+      "composite": -1
+    },
+    "NZD": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 0,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "soft",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "constructive",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-22",
+              "next_update": "daily"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "Q2 weak",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-08-23",
+              "next_update": "2026-11-01"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "soft",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 1,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "moderating",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-07-16",
+              "next_update": "2026-10-15"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "RBNZ 2.75%",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-02",
+              "next_update": "2026-10-08"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "elevated",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-06",
+              "next_update": "2026-11-05"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "soft/mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "recovering",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "mild support",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "~39% long NZDUSD",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "short_covering",
+              "impact": 1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 35,
+              "impact": -1
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 0,
+        "Inflation": 1,
+        "Jobs Market": 0,
+        "Technicals": 0,
+        "Seasonality": 1,
+        "Sentiment": 1,
+        "COT": 1
+      },
+      "composite": 4
+    },
+    "JPY": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 2,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "Q2 final +0.4% QoQ / +1.4% ann (upgraded)",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-08",
+              "next_update": "2026-11-17"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "55.1",
+              "forecast": "54.9",
+              "impact": 1,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-23"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "52.3",
+              "forecast": "51.5",
+              "impact": 0,
+              "last_update": "2026-08-21",
+              "next_update": "2026-09-23"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": 0,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "persistent",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-22",
+              "next_update": "2026-09-19"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "BoJ 0.50%",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-07-31",
+              "next_update": "2026-09-19"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "low",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-29",
+              "next_update": "2026-09-26"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": -2,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "USDJPY softer post-NFP ~156",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "yen mixed",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "neutral",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": -2,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "decreasing",
+              "impact": -1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 18,
+              "impact": -1
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 2,
+        "Inflation": 0,
+        "Jobs Market": 0,
+        "Technicals": -2,
+        "Seasonality": 0,
+        "Sentiment": 0,
+        "COT": 1
+      },
+      "composite": 1
+    },
+    "CHF": {
+      "line_items": {
+        "Economic Growth": {
+          "score": 0,
+          "items": [
+            {
+              "name": "GDP Growth QoQ",
+              "actual": "soft",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Manufacturing PMI",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Services PMI",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Retail Sales MoM",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Consumer Confidence",
+              "actual": "soft",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            }
+          ]
+        },
+        "Inflation": {
+          "score": -1,
+          "items": [
+            {
+              "name": "CPI YoY",
+              "actual": "very low ~0.4%",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-09-03",
+              "next_update": "2026-10-03"
+            },
+            {
+              "name": "PPI YoY",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "PCE YoY",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Interest Rate",
+              "actual": "SNB 0.00%",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-06-19",
+              "next_update": "2026-09-25"
+            }
+          ]
+        },
+        "Jobs Market": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Non-Farm Payroll",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "Unemployment Rate",
+              "actual": "low",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-01",
+              "next_update": "2026-09-01"
+            },
+            {
+              "name": "Jobless Claims",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "ADP Employment",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            },
+            {
+              "name": "JOLTS Openings",
+              "actual": "n/a",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "—",
+              "next_update": "—"
+            }
+          ]
+        },
+        "Technicals": {
+          "score": -3,
+          "items": [
+            {
+              "name": "Trend vs USD / DXY",
+              "actual": "CHF soft",
+              "forecast": "—",
+              "impact": -2,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structure (HH/HL or LH/LL)",
+              "actual": "lower highs",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Seasonality": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Current month seasonal bias",
+              "actual": "neutral",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-01",
+              "next_update": "2026-10-01"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail positioning (contrarian)",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "COT": {
+          "score": -1,
+          "items": [
+            {
+              "name": "Weekly change",
+              "actual": "decreasing",
+              "impact": -1
+            },
+            {
+              "name": "3Y Index",
+              "actual": 40,
+              "impact": 0
+            }
+          ]
+        }
+      },
+      "pillars": {
+        "Economic Growth": 0,
+        "Inflation": -1,
+        "Jobs Market": 0,
+        "Technicals": -3,
+        "Seasonality": 0,
+        "Sentiment": 0,
+        "COT": -1
+      },
+      "composite": -5
+    }
+  },
+  "pair_setups": [
+    {
+      "pair": "GBP/CHF",
+      "direction": "BUY",
+      "score": 13,
+      "raw_score": 13,
+      "probability": "HIGH",
+      "base_comp": 8,
+      "quote_comp": -5,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "GBP composite +8 vs CHF -5",
+      "rank": 1
+    },
+    {
+      "pair": "AUD/CHF",
+      "direction": "BUY",
+      "score": 13,
+      "raw_score": 13,
+      "probability": "HIGH",
+      "base_comp": 8,
+      "quote_comp": -5,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "AUD composite +8 vs CHF -5",
+      "rank": 2
+    },
+    {
+      "pair": "USD/CHF",
+      "direction": "BUY",
+      "score": 13,
+      "raw_score": 13,
+      "probability": "HIGH",
+      "base_comp": 8,
+      "quote_comp": -5,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "USD composite +8 vs CHF -5",
+      "rank": 3
+    },
+    {
+      "pair": "GBP/CAD",
+      "direction": "BUY",
+      "score": 9,
+      "raw_score": 9,
+      "probability": "MODERATE",
+      "base_comp": 8,
+      "quote_comp": -1,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "GBP composite +8 vs CAD -1",
+      "rank": 4
+    },
+    {
+      "pair": "AUD/CAD",
+      "direction": "BUY",
+      "score": 9,
+      "raw_score": 9,
+      "probability": "MODERATE",
+      "base_comp": 8,
+      "quote_comp": -1,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "AUD composite +8 vs CAD -1",
+      "rank": 5
+    },
+    {
+      "pair": "USD/CAD",
+      "direction": "BUY",
+      "score": 9,
+      "raw_score": 9,
+      "probability": "MODERATE",
+      "base_comp": 8,
+      "quote_comp": -1,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "USD composite +8 vs CAD -1",
+      "rank": 6
+    },
+    {
+      "pair": "NZD/CHF",
+      "direction": "BUY",
+      "score": 9,
+      "raw_score": 9,
+      "probability": "MODERATE",
+      "base_comp": 4,
+      "quote_comp": -5,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "NZD composite +4 vs CHF -5",
+      "rank": 7
+    },
+    {
+      "pair": "USD/CAD",
+      "direction": "BUY",
+      "score": 9,
+      "raw_score": 9,
+      "probability": "MODERATE",
+      "base_comp": 8,
+      "quote_comp": -1,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "USD composite +8 vs CAD -1",
+      "rank": 8
+    },
+    {
+      "pair": "GBP/JPY",
+      "direction": "BUY",
+      "score": 7,
+      "raw_score": 7,
+      "probability": "MODERATE",
+      "base_comp": 8,
+      "quote_comp": 1,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "GBP composite +8 vs JPY +1",
+      "rank": 9
+    },
+    {
+      "pair": "AUD/JPY",
+      "direction": "BUY",
+      "score": 7,
+      "raw_score": 7,
+      "probability": "MODERATE",
+      "base_comp": 8,
+      "quote_comp": 1,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "AUD composite +8 vs JPY +1",
+      "rank": 10
+    },
+    {
+      "pair": "USD/JPY",
+      "direction": "BUY",
+      "score": 7,
+      "raw_score": 7,
+      "probability": "MODERATE",
+      "base_comp": 8,
+      "quote_comp": 1,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "USD composite +8 vs JPY +1",
+      "rank": 11
+    },
+    {
+      "pair": "EUR/USD",
+      "direction": "SELL",
+      "score": -7,
+      "raw_score": -7,
+      "probability": "MODERATE",
+      "base_comp": 1,
+      "quote_comp": 8,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "EUR composite +1 vs USD +8",
+      "rank": 12
+    },
+    {
+      "pair": "EUR/GBP",
+      "direction": "SELL",
+      "score": -7,
+      "raw_score": -7,
+      "probability": "MODERATE",
+      "base_comp": 1,
+      "quote_comp": 8,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "EUR composite +1 vs GBP +8",
+      "rank": 13
+    },
+    {
+      "pair": "EUR/CHF",
+      "direction": "BUY",
+      "score": 6,
+      "raw_score": 6,
+      "probability": "MODERATE",
+      "base_comp": 1,
+      "quote_comp": -5,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "EUR composite +1 vs CHF -5",
+      "rank": 14
+    },
+    {
+      "pair": "GBP/NZD",
+      "direction": "BUY",
+      "score": 4,
+      "raw_score": 4,
+      "probability": "LOW",
+      "base_comp": 8,
+      "quote_comp": 4,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "GBP composite +8 vs NZD +4",
+      "rank": 15
+    },
+    {
+      "pair": "AUD/NZD",
+      "direction": "BUY",
+      "score": 4,
+      "raw_score": 4,
+      "probability": "LOW",
+      "base_comp": 8,
+      "quote_comp": 4,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "AUD composite +8 vs NZD +4",
+      "rank": 16
+    },
+    {
+      "pair": "NZD/USD",
+      "direction": "SELL",
+      "score": -4,
+      "raw_score": -4,
+      "probability": "LOW",
+      "base_comp": 4,
+      "quote_comp": 8,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "NZD composite +4 vs USD +8",
+      "rank": 17
+    },
+    {
+      "pair": "NZD/JPY",
+      "direction": "BUY",
+      "score": 3,
+      "raw_score": 3,
+      "probability": "LOW",
+      "base_comp": 4,
+      "quote_comp": 1,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "NZD composite +4 vs JPY +1",
+      "rank": 18
+    },
+    {
+      "pair": "EUR/CAD",
+      "direction": "BUY",
+      "score": 2,
+      "raw_score": 2,
+      "probability": "LOW",
+      "base_comp": 1,
+      "quote_comp": -1,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "EUR composite +1 vs CAD -1",
+      "rank": 19
+    },
+    {
+      "pair": "CAD/JPY",
+      "direction": "SELL",
+      "score": -2,
+      "raw_score": -2,
+      "probability": "LOW",
+      "base_comp": -1,
+      "quote_comp": 1,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "CAD composite -1 vs JPY +1",
+      "rank": 20
+    },
+    {
+      "pair": "EUR/JPY",
+      "direction": "NEUTRAL",
+      "score": 0,
+      "raw_score": 0,
+      "probability": "LOW",
+      "base_comp": 1,
+      "quote_comp": 1,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "EUR composite +1 vs JPY +1",
+      "rank": 21
+    },
+    {
+      "pair": "GBP/USD",
+      "direction": "NEUTRAL",
+      "score": 0,
+      "raw_score": 0,
+      "probability": "LOW",
+      "base_comp": 8,
+      "quote_comp": 8,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "GBP composite +8 vs USD +8",
+      "rank": 22
+    },
+    {
+      "pair": "GBP/AUD",
+      "direction": "NEUTRAL",
+      "score": 0,
+      "raw_score": 0,
+      "probability": "LOW",
+      "base_comp": 8,
+      "quote_comp": 8,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "GBP composite +8 vs AUD +8",
+      "rank": 23
+    },
+    {
+      "pair": "AUD/USD",
+      "direction": "NEUTRAL",
+      "score": 0,
+      "raw_score": 0,
+      "probability": "LOW",
+      "base_comp": 8,
+      "quote_comp": 8,
+      "cb_rates": "",
+      "trend": "Moderate",
+      "reason": "AUD composite +8 vs USD +8",
+      "rank": 24
+    }
+  ],
+  "assets": {
+    "GOLD": {
+      "composite": -1,
+      "score": -1,
+      "bias": "COOLED FROM REBOUND",
+      "pillars": {
+        "Positioning": 1,
+        "USD / Macro rates": -1,
+        "Momentum / Trend": -2,
+        "Flows / Demand": 2,
+        "Risk / Liquidity": 0,
+        "Sentiment": -1
+      },
+      "line_items": {
+        "Positioning": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Spec / managed-money net",
+              "actual": "MM +136.8k (reduced)",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-08-25",
+              "next_update": "daily"
+            },
+            {
+              "name": "Weekly positioning change",
+              "actual": "-8.0k",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-08-25",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "USD / Macro rates": {
+          "score": -1,
+          "items": [
+            {
+              "name": "DXY trend",
+              "actual": "DXY ~99.0 post-NFP (mild headwind)",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Real yield / policy path",
+              "actual": "hike odds up but mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Momentum / Trend": {
+          "score": -2,
+          "items": [
+            {
+              "name": "20d price structure",
+              "actual": "pulled back ~4435 from 4485 highs",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Key level hold / break",
+              "actual": "reclaimed from post-Warsh lows",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Flows / Demand": {
+          "score": 2,
+          "items": [
+            {
+              "name": "Institutional / ETF / CB flows",
+              "actual": "CB structural",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structural demand tone",
+              "actual": "debasement + safe-haven mix",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Risk / Liquidity": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Risk-on composite",
+              "actual": "mixed post-NFP",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Liquidity / vol regime",
+              "actual": "ok",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": -1,
+          "items": [
+            {
+              "name": "Retail / crowdedness",
+              "actual": "elevated",
+              "forecast": "—",
+              "impact": -1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        }
+      },
+      "drivers": {
+        "Positioning": 1,
+        "USD / Macro rates": -1,
+        "Momentum / Trend": -2,
+        "Flows / Demand": 2,
+        "Risk / Liquidity": 0,
+        "Sentiment": -1
+      },
+      "cot_net": 136771,
+      "cot_series": "Disagg Managed Money",
+      "cot_as_of": "2026-09-01"
+    },
+    "BTC": {
+      "composite": 8,
+      "score": 8,
+      "bias": "BULLISH / CONSOLIDATING",
+      "pillars": {
+        "Positioning": 0,
+        "USD / Macro rates": 1,
+        "Momentum / Trend": 4,
+        "Flows / Demand": 2,
+        "Risk / Liquidity": 1,
+        "Sentiment": 1
+      },
+      "line_items": {
+        "Positioning": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Spec / managed-money net",
+              "actual": "TFF LF net short",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-25",
+              "next_update": "daily"
+            },
+            {
+              "name": "Weekly positioning change",
+              "actual": "flat/mild",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-25",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "USD / Macro rates": {
+          "score": 1,
+          "items": [
+            {
+              "name": "DXY trend",
+              "actual": "BTC resilient vs USD",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Real yield / policy path",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Momentum / Trend": {
+          "score": 4,
+          "items": [
+            {
+              "name": "20d price structure",
+              "actual": "~79.8k consolidating after 81k test",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Key level hold / break",
+              "actual": "reclaimed 80k firmly",
+              "forecast": "—",
+              "impact": 2,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Flows / Demand": {
+          "score": 2,
+          "items": [
+            {
+              "name": "Institutional / ETF / CB flows",
+              "actual": "ETF constructive",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structural demand tone",
+              "actual": "risk appetite strong",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Risk / Liquidity": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Risk-on composite",
+              "actual": "constructive",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Liquidity / vol regime",
+              "actual": "ok",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 1,
+          "items": [
+            {
+              "name": "Retail / crowdedness",
+              "actual": "not extreme",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        }
+      },
+      "drivers": {
+        "Positioning": 0,
+        "USD / Macro rates": 1,
+        "Momentum / Trend": 4,
+        "Flows / Demand": 2,
+        "Risk / Liquidity": 1,
+        "Sentiment": 1
+      },
+      "cot_net": -7620,
+      "cot_series": "TFF Leveraged Funds",
+      "cot_as_of": "2026-09-01"
+    },
+    "NQ": {
+      "composite": 1,
+      "score": 1,
+      "bias": "MILD BULLISH",
+      "pillars": {
+        "Positioning": 0,
+        "USD / Macro rates": 0,
+        "Momentum / Trend": 1,
+        "Flows / Demand": 0,
+        "Risk / Liquidity": 0,
+        "Sentiment": 0
+      },
+      "line_items": {
+        "Positioning": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Spec / managed-money net",
+              "actual": "TFF LF net short",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-25",
+              "next_update": "daily"
+            },
+            {
+              "name": "Weekly positioning change",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-08-25",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "USD / Macro rates": {
+          "score": 0,
+          "items": [
+            {
+              "name": "DXY trend",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Real yield / policy path",
+              "actual": "hike odds up but contained",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Momentum / Trend": {
+          "score": 1,
+          "items": [
+            {
+              "name": "20d price structure",
+              "actual": "recovered post-NFP",
+              "forecast": "—",
+              "impact": 1,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Key level hold / break",
+              "actual": "range break attempt",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Flows / Demand": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Institutional / ETF / CB flows",
+              "actual": "systematic mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Structural demand tone",
+              "actual": "mixed",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Risk / Liquidity": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Risk-on composite",
+              "actual": "post-NFP risk-on lean",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            },
+            {
+              "name": "Liquidity / vol regime",
+              "actual": "ok",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        },
+        "Sentiment": {
+          "score": 0,
+          "items": [
+            {
+              "name": "Retail / crowdedness",
+              "actual": "not extreme",
+              "forecast": "—",
+              "impact": 0,
+              "last_update": "2026-09-04",
+              "next_update": "daily"
+            }
+          ]
+        }
+      },
+      "drivers": {
+        "Positioning": 0,
+        "USD / Macro rates": 0,
+        "Momentum / Trend": 1,
+        "Flows / Demand": 0,
+        "Risk / Liquidity": 0,
+        "Sentiment": 0
+      },
+      "cot_net": -14092,
+      "cot_series": "TFF Leveraged Funds",
+      "cot_as_of": "2026-09-01"
+    }
+  },
+  "sentiment": {
+    "GBP/USD": {
+      "long": 20,
+      "short": 80,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "EUR/USD": {
+      "long": 37,
+      "short": 63,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "USD/JPY": {
+      "long": 69,
+      "short": 31,
+      "crowd_bias": "CONTRARIAN SHORT"
+    },
+    "AUD/USD": {
+      "long": 6,
+      "short": 94,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "USD/CAD": {
+      "long": 51,
+      "short": 49,
+      "crowd_bias": "NEUTRAL"
+    },
+    "NZD/USD": {
+      "long": 40,
+      "short": 60,
+      "crowd_bias": "MILD CONTRARIAN LONG"
+    },
+    "USD/CHF": {
+      "long": 53,
+      "short": 47,
+      "crowd_bias": "NEUTRAL"
+    },
+    "EUR/GBP": {
+      "long": 44,
+      "short": 56,
+      "crowd_bias": "NEUTRAL"
+    },
+    "GBP/JPY": {
+      "long": 32,
+      "short": 68,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "EUR/JPY": {
+      "long": 76,
+      "short": 24,
+      "crowd_bias": "CONTRARIAN SHORT"
+    },
+    "AUD/JPY": {
+      "long": 35,
+      "short": 65,
+      "crowd_bias": "MILD CONTRARIAN LONG"
+    },
+    "GBP/CHF": {
+      "long": 28,
+      "short": 72,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "EUR/CHF": {
+      "long": 5,
+      "short": 95,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "AUD/CHF": {
+      "long": 30,
+      "short": 70,
+      "crowd_bias": "CONTRARIAN LONG"
+    },
+    "AUD/NZD": {
+      "long": 48,
+      "short": 52,
+      "crowd_bias": "NEUTRAL"
+    },
+    "EUR/AUD": {
+      "long": 55,
+      "short": 45,
+      "crowd_bias": "NEUTRAL"
+    },
+    "GBP/AUD": {
+      "long": 47,
+      "short": 53,
+      "crowd_bias": "NEUTRAL"
+    },
+    "NZD/JPY": {
+      "long": 38,
+      "short": 62,
+      "crowd_bias": "MILD CONTRARIAN LONG"
+    },
+    "CAD/JPY": {
+      "long": 42,
+      "short": 58,
+      "crowd_bias": "NEUTRAL"
+    },
+    "CHF/JPY": {
+      "long": 45,
+      "short": 55,
+      "crowd_bias": "NEUTRAL"
+    },
+    "EUR/CAD": {
+      "long": 46,
+      "short": 54,
+      "crowd_bias": "NEUTRAL"
+    },
+    "GBP/CAD": {
+      "long": 39,
+      "short": 61,
+      "crowd_bias": "MILD CONTRARIAN LONG"
+    },
+    "AUD/CAD": {
+      "long": 44,
+      "short": 56,
+      "crowd_bias": "NEUTRAL"
+    },
+    "NZD/CAD": {
+      "long": 42,
+      "short": 58,
+      "crowd_bias": "NEUTRAL"
+    },
+    "EUR/NZD": {
+      "long": 50,
+      "short": 50,
+      "crowd_bias": "NEUTRAL"
+    },
+    "GBP/NZD": {
+      "long": 45,
+      "short": 55,
+      "crowd_bias": "NEUTRAL"
+    },
+    "NZD/CHF": {
+      "long": 36,
+      "short": 64,
+      "crowd_bias": "MILD CONTRARIAN LONG"
+    },
+    "CAD/CHF": {
+      "long": 43,
+      "short": 57,
+      "crowd_bias": "NEUTRAL"
+    }
+  },
+  "cot": {
+    "GBP": {
+      "net": -58836,
+      "weekly_change_contracts": -9261,
+      "weekly_change": "decreasing",
+      "index": 28,
+      "percentile_3y": 28,
+      "bias": "net short, widened",
+      "score": -1,
+      "source": "CFTC TFF / Disagg as of 2026-09-08 (released 2026-09-11)",
+      "weekly_score": -1,
+      "index_score": 0,
+      "series": "TFF Leveraged Funds"
+    },
+    "AUD": {
+      "net": -34870,
+      "weekly_change_contracts": 4536,
+      "weekly_change": "short_covering",
+      "index": 42,
+      "percentile_3y": 42,
+      "bias": "net short, narrowed",
+      "score": 0,
+      "source": "CFTC TFF / Disagg as of 2026-09-08 (released 2026-09-11)",
+      "weekly_score": 0,
+      "index_score": 0,
+      "series": "TFF Leveraged Funds"
+    },
+    "EUR": {
+      "net": -42616,
+      "weekly_change_contracts": -17691,
+      "weekly_change": "decreasing",
+      "index": 12,
+      "percentile_3y": 12,
+      "bias": "shorts widened",
+      "score": -1,
+      "source": "CFTC TFF / Disagg as of 2026-09-08 (released 2026-09-11)",
+      "weekly_score": -1,
+      "index_score": 0,
+      "series": "TFF Leveraged Funds"
+    },
+    "JPY": {
+      "net": 10796,
+      "weekly_change_contracts": 103023,
+      "weekly_change": "increasing",
+      "index": 55,
+      "percentile_3y": 55,
+      "bias": "FLIPPED to net long — major",
+      "score": 2,
+      "source": "CFTC TFF / Disagg as of 2026-09-08 (released 2026-09-11)",
+      "weekly_score": 2,
+      "index_score": 0,
+      "series": "TFF Leveraged Funds"
+    },
+    "CHF": {
+      "net": -29985,
+      "weekly_change_contracts": -7109,
+      "weekly_change": "decreasing",
+      "index": 25,
+      "percentile_3y": 25,
+      "bias": "shorts widened",
+      "score": -1,
+      "source": "CFTC TFF / Disagg as of 2026-09-08 (released 2026-09-11)",
+      "weekly_score": -1,
+      "index_score": 0,
+      "series": "TFF Leveraged Funds"
+    },
+    "CAD": {
+      "net": -70499,
+      "weekly_change_contracts": 37644,
+      "weekly_change": "short_covering",
+      "index": 22,
+      "percentile_3y": 22,
+      "bias": "shorts narrowed sharply",
+      "score": 1,
+      "source": "CFTC TFF / Disagg as of 2026-09-08 (released 2026-09-11)",
+      "weekly_score": 1,
+      "index_score": 0,
+      "series": "TFF Leveraged Funds"
+    },
+    "NZD": {
+      "net": 6232,
+      "weekly_change_contracts": 14253,
+      "weekly_change": "increasing",
+      "index": 58,
+      "percentile_3y": 58,
+      "bias": "net long increased",
+      "score": 1,
+      "source": "CFTC TFF / Disagg as of 2026-09-08 (released 2026-09-11)",
+      "weekly_score": 1,
+      "index_score": 0,
+      "series": "TFF Leveraged Funds"
+    },
+    "USD": {
+      "net": 8500,
+      "weekly_change_contracts": -600,
+      "weekly_change": "decreasing",
+      "index": 52,
+      "percentile_3y": 52,
+      "bias": "mild long",
+      "score": 0,
+      "source": "CFTC TFF / Disagg as of 2026-09-08 (released 2026-09-11)",
+      "weekly_score": 0,
+      "index_score": 0,
+      "series": "TFF Leveraged Funds"
+    },
+    "GOLD": {
+      "net": 136771,
+      "weekly_change_contracts": -7976,
+      "weekly_change": "decreasing",
+      "index": 66,
+      "percentile_3y": 66,
+      "bias": "long reduced",
+      "score": 0,
+      "source": "CFTC TFF / Disagg as of 2026-09-08 (released 2026-09-11)",
+      "weekly_score": 0,
+      "index_score": 0,
+      "series": "Disagg Managed Money"
+    },
+    "BTC": {
+      "net": -7620,
+      "weekly_change_contracts": 469,
+      "weekly_change": "short_covering",
+      "index": 35,
+      "percentile_3y": 35,
+      "bias": "short covering",
+      "score": 0,
+      "source": "CFTC TFF / Disagg as of 2026-09-08 (released 2026-09-11)",
+      "weekly_score": 0,
+      "index_score": 0,
+      "series": "TFF Leveraged Funds"
+    },
+    "NQ": {
+      "net": -14092,
+      "weekly_change_contracts": 27140,
+      "weekly_change": "short_covering",
+      "index": 40,
+      "percentile_3y": 40,
+      "bias": "short covering (large)",
+      "score": 0,
+      "source": "CFTC TFF / Disagg as of 2026-09-08 (released 2026-09-11)",
+      "weekly_score": 0,
+      "index_score": 0,
+      "series": "TFF Leveraged Funds"
+    }
+  },
+  "cot_as_of": "2026-09-08 (CFTC official — LIVE, rescored). Next cycle ~2026-09-18",
+  "sentiment_as_of": "2026-09-14 (retail aggregates)",
+  "prices": {
+    "EUR/USD": 1.1545,
+    "EURUSD": 1.1545,
+    "GBP/USD": 1.3485,
+    "GBPUSD": 1.3485,
+    "USD/JPY": 154.4,
+    "USDJPY": 154.4,
+    "USD/CHF": 0.8185,
+    "USDCHF": 0.8185,
+    "AUD/USD": 0.7135,
+    "AUDUSD": 0.7135,
+    "USD/CAD": 1.389,
+    "USDCAD": 1.389,
+    "NZD/USD": 0.5785,
+    "NZDUSD": 0.5785,
+    "EUR/GBP": 0.8561,
+    "EURGBP": 0.8561,
+    "EUR/JPY": 178.25,
+    "EURJPY": 178.25,
+    "EUR/CHF": 0.945,
+    "EURCHF": 0.945,
+    "EUR/AUD": 1.618,
+    "EURAUD": 1.618,
+    "EUR/CAD": 1.6035,
+    "EURCAD": 1.6035,
+    "EUR/NZD": 1.996,
+    "EURNZD": 1.996,
+    "GBP/JPY": 208.15,
+    "GBPJPY": 208.15,
+    "GBP/CHF": 1.1035,
+    "GBPCHF": 1.1035,
+    "GBP/AUD": 1.89,
+    "GBPAUD": 1.89,
+    "GBP/CAD": 1.873,
+    "GBPCAD": 1.873,
+    "GBP/NZD": 2.331,
+    "GBPNZD": 2.331,
+    "AUD/JPY": 110.15,
+    "AUDJPY": 110.15,
+    "AUD/CHF": 0.584,
+    "AUDCHF": 0.584,
+    "AUD/CAD": 0.9915,
+    "AUDCAD": 0.9915,
+    "AUD/NZD": 1.2335,
+    "AUDNZD": 1.2335,
+    "NZD/JPY": 89.3,
+    "NZDJPY": 89.3,
+    "NZD/CHF": 0.4735,
+    "NZDCHF": 0.4735,
+    "NZD/CAD": 0.8035,
+    "NZDCAD": 0.8035,
+    "CAD/JPY": 111.15,
+    "CADJPY": 111.15,
+    "CAD/CHF": 0.5895,
+    "CADCHF": 0.5895,
+    "CHF/JPY": 188.6,
+    "CHFJPY": 188.6,
+    "XAUUSD": 4306.0,
+    "XAU/USD": 4306.0,
+    "GOLD": 4306.0,
+    "BTCUSD": 77700.0,
+    "BTC/USD": 77700.0,
+    "BTC": 77700.0,
+    "NQ": 29150.0,
+    "DXY": 99.45
+  },
+  "prices_prev_close": {
+    "EUR/USD": 1.159,
+    "GBP/USD": 1.3505,
+    "USD/JPY": 154.05,
+    "USD/CHF": 0.8155,
+    "AUD/USD": 0.7165,
+    "USD/CAD": 1.386,
+    "NZD/USD": 0.5815,
+    "XAUUSD": 4390.0,
+    "BTCUSD": 77500.0,
+    "NQ": 29080.0,
+    "DXY": 99.12
+  },
+  "data_status": {
+    "live": [
+      "Prices: Monday 14 Sep live levels",
+      "Full 28-pair Sentiment (as of 2026-09-14)",
+      "Technicals / structure (light Monday re-eval)",
+      "Trade Playbook re-scored from composites",
+      "COT LIVE — as of 2026-09-08 (released 2026-09-11), no new week yet",
+      "US CPI / PPI / ECB locked",
+      "Calendar + headline scan"
+    ],
+    "carried": [
+      "Non-daily residual G8 macro pillars (NFP/Canada jobs; German IP; Japan GDP) — no new official prints"
+    ],
+    "missing": [],
+    "notes": "Monday report. COT still 8-Sep week (next ~18 Sep). No new official macro prints. Sentiment refreshed. Prices live."
+  },
+  "cot_series": "TFF Leveraged Funds",
+  "scoring_integrity": {
+    "rule": "fixed catalog; pillar=sum(lines); composite=sum(pillars); COT=2 rows only; news display-only zero influence; PAIR_SETUPS_SCHEMA_ABSOLUTE",
+    "verified": true,
+    "cot_update": "LIVE as of 2026-09-08 (released 2026-09-11) — no new week; next ~2026-09-18",
+    "audit_date": "2026-09-14",
+    "news_feeds_rule": "news_feeds display-only. Zero influence on scores.",
+    "freshness_audit": {
+      "prices_as_of": "PASS (2026-09-14 live)",
+      "sentiment_as_of": "PASS (2026-09-14)",
+      "cot_as_of": "PASS (2026-09-08 LIVE, no new release)",
+      "macro_pillars": "PASS (no new official prints; prior locks intact)",
+      "data_status_live_honest": "PASS"
+    }
+  },
+  "report_date": "2026-09-14",
+  "session": "Weekday (Mon) · Asia/Europe open",
+  "cot_series_primary": "TFF Leveraged Funds (FX) · Disagg Managed Money (GOLD)",
+  "calendar_notes": [
+    "Mon 14: quiet",
+    "Tue 15 – Wed 16: FOMC (decision + SEP/dots Wed 16 Sep 14:00 ET)",
+    "Next COT ~18 Sep"
+  ],
+  "prices_as_of": {
+    "prev_close_date": "2026-09-12",
+    "live_as_of": "2026-09-14",
+    "coverage": "Monday live / Asia session"
+  },
+  "news_highlights": [
+    {
+      "currency_or_asset": "USD",
+      "headline_summary": "FOMC 15-16 Sep is the dominant catalyst. Market pricing elevated hike odds into the meeting after hot CPI/PPI sequence. USD Inflation pillar remains at full support.",
+      "tag": "BULLISH",
+      "tier": 1,
+      "as_of": "2026-09-14",
+      "expires_or_review": "2026-09-17"
+    },
+    {
+      "currency_or_asset": "JPY",
+      "headline_summary": "COT 8-Sep week still in force: Leveraged Funds flipped to net long +10.8k (+103k WoW). Major positioning shift remains the key JPY development until next release.",
+      "tag": "NEUTRAL",
+      "tier": 1,
+      "as_of": "2026-09-14",
+      "expires_or_review": "2026-09-18"
+    },
+    {
+      "currency_or_asset": "ALL",
+      "headline_summary": "No new official G8 macro prints over the weekend. Composites and pillars carried intact. Thin Monday liquidity ahead of FOMC.",
+      "tag": "NEUTRAL",
+      "tier": 2,
+      "as_of": "2026-09-14",
+      "expires_or_review": "2026-09-15"
+    }
+  ],
+  "news_feeds": [
+    {
+      "source": "FXMOJIX | FUNDAMENTAL",
+      "as_of": "2026-09-14",
+      "title": "Monday quiet · FOMC week begins · COT unchanged",
+      "body": "No new official data. CPI (core hot), PPI and ECB hike remain locked. USD Inflation pillar at full support.\n\nCOT still the 8-Sep week (JPY major flip to net long). Next CFTC release ~18 Sep.\n\nPrimary catalyst: FOMC 15-16 Sep — decision + SEP/dot plot Wednesday 16 Sep 14:00 ET.\n\nThin Monday liquidity. Composites unchanged.",
+      "tags": [
+        "MONDAY",
+        "FOMC",
+        "COT"
+      ],
+      "chart_url": null
+    }
+  ],
+  "cot_history": {
+    "as_of": "2026-09-08",
+    "series": "TFF Leveraged Funds (Lev_Money Long − Short)",
+    "source_file": "CFTC fut_fin_txt_2026.zip / FinFutYY.txt",
+    "note": "Full history Jan–Aug 2026 + special 3-week extension (25 Aug / 01 Sep / 08 Sep corrected). No interpolation.",
+    "assets": {
+      "AUD": [
+        {
+          "date": "2026-01-06",
+          "net": 35115,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-13",
+          "net": 30217,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-20",
+          "net": 27558,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-27",
+          "net": 44726,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-03",
+          "net": 59409,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-10",
+          "net": 64904,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-17",
+          "net": 70260,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-24",
+          "net": 64653,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-03",
+          "net": 54635,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-10",
+          "net": 46568,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-17",
+          "net": 45359,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-24",
+          "net": 49145,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-31",
+          "net": 52569,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-07",
+          "net": 45901,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-14",
+          "net": 43642,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-21",
+          "net": 48325,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-28",
+          "net": 47855,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-05",
+          "net": 56600,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-12",
+          "net": 55851,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-19",
+          "net": 61178,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-26",
+          "net": 60234,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-02",
+          "net": 58800,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-09",
+          "net": 42292,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-16",
+          "net": 41538,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-23",
+          "net": 39111,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-30",
+          "net": 31777,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-07",
+          "net": 29683,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-14",
+          "net": 27222,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-21",
+          "net": 24788,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-28",
+          "net": 27618,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-04",
+          "net": 40637,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-11",
+          "net": 48541,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-18",
+          "net": 52108,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-25",
+          "net": 54061,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-01",
+          "net": 49662,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-08",
+          "net": -34870,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC official"
+        }
+      ],
+      "BTC": [
+        {
+          "date": "2026-01-06",
+          "net": -11740,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-13",
+          "net": -12718,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-20",
+          "net": -11558,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-27",
+          "net": -12396,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-03",
+          "net": -11425,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-10",
+          "net": -9499,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-17",
+          "net": -8876,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-24",
+          "net": -8236,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-03",
+          "net": -9195,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-10",
+          "net": -9679,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-17",
+          "net": -10860,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-24",
+          "net": -8351,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-31",
+          "net": -8052,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-07",
+          "net": -8427,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-14",
+          "net": -10239,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-21",
+          "net": -10722,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-28",
+          "net": -10360,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-05",
+          "net": -11738,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-12",
+          "net": -11070,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-19",
+          "net": -8961,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-26",
+          "net": -8634,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-02",
+          "net": -6558,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-09",
+          "net": -5995,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-16",
+          "net": -6607,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-23",
+          "net": -6130,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-30",
+          "net": -5313,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-07",
+          "net": -6717,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-14",
+          "net": -7491,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-21",
+          "net": -7949,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-28",
+          "net": -6873,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-04",
+          "net": -7240,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-11",
+          "net": -7052,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-18",
+          "net": -7439,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-25",
+          "net": -8089,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-01",
+          "net": -7620,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-08",
+          "net": -7620,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC official"
+        }
+      ],
+      "CAD": [
+        {
+          "date": "2026-01-06",
+          "net": -57096,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-13",
+          "net": -55699,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-20",
+          "net": -57357,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-27",
+          "net": -52216,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-03",
+          "net": -52855,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-10",
+          "net": -51008,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-17",
+          "net": -42034,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-24",
+          "net": -34101,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-03",
+          "net": -41371,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-10",
+          "net": -37159,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-17",
+          "net": -37852,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-24",
+          "net": -31700,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-31",
+          "net": -42910,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-07",
+          "net": -44144,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-14",
+          "net": -61404,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-21",
+          "net": -64215,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-28",
+          "net": -53828,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-05",
+          "net": -47758,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-12",
+          "net": -37663,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-19",
+          "net": -38654,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-26",
+          "net": -38095,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-02",
+          "net": -44601,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-09",
+          "net": -58623,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-16",
+          "net": -65053,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-23",
+          "net": -83377,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-30",
+          "net": -88101,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-07",
+          "net": -85957,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-14",
+          "net": -92771,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-21",
+          "net": -98377,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-28",
+          "net": -102495,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-04",
+          "net": -101748,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-11",
+          "net": -92005,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-18",
+          "net": -88897,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-25",
+          "net": -72092,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-01",
+          "net": -68750,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-08",
+          "net": -70499,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC official"
+        }
+      ],
+      "CHF": [
+        {
+          "date": "2026-01-06",
+          "net": -1240,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-13",
+          "net": -571,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-20",
+          "net": -35,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-27",
+          "net": -725,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-03",
+          "net": 361,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-10",
+          "net": -800,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-17",
+          "net": 2455,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-24",
+          "net": 3863,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-03",
+          "net": 4456,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-10",
+          "net": 4280,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-17",
+          "net": 513,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-24",
+          "net": 235,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-31",
+          "net": 1490,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-07",
+          "net": -97,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-14",
+          "net": -3421,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-21",
+          "net": -3766,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-28",
+          "net": -5174,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-05",
+          "net": -6634,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-12",
+          "net": -7708,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-19",
+          "net": -4845,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-26",
+          "net": -4823,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-02",
+          "net": -9949,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-09",
+          "net": -10785,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-16",
+          "net": -12366,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-23",
+          "net": -13816,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-30",
+          "net": -9666,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-07",
+          "net": -7218,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-14",
+          "net": -9500,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-21",
+          "net": -8897,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-28",
+          "net": -9647,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-04",
+          "net": -10084,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-11",
+          "net": -11432,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-18",
+          "net": -9071,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-25",
+          "net": -8825,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-01",
+          "net": -10298,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-08",
+          "net": -29985,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC official"
+        }
+      ],
+      "EUR": [
+        {
+          "date": "2026-01-06",
+          "net": 50600,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-13",
+          "net": 25392,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-20",
+          "net": 10236,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-27",
+          "net": 26361,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-03",
+          "net": 42055,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-10",
+          "net": 50204,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-17",
+          "net": 43549,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-24",
+          "net": 36797,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-03",
+          "net": 29632,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-10",
+          "net": 5231,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-17",
+          "net": -6952,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-24",
+          "net": -13538,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-31",
+          "net": 3947,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-07",
+          "net": 882,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-14",
+          "net": 25382,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-21",
+          "net": 20317,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-28",
+          "net": 11594,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-05",
+          "net": 11846,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-12",
+          "net": 18003,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-19",
+          "net": 16317,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-26",
+          "net": 7296,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-02",
+          "net": 12027,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-09",
+          "net": -17388,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-16",
+          "net": -8926,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-23",
+          "net": -15410,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-30",
+          "net": -32644,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-07",
+          "net": -45461,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-14",
+          "net": -53691,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-21",
+          "net": -56671,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-28",
+          "net": -65198,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-04",
+          "net": -52205,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-11",
+          "net": -60600,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-18",
+          "net": -57716,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-25",
+          "net": -38359,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-01",
+          "net": -38173,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-08",
+          "net": -42616,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC official"
+        }
+      ],
+      "GBP": [
+        {
+          "date": "2026-01-06",
+          "net": 28947,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-13",
+          "net": 38090,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-20",
+          "net": 40778,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-27",
+          "net": 37143,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-03",
+          "net": 35411,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-10",
+          "net": 43479,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-17",
+          "net": 42366,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-24",
+          "net": 40151,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-03",
+          "net": 34506,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-10",
+          "net": 20102,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-17",
+          "net": 11768,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-24",
+          "net": 15716,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-31",
+          "net": 29932,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-07",
+          "net": 26533,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-14",
+          "net": 22331,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-21",
+          "net": 29137,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-28",
+          "net": 28882,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-05",
+          "net": 26049,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-12",
+          "net": 37302,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-19",
+          "net": 31369,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-26",
+          "net": 28829,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-02",
+          "net": 27353,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-09",
+          "net": 22312,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-16",
+          "net": 16836,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-23",
+          "net": 7567,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-30",
+          "net": 16273,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-07",
+          "net": 17979,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-14",
+          "net": 28541,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-21",
+          "net": 33236,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-28",
+          "net": 41097,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-04",
+          "net": 38174,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-11",
+          "net": 40670,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-18",
+          "net": 42877,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-25",
+          "net": 47909,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-01",
+          "net": 43167,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-08",
+          "net": -58836,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC official"
+        }
+      ],
+      "JPY": [
+        {
+          "date": "2026-01-06",
+          "net": -63230,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-13",
+          "net": -98650,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-20",
+          "net": -84737,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-27",
+          "net": -71766,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-03",
+          "net": -54452,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-10",
+          "net": -53867,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-17",
+          "net": -29321,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-24",
+          "net": -26317,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-03",
+          "net": -34225,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-10",
+          "net": -49219,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-17",
+          "net": -65429,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-24",
+          "net": -54852,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-31",
+          "net": -46182,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-07",
+          "net": -51110,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-14",
+          "net": -54445,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-21",
+          "net": -68497,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-28",
+          "net": -75802,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-05",
+          "net": -52897,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-12",
+          "net": -62440,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-19",
+          "net": -64945,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-26",
+          "net": -70508,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-02",
+          "net": -88063,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-09",
+          "net": -99844,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-16",
+          "net": -96772,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-23",
+          "net": -97092,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-30",
+          "net": -115400,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-07",
+          "net": -90083,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-14",
+          "net": -90461,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-21",
+          "net": -96185,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-28",
+          "net": -101990,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-04",
+          "net": -60825,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-11",
+          "net": -53070,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-18",
+          "net": -67971,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-25",
+          "net": -77042,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-01",
+          "net": -102188,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-08",
+          "net": 10796,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC official"
+        }
+      ],
+      "NQ": [
+        {
+          "date": "2026-01-06",
+          "net": -18451,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-13",
+          "net": -22748,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-20",
+          "net": -27012,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-27",
+          "net": -16838,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-03",
+          "net": -11380,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-10",
+          "net": -8601,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-17",
+          "net": -9316,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-24",
+          "net": -16554,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-03",
+          "net": -21789,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-10",
+          "net": -25167,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-17",
+          "net": -31462,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-24",
+          "net": -39379,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-31",
+          "net": -37103,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-07",
+          "net": -38828,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-14",
+          "net": -49667,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-21",
+          "net": -39000,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-28",
+          "net": -35950,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-05",
+          "net": -36100,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-12",
+          "net": -52042,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-19",
+          "net": -45371,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-26",
+          "net": -51679,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-02",
+          "net": -53650,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-09",
+          "net": -34306,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-16",
+          "net": -28154,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-23",
+          "net": -51062,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-30",
+          "net": -68617,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-07",
+          "net": -55013,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-14",
+          "net": -64163,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-21",
+          "net": -74690,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-28",
+          "net": -58298,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-04",
+          "net": -78333,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-11",
+          "net": -89125,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-18",
+          "net": -61771,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-25",
+          "net": -41232,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-01",
+          "net": -14092,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-08",
+          "net": -14092,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC official"
+        }
+      ],
+      "NZD": [
+        {
+          "date": "2026-01-06",
+          "net": -10605,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-13",
+          "net": -10133,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-20",
+          "net": -5119,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-27",
+          "net": -11658,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-03",
+          "net": -10597,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-10",
+          "net": -10785,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-17",
+          "net": -12465,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-24",
+          "net": -10262,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-03",
+          "net": -10295,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-10",
+          "net": -4166,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-17",
+          "net": -15917,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-24",
+          "net": -16730,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-31",
+          "net": -17798,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-07",
+          "net": -15825,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-14",
+          "net": -17091,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-21",
+          "net": -18062,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-28",
+          "net": -16833,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-05",
+          "net": -19294,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-12",
+          "net": -19435,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-19",
+          "net": -15336,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-26",
+          "net": -13670,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-02",
+          "net": -27725,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-09",
+          "net": -22254,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-16",
+          "net": -22187,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-23",
+          "net": -22822,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-30",
+          "net": -25285,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-07",
+          "net": -27201,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-14",
+          "net": -29002,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-21",
+          "net": -31086,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-28",
+          "net": -30027,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-04",
+          "net": -30290,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-11",
+          "net": -33461,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-18",
+          "net": -26806,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-25",
+          "net": -31000,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-01",
+          "net": -18500,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-08",
+          "net": 6232,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC official"
+        }
+      ],
+      "USD": [
+        {
+          "date": "2026-01-06",
+          "net": 766,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-13",
+          "net": -3309,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-20",
+          "net": -4122,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-01-27",
+          "net": 375,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-03",
+          "net": 757,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-10",
+          "net": 2649,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-17",
+          "net": 1892,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-02-24",
+          "net": 850,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-03",
+          "net": -4547,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-10",
+          "net": -11683,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-17",
+          "net": -5615,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-24",
+          "net": -6921,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-03-31",
+          "net": -8832,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-07",
+          "net": -8641,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-14",
+          "net": -3095,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-21",
+          "net": -2409,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-04-28",
+          "net": -3161,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-05",
+          "net": -5805,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-12",
+          "net": -4751,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-19",
+          "net": -11716,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-05-26",
+          "net": -12530,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-02",
+          "net": -11112,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-09",
+          "net": -13656,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-16",
+          "net": -1870,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-23",
+          "net": -5352,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-06-30",
+          "net": -5580,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-07",
+          "net": -4454,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-14",
+          "net": -4866,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-21",
+          "net": -1938,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-07-28",
+          "net": -1601,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-04",
+          "net": 3849,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-11",
+          "net": 5772,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-18",
+          "net": 8112,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC"
+        },
+        {
+          "date": "2026-08-25",
+          "net": 9100,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-01",
+          "net": 8500,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-08",
+          "net": 8500,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC official"
+        }
+      ],
+      "GOLD": [
+        {
+          "date": "2026-01-06",
+          "net": 123213,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-01-13",
+          "net": 134745,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-01-20",
+          "net": 137444,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-01-27",
+          "net": 118159,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-02-03",
+          "net": 92072,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-02-10",
+          "net": 92022,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-02-17",
+          "net": 95893,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-02-24",
+          "net": 95974,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-03-03",
+          "net": 97917,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-03-10",
+          "net": 98399,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-03-17",
+          "net": 102043,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-03-24",
+          "net": 91621,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-03-31",
+          "net": 92814,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-04-07",
+          "net": 90032,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-04-14",
+          "net": 95141,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-04-21",
+          "net": 92976,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-04-28",
+          "net": 89752,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-05-05",
+          "net": 94254,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-05-12",
+          "net": 98015,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-05-19",
+          "net": 93540,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-05-26",
+          "net": 97446,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-06-02",
+          "net": 112179,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-06-09",
+          "net": 105863,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-06-16",
+          "net": 113721,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-06-23",
+          "net": 115395,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-06-30",
+          "net": 120091,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-07-07",
+          "net": 116161,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-07-14",
+          "net": 120779,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-07-21",
+          "net": 124831,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-07-28",
+          "net": 119795,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-08-04",
+          "net": 130766,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-08-11",
+          "net": 137662,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-08-18",
+          "net": 141648,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC Disagg M_Money"
+        },
+        {
+          "date": "2026-08-25",
+          "net": 144747,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-01",
+          "net": 136771,
+          "index": null,
+          "percentile_3y": null,
+          "source": "special fix"
+        },
+        {
+          "date": "2026-09-08",
+          "net": 136771,
+          "index": null,
+          "percentile_3y": null,
+          "source": "CFTC official"
+        }
+      ]
+    },
+    "gold_series": "Disaggregated Managed Money"
+  }
+}
